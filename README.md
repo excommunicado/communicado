@@ -9,7 +9,7 @@ block their emissions.
 The lists are updated as frequently as possible (usually several times per day
 during the week) and can be downloaded from the github repository here:
 
-https://github.com/antibodyMX/communicado
+https://github.com/excommunicado/communicado
 
 The lists and DNSBL are free and open access for personal use.  Commercial or
 corporate users are welcome to mirror the domain list, but please run your own
@@ -27,7 +27,7 @@ Exim
 ====
 
 Should you use Exim, you can cron fetching the data file from the following:
-    <https://raw.github.com/antibodyMX/communicado/master/hepworth.txt>
+    <https://raw.github.com/excommunicado/communicado/master/hepworth.txt>
 
 And if you use Exim, the ACLs for the flat-files are:
 
