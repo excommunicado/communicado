@@ -386,6 +386,7 @@ angonosena.co.uk
 aniamoiseogler.com
 anilaowas.co.uk
 animebelt.com
+animedb.net
 animedownloads.org
 animeoav.com
 animeonlinewatch.com
@@ -5325,6 +5326,7 @@ mailer.angonosena.co.uk
 mailer.aniamoiseogler.com
 mailer.anilaowas.co.uk
 mailer.animebelt.com
+mailer.animedb.net
 mailer.animedownloads.org
 mailer.animeoav.com
 mailer.animeonlinewatch.com
