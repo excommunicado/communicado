@@ -747,6 +747,7 @@ batarazania.co.uk
 batecevo.com
 bathroomlights.org
 batobatina.co.uk
+battlehymn.org
 batuanielo.co.uk
 bauangilos.co.uk
 bauangyo.co.uk
@@ -5690,6 +5691,7 @@ mailer.batarazania.co.uk
 mailer.batecevo.com
 mailer.bathroomlights.org
 mailer.batobatina.co.uk
+mailer.battlehymn.org
 mailer.batuanielo.co.uk
 mailer.bauangilos.co.uk
 mailer.bauangyo.co.uk
