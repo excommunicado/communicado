@@ -2597,6 +2597,7 @@ fantasistas.com
 farmingmachinery.net
 farmingxchange.org
 fasclapis.com
+fashmode.com
 fast-ptc.com
 fastandbigger.com
 fastassistant.com
@@ -3220,6 +3221,7 @@ guidanceinput.com
 guidinglightreserves.com
 guiguintos.co.uk
 guihulngan.co.uk
+guilddesigns.com
 guillermos.co.uk
 guimarasta.co.uk
 guimbalete.co.uk
@@ -7541,6 +7543,7 @@ mailer.fantasistas.com
 mailer.farmingmachinery.net
 mailer.farmingxchange.org
 mailer.fasclapis.com
+mailer.fashmode.com
 mailer.fast-ptc.com
 mailer.fastandbigger.com
 mailer.fastassistant.com
@@ -8164,6 +8167,7 @@ mailer.guidanceinput.com
 mailer.guidinglightreserves.com
 mailer.guiguintos.co.uk
 mailer.guihulngan.co.uk
+mailer.guilddesigns.com
 mailer.guillermos.co.uk
 mailer.guimarasta.co.uk
 mailer.guimbalete.co.uk
