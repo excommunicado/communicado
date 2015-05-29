@@ -112,6 +112,7 @@ aditeractive.com
 adkraze.com
 adminlounge.net
 admixclicks.com
+admobite.com
 adplimus.com
 adplimut.com
 adpowerserver.com
@@ -5060,6 +5061,7 @@ mailer.aditeractive.com
 mailer.adkraze.com
 mailer.adminlounge.net
 mailer.admixclicks.com
+mailer.admobite.com
 mailer.adplimus.com
 mailer.adplimut.com
 mailer.adpowerserver.com
