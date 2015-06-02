@@ -2602,6 +2602,7 @@ fantasistas.com
 farmingmachinery.net
 farmingxchange.org
 fasclapis.com
+fashionsponges.com
 fashmode.com
 fast-ptc.com
 fastandbigger.com
@@ -3745,6 +3746,7 @@ imhdesign.com
 imicampaign.com
 iminmyelement.com
 immediateness.com
+imobilewebdesign.net
 imogedbusy.com
 impactpointtech.com
 impasugong.co.uk
@@ -7557,6 +7559,7 @@ mailer.fantasistas.com
 mailer.farmingmachinery.net
 mailer.farmingxchange.org
 mailer.fasclapis.com
+mailer.fashionsponges.com
 mailer.fashmode.com
 mailer.fast-ptc.com
 mailer.fastandbigger.com
@@ -8700,6 +8703,7 @@ mailer.imhdesign.com
 mailer.imicampaign.com
 mailer.iminmyelement.com
 mailer.immediateness.com
+mailer.imobilewebdesign.net
 mailer.imogedbusy.com
 mailer.impactpointtech.com
 mailer.impasugong.co.uk
@@ -13068,6 +13072,7 @@ mailer.virtuousmind.com
 mailer.virtuouswriting.com
 mailer.visavisthesalonh.com
 mailer.visionfuss.com
+mailer.visitnesia.com
 mailer.vitafortis.net
 mailer.vitamindress.com
 mailer.vitanx.com
@@ -13908,6 +13913,7 @@ mailer.zipcah.com
 mailer.zirelshop.net
 mailer.zoey-d.org
 mailer.zohoserving.com
+mailer.zonedecoration.com
 mailer.zonoflex.com
 mailer.zoopslab.com
 mailer.zopicor.com
@@ -17111,6 +17117,7 @@ virtuousmind.com
 virtuouswriting.com
 visavisthesalonh.com
 visionfuss.com
+visitnesia.com
 vitafortis.net
 vitamindress.com
 vitanx.com
@@ -17951,6 +17958,7 @@ zipcah.com
 zirelshop.net
 zoey-d.org
 zohoserving.com
+zonedecoration.com
 zonoflex.com
 zoopslab.com
 zopicor.com
