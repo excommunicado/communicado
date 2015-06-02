@@ -1678,6 +1678,7 @@ cruvolge.co.uk
 cruztenos.co.uk
 cryptery.com
 cryptocastle.com
+cryptocomparison.com
 cryptopaperwallets.com
 cryptowater.com
 ctfsbank.com
@@ -6635,6 +6636,7 @@ mailer.cruvolge.co.uk
 mailer.cruztenos.co.uk
 mailer.cryptery.com
 mailer.cryptocastle.com
+mailer.cryptocomparison.com
 mailer.cryptopaperwallets.com
 mailer.cryptowater.com
 mailer.ctfsbank.com
