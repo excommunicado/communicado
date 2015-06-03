@@ -11708,6 +11708,7 @@ mailer.rirvideos.net
 mailer.risen-network.com
 mailer.risiko-los.com
 mailer.ritterth.com
+mailer.rivenditore.org
 mailer.rivirally.co.uk
 mailer.rjcarver.com
 mailer.rllge.com
@@ -15755,6 +15756,7 @@ rirvideos.net
 risen-network.com
 risiko-los.com
 ritterth.com
+rivenditore.org
 rivirally.co.uk
 rjcarver.com
 rllge.com
