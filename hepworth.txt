@@ -12909,6 +12909,7 @@ mailer.urwebservices.com
 mailer.usbnextgen.com
 mailer.usbnextgeneration.com
 mailer.usdsba.com
+mailer.usedpowertools.org
 mailer.usimailto.com
 mailer.usisender.com
 mailer.usisendmail.com
@@ -16962,6 +16963,7 @@ urwebservices.com
 usbnextgen.com
 usbnextgeneration.com
 usdsba.com
+usedpowertools.org
 usimailto.com
 usisender.com
 usisendmail.com
