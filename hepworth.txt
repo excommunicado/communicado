@@ -3038,6 +3038,7 @@ ginkgobonsai.com
 giocaevinci.net
 giochi-casino.org
 giporlosar.co.uk
+gironadigital.com
 gitagumler.co.uk
 gitdoc.org
 givehearts.net
@@ -8002,6 +8003,7 @@ mailer.ginkgobonsai.com
 mailer.giocaevinci.net
 mailer.giochi-casino.org
 mailer.giporlosar.co.uk
+mailer.gironadigital.com
 mailer.gitagumler.co.uk
 mailer.gitdoc.org
 mailer.givehearts.net
