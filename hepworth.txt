@@ -12318,6 +12318,7 @@ mailer.taobroker.com
 mailer.taocheap.com
 mailer.taogether.com
 mailer.taomalls.com
+mailer.taospree.com
 mailer.taovideos.com
 mailer.tappendent.com
 mailer.taskmatic.net
@@ -16375,6 +16376,7 @@ taobroker.com
 taocheap.com
 taogether.com
 taomalls.com
+taospree.com
 taovideos.com
 tappendent.com
 taskmatic.net
