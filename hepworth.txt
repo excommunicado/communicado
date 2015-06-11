@@ -1685,6 +1685,7 @@ cryptery.com
 cryptocastle.com
 cryptocoinaffiliate.com
 cryptocomparison.com
+cryptocurrencymarkets.com
 cryptopaperwallets.com
 cryptowater.com
 ctfsbank.com
@@ -1758,6 +1759,7 @@ dailchryste.co.uk
 dailchrysti.co.uk
 dailchrysto.co.uk
 dailchrystu.co.uk
+dailycryptodeal.com
 dailyfooddeals.ca
 dailyfreshfit.com
 dailytechbbq.com
@@ -6666,6 +6668,7 @@ mailer.cryptery.com
 mailer.cryptocastle.com
 mailer.cryptocoinaffiliate.com
 mailer.cryptocomparison.com
+mailer.cryptocurrencymarkets.com
 mailer.cryptopaperwallets.com
 mailer.cryptowater.com
 mailer.ctfsbank.com
@@ -6739,6 +6742,7 @@ mailer.dailchryste.co.uk
 mailer.dailchrysti.co.uk
 mailer.dailchrysto.co.uk
 mailer.dailchrystu.co.uk
+mailer.dailycryptodeal.com
 mailer.dailyfooddeals.ca
 mailer.dailyfreshfit.com
 mailer.dailytechbbq.com
