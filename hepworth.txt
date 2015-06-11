@@ -1134,6 +1134,7 @@ businessopinion.co.uk
 businesstrainingclub.co.uk
 bustosnos.co.uk
 busuangan.co.uk
+busybeedomains.com
 butiglion.co.uk
 butista.com
 butterflypark.net
@@ -3106,6 +3107,7 @@ globematters.com
 gloriandra.co.uk
 gloweastafrica.com
 glpk.co
+glpkr.co
 glutsatnft.com
 gmailplan.com
 gmailupdate.com
@@ -6112,6 +6114,7 @@ mailer.businessopinion.co.uk
 mailer.businesstrainingclub.co.uk
 mailer.bustosnos.co.uk
 mailer.busuangan.co.uk
+mailer.busybeedomains.com
 mailer.butiglion.co.uk
 mailer.butista.com
 mailer.butterflypark.net
@@ -8084,6 +8087,7 @@ mailer.globematters.com
 mailer.gloriandra.co.uk
 mailer.gloweastafrica.com
 mailer.glpk.co
+mailer.glpkr.co
 mailer.glutsatnft.com
 mailer.gmailplan.com
 mailer.gmailupdate.com
