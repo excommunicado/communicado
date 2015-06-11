@@ -1874,6 +1874,7 @@ dedcumods.co.uk
 dedcumody.co.uk
 degreelift.com
 deimpian.com
+deivoo.net
 dejesys.com
 delacres.co.uk
 delartes.co.uk
@@ -2084,6 +2085,7 @@ donabres.co.uk
 donalete.co.uk
 donorsteward.com
 donsolio.co.uk
+doolskitchen.com
 doorll.net
 dopsclick.com
 dorbarta.com
@@ -6850,6 +6852,7 @@ mailer.dedcumods.co.uk
 mailer.dedcumody.co.uk
 mailer.degreelift.com
 mailer.deimpian.com
+mailer.deivoo.net
 mailer.dejesys.com
 mailer.delacres.co.uk
 mailer.delartes.co.uk
@@ -7060,6 +7063,7 @@ mailer.donabres.co.uk
 mailer.donalete.co.uk
 mailer.donorsteward.com
 mailer.donsolio.co.uk
+mailer.doolskitchen.com
 mailer.doorll.net
 mailer.dopsclick.com
 mailer.dorbarta.com
