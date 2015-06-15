@@ -230,6 +230,7 @@ allfixter.com
 allfreevector.net
 alliance-advisors.net
 allowed.co
+allpaper.org
 allwaydrive.net
 allwaydrive.org
 allwaywheel.net
@@ -5218,6 +5219,7 @@ mailer.allfixter.com
 mailer.allfreevector.net
 mailer.alliance-advisors.net
 mailer.allowed.co
+mailer.allpaper.org
 mailer.allwaydrive.net
 mailer.allwaydrive.org
 mailer.allwaywheel.net
