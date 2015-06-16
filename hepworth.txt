@@ -11023,6 +11023,7 @@ mailer.opentechworld.com
 mailer.openthreshold.org
 mailer.operationgain.com
 mailer.operazionibinarie.com
+mailer.oppaman.com
 mailer.oppusdorus.co.uk
 mailer.optimasync.com
 mailer.optimitell.com
@@ -15086,6 +15087,7 @@ opentechworld.com
 openthreshold.org
 operationgain.com
 operazionibinarie.com
+oppaman.com
 oppusdorus.co.uk
 optimasync.com
 optimitell.com
