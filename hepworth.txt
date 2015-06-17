@@ -123,6 +123,7 @@ adsocio.com
 adtextur.com
 adtisclick.com
 advancebrass.com
+adventuringsage.com
 adverups.com
 adverview.com
 adviaclicks.com
@@ -5116,6 +5117,7 @@ mailer.adsocio.com
 mailer.adtextur.com
 mailer.adtisclick.com
 mailer.advancebrass.com
+mailer.adventuringsage.com
 mailer.adverups.com
 mailer.adverview.com
 mailer.adviaclicks.com
