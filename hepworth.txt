@@ -12378,6 +12378,7 @@ mailer.taobaocoupons.com
 mailer.taobaoforums.com
 mailer.taobaofree.com
 mailer.taobaohongkong.com
+mailer.taobaohotel.com
 mailer.taobaoinenglish.net
 mailer.taobaosingapore.net
 mailer.taobaosite.com
@@ -16445,6 +16446,7 @@ taobaocoupons.com
 taobaoforums.com
 taobaofree.com
 taobaohongkong.com
+taobaohotel.com
 taobaoinenglish.net
 taobaosingapore.net
 taobaosite.com
