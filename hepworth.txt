@@ -11892,6 +11892,7 @@ mailer.salesfunnelsleuth.com
 mailer.salestaxplan.com
 mailer.saltsignjet.com
 mailer.saltybtc.com
+mailer.saltycrow.com
 mailer.saludnueva.com
 mailer.sana38.com
 mailer.sanbornpost.com
@@ -15963,6 +15964,7 @@ salesfunnelsleuth.com
 salestaxplan.com
 saltsignjet.com
 saltybtc.com
+saltycrow.com
 saludnueva.com
 sana38.com
 sanbornpost.com
