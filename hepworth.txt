@@ -10152,6 +10152,7 @@ mailer.marketerswhitelabel.com
 mailer.marketingdevils.com
 mailer.marketingseosoftware.com
 mailer.marketingsonrisa.com
+mailer.marketvent.com
 mailer.marketwordpress.com
 mailer.marocask.com
 mailer.marshii.com
@@ -14226,6 +14227,7 @@ marketerswhitelabel.com
 marketingdevils.com
 marketingseosoftware.com
 marketingsonrisa.com
+marketvent.com
 marketwordpress.com
 marocask.com
 marshii.com
