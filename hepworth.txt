@@ -12292,6 +12292,7 @@ mailer.studio18lisburn.com
 mailer.studioward.net
 mailer.stuffeight.com
 mailer.stuzigooting.co.uk
+mailer.styleconomics.com
 mailer.styleexpression.com
 mailer.stylepixs.com
 mailer.stylexpression.com
@@ -16365,6 +16366,7 @@ studio18lisburn.com
 studioward.net
 stuffeight.com
 stuzigooting.co.uk
+styleconomics.com
 styleexpression.com
 stylepixs.com
 stylexpression.com
