@@ -394,6 +394,7 @@ anilaowas.co.uk
 animebelt.com
 animedb.net
 animedownloads.org
+animehime.net
 animeoav.com
 animeonlinewatch.com
 animeshow.org
@@ -5396,6 +5397,7 @@ mailer.anilaowas.co.uk
 mailer.animebelt.com
 mailer.animedb.net
 mailer.animedownloads.org
+mailer.animehime.net
 mailer.animeoav.com
 mailer.animeonlinewatch.com
 mailer.animeshow.org
