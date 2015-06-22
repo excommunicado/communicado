@@ -974,6 +974,7 @@ bluesubject.com
 bluntexpress.com
 bluntolnse.co.uk
 bluntolte.co.uk
+blurbplatform.com
 bm-box.com
 boachron.co.uk
 boatingmagazine.net
@@ -5980,6 +5981,7 @@ mailer.bluesubject.com
 mailer.bluntexpress.com
 mailer.bluntolnse.co.uk
 mailer.bluntolte.co.uk
+mailer.blurbplatform.com
 mailer.bm-box.com
 mailer.boachron.co.uk
 mailer.boatingmagazine.net
