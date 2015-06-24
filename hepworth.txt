@@ -11854,6 +11854,7 @@ mailer.rockll.net
 mailer.rockscale.net
 mailer.rocksketch.com
 mailer.rogue-it.com
+mailer.roiactive.com
 mailer.roilind.com
 mailer.rokumo.com
 mailer.rollercoastertycoon.net
@@ -15929,6 +15930,7 @@ rockll.net
 rockscale.net
 rocksketch.com
 rogue-it.com
+roiactive.com
 roilind.com
 rokumo.com
 rollercoastertycoon.net
