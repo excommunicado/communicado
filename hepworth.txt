@@ -2117,6 +2117,7 @@ dotnom.ca
 dotnom.co
 dotnom.net
 dotnom.org
+downloaddriver.co
 downtownshoping.com
 doyouknowthat.net
 dpctravel.com
@@ -2574,6 +2575,7 @@ failchrystu.co.uk
 fairenoste.co.uk
 fairhypnosis.com
 faithfulelegance.com
+fajitarecipes.net
 falchasta.co.uk
 falchaste.co.uk
 falchasti.co.uk
@@ -4194,6 +4196,7 @@ joutocap.co.uk
 joutowse.co.uk
 joutoxwe.co.uk
 jovellas.co.uk
+jrkeith.com
 jt-dev.com
 jtuzigooting.co.uk
 jualkebaya.com
@@ -7134,6 +7137,7 @@ mailer.dotnom.ca
 mailer.dotnom.co
 mailer.dotnom.net
 mailer.dotnom.org
+mailer.downloaddriver.co
 mailer.downtownshoping.com
 mailer.doyouknowthat.net
 mailer.dpctravel.com
@@ -7591,6 +7595,7 @@ mailer.failchrystu.co.uk
 mailer.fairenoste.co.uk
 mailer.fairhypnosis.com
 mailer.faithfulelegance.com
+mailer.fajitarecipes.net
 mailer.falchasta.co.uk
 mailer.falchaste.co.uk
 mailer.falchasti.co.uk
@@ -9211,6 +9216,7 @@ mailer.joutocap.co.uk
 mailer.joutowse.co.uk
 mailer.joutoxwe.co.uk
 mailer.jovellas.co.uk
+mailer.jrkeith.com
 mailer.jt-dev.com
 mailer.jtuzigooting.co.uk
 mailer.jualkebaya.com
