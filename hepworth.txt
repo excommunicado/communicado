@@ -1442,6 +1442,7 @@ cavitenel.co.uk
 cavu3.com
 cavu3group.com
 cawayanase.co.uk
+caxi.co
 caylabnere.co.uk
 cc-pvp.com
 ccmilitia.com
@@ -6452,6 +6453,7 @@ mailer.cavitenel.co.uk
 mailer.cavu3.com
 mailer.cavu3group.com
 mailer.cawayanase.co.uk
+mailer.caxi.co
 mailer.caylabnere.co.uk
 mailer.cc-pvp.com
 mailer.ccmilitia.com
