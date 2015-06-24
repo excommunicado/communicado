@@ -2127,6 +2127,7 @@ dramacow.com
 dramaforyou.com
 dramaghost.com
 dramahoney.com
+dramaoppa.com
 dramarookie.com
 dramaseries.net
 dramatoplist.com
@@ -7142,6 +7143,7 @@ mailer.dramacow.com
 mailer.dramaforyou.com
 mailer.dramaghost.com
 mailer.dramahoney.com
+mailer.dramaoppa.com
 mailer.dramarookie.com
 mailer.dramaseries.net
 mailer.dramatoplist.com
