@@ -12623,6 +12623,7 @@ mailer.thetinydiet.com
 mailer.thetravelandcultureco.com
 mailer.thetravelandculturegroup.com
 mailer.thetravelandculturetour.com
+mailer.thetravelshopping.com
 mailer.thewriterary.com
 mailer.thewritinggenie.com
 mailer.theyachtking.com
@@ -16699,6 +16700,7 @@ thetinydiet.com
 thetravelandcultureco.com
 thetravelandculturegroup.com
 thetravelandculturetour.com
+thetravelshopping.com
 thewriterary.com
 thewritinggenie.com
 theyachtking.com
