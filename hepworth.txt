@@ -1442,6 +1442,7 @@ cavitenel.co.uk
 cavu3.com
 cavu3group.com
 cawayanase.co.uk
+caxi.co
 caylabnere.co.uk
 cc-pvp.com
 ccmilitia.com
@@ -3717,6 +3718,7 @@ idecumods.co.uk
 idecumody.co.uk
 ifugaobagi.co.uk
 ifyti.com
+igamesnet.com
 igbarasios.co.uk
 igiclick.com
 ignaciades.co.uk
@@ -6451,6 +6453,7 @@ mailer.cavitenel.co.uk
 mailer.cavu3.com
 mailer.cavu3group.com
 mailer.cawayanase.co.uk
+mailer.caxi.co
 mailer.caylabnere.co.uk
 mailer.cc-pvp.com
 mailer.ccmilitia.com
@@ -8726,6 +8729,7 @@ mailer.idecumods.co.uk
 mailer.idecumody.co.uk
 mailer.ifugaobagi.co.uk
 mailer.ifyti.com
+mailer.igamesnet.com
 mailer.igbarasios.co.uk
 mailer.igiclick.com
 mailer.ignaciades.co.uk
