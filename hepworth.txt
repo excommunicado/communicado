@@ -3296,6 +3296,7 @@ gumacalire.co.uk
 gumanderpe.co.uk
 guncl1p.com
 gurbpocflows.com
+guruztech.com
 gussedout.com
 gutalacias.co.uk
 gvesserver.com
@@ -8318,6 +8319,7 @@ mailer.gumacalire.co.uk
 mailer.gumanderpe.co.uk
 mailer.guncl1p.com
 mailer.gurbpocflows.com
+mailer.guruztech.com
 mailer.gussedout.com
 mailer.gutalacias.co.uk
 mailer.gvesserver.com
