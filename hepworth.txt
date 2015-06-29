@@ -1708,6 +1708,7 @@ cryptocoinaffiliate.com
 cryptocomparison.com
 cryptocurrencymarkets.com
 cryptopaperwallets.com
+cryptosovereignty.net
 cryptowater.com
 ctfsbank.com
 ctrlaltfixed.com
@@ -6739,6 +6740,7 @@ mailer.cryptocoinaffiliate.com
 mailer.cryptocomparison.com
 mailer.cryptocurrencymarkets.com
 mailer.cryptopaperwallets.com
+mailer.cryptosovereignty.net
 mailer.cryptowater.com
 mailer.ctfsbank.com
 mailer.ctrlaltfixed.com
