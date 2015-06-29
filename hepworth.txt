@@ -12305,6 +12305,7 @@ mailer.squadcore.net
 mailer.squadirc.com
 mailer.squadst.com
 mailer.squaredotlab.com
+mailer.squaremillionaire.com
 mailer.squuba.net
 mailer.srlinfo.com
 mailer.sshhspy.com
@@ -16394,6 +16395,7 @@ squadcore.net
 squadirc.com
 squadst.com
 squaredotlab.com
+squaremillionaire.com
 squuba.net
 srlinfo.com
 sshhspy.com
