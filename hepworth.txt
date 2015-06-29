@@ -125,6 +125,7 @@ adtextur.com
 adtisclick.com
 advancebrass.com
 adventuringsage.com
+adverteg.com
 adverups.com
 adverview.com
 adviaclicks.com
@@ -5157,6 +5158,7 @@ mailer.adtextur.com
 mailer.adtisclick.com
 mailer.advancebrass.com
 mailer.adventuringsage.com
+mailer.adverteg.com
 mailer.adverups.com
 mailer.adverview.com
 mailer.adviaclicks.com
