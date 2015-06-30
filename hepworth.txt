@@ -2182,6 +2182,7 @@ duminal.com
 dumingagle.co.uk
 dupaxasler.co.uk
 durandigao.co.uk
+dusmedia.co
 dwsi.co
 dymecraft.com
 dynamicmentor.com
@@ -3284,6 +3285,7 @@ guarnerio.net
 gubatarmia.co.uk
 gudanglaptop.com
 gudhost.net
+guemanual.co
 guiavamos.com
 guidanceculture.com
 guidanceinput.com
@@ -7215,6 +7217,7 @@ mailer.duminal.com
 mailer.dumingagle.co.uk
 mailer.dupaxasler.co.uk
 mailer.durandigao.co.uk
+mailer.dusmedia.co
 mailer.dwsi.co
 mailer.dymecraft.com
 mailer.dynamicmentor.com
@@ -8317,6 +8320,7 @@ mailer.guarnerio.net
 mailer.gubatarmia.co.uk
 mailer.gudanglaptop.com
 mailer.gudhost.net
+mailer.guemanual.co
 mailer.guiavamos.com
 mailer.guidanceculture.com
 mailer.guidanceinput.com
