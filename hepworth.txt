@@ -1938,6 +1938,7 @@ demendus.com
 demiphotos.net
 demoforex.org
 demskills.net
+deplourcreative.com
 derek-hough.net
 derfnerfy.com
 derloves.com
@@ -3183,6 +3184,7 @@ gomochila.co
 gomochila.com
 gomochilla.com
 gonaturaleza.com
+gonewiththewind.org
 gonzagalos.co.uk
 gooderhq.com
 goodlifedaily.com
@@ -6973,6 +6975,7 @@ mailer.demendus.com
 mailer.demiphotos.net
 mailer.demoforex.org
 mailer.demskills.net
+mailer.deplourcreative.com
 mailer.derek-hough.net
 mailer.derfnerfy.com
 mailer.derloves.com
@@ -8218,6 +8221,7 @@ mailer.gomochila.co
 mailer.gomochila.com
 mailer.gomochilla.com
 mailer.gonaturaleza.com
+mailer.gonewiththewind.org
 mailer.gonzagalos.co.uk
 mailer.gooderhq.com
 mailer.goodlifedaily.com
