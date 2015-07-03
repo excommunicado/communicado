@@ -466,6 +466,7 @@ areaghel.co.uk
 arelnalorcse.co.uk
 argaoten.co.uk
 argenco.in
+arifmanual.co
 aringayle.co.uk
 aritaonos.co.uk
 arixip.com
@@ -5507,6 +5508,7 @@ mailer.areaghel.co.uk
 mailer.arelnalorcse.co.uk
 mailer.argaoten.co.uk
 mailer.argenco.in
+mailer.arifmanual.co
 mailer.aringayle.co.uk
 mailer.aritaonos.co.uk
 mailer.arixip.com
