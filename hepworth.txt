@@ -1666,6 +1666,7 @@ creative-kitchens.net
 creativeadvanced.com
 crelnalorcse.co.uk
 cribbi.com
+cricketintl.com
 crilaguela.co.uk
 crilaguele.co.uk
 crilagueli.co.uk
@@ -6706,6 +6707,7 @@ mailer.creative-kitchens.net
 mailer.creativeadvanced.com
 mailer.crelnalorcse.co.uk
 mailer.cribbi.com
+mailer.cricketintl.com
 mailer.crilaguela.co.uk
 mailer.crilaguele.co.uk
 mailer.crilagueli.co.uk
