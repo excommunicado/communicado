@@ -2138,6 +2138,7 @@ dpctravel.com
 draegoncraft.com
 dramabest.net
 dramachinese.org
+dramachingu.com
 dramacow.com
 dramaforyou.com
 dramaghost.com
@@ -7184,6 +7185,7 @@ mailer.dpctravel.com
 mailer.draegoncraft.com
 mailer.dramabest.net
 mailer.dramachinese.org
+mailer.dramachingu.com
 mailer.dramacow.com
 mailer.dramaforyou.com
 mailer.dramaghost.com
