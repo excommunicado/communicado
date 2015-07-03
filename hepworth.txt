@@ -1097,6 +1097,7 @@ btcchronical.com
 btcnews.in
 btcsafari.com
 btcsentinal.com
+bthmanual.co
 btuzigootimg.co.uk
 btuzigooting.co.uk
 buadiposo.co.uk
@@ -1173,6 +1174,7 @@ buzzfile.net
 bvlog.net
 bvlog.org
 bvlogs.com
+bypasssurveys.net
 c-pixels.com
 c2control.com
 cababreime.co.uk
@@ -2143,12 +2145,14 @@ dramacow.com
 dramaforyou.com
 dramaghost.com
 dramahoney.com
+dramahyung.com
 dramaoppa.com
 dramarookie.com
 dramaseries.net
 dramatoplist.com
 dramawanted.com
 dramawaves.com
+dramawitch.com
 dream-life-apps.com
 dreampirates.net
 dremfil.com
@@ -6145,6 +6149,7 @@ mailer.btcchronical.com
 mailer.btcnews.in
 mailer.btcsafari.com
 mailer.btcsentinal.com
+mailer.bthmanual.co
 mailer.btuzigootimg.co.uk
 mailer.btuzigooting.co.uk
 mailer.buadiposo.co.uk
@@ -6221,6 +6226,7 @@ mailer.buzzfile.net
 mailer.bvlog.net
 mailer.bvlog.org
 mailer.bvlogs.com
+mailer.bypasssurveys.net
 mailer.c-pixels.com
 mailer.c2control.com
 mailer.cababreime.co.uk
@@ -7191,12 +7197,14 @@ mailer.dramacow.com
 mailer.dramaforyou.com
 mailer.dramaghost.com
 mailer.dramahoney.com
+mailer.dramahyung.com
 mailer.dramaoppa.com
 mailer.dramarookie.com
 mailer.dramaseries.net
 mailer.dramatoplist.com
 mailer.dramawanted.com
 mailer.dramawaves.com
+mailer.dramawitch.com
 mailer.dream-life-apps.com
 mailer.dreampirates.net
 mailer.dremfil.com
