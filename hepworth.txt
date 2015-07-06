@@ -2109,6 +2109,7 @@ dockmc.com
 docseas.com
 docsengine.net
 doctypist.com
+dogideasite.com
 dokar.me
 dollarpounds.com
 dollarpounds.org
@@ -7164,6 +7165,7 @@ mailer.dockmc.com
 mailer.docseas.com
 mailer.docsengine.net
 mailer.doctypist.com
+mailer.dogideasite.com
 mailer.dokar.me
 mailer.dollarpounds.com
 mailer.dollarpounds.org
