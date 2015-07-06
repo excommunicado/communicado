@@ -1963,6 +1963,7 @@ desfocado.net
 designalma.com
 designingworld.org
 destinationselite.com
+destinedforcanvas.com
 destinyrings.com
 detoneura.co.uk
 detoneure.co.uk
@@ -7023,6 +7024,7 @@ mailer.desfocado.net
 mailer.designalma.com
 mailer.designingworld.org
 mailer.destinationselite.com
+mailer.destinedforcanvas.com
 mailer.destinyrings.com
 mailer.detoneura.co.uk
 mailer.detoneure.co.uk
