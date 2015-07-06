@@ -1417,6 +1417,7 @@ carmonale.co.uk
 carnagias.co.uk
 carnesofta.com
 carobsarawa.com
+carpediemcommunity.com
 carpetroses.net
 carpoolfinder.org
 carranglan.co.uk
@@ -6475,6 +6476,7 @@ mailer.carmonale.co.uk
 mailer.carnagias.co.uk
 mailer.carnesofta.com
 mailer.carobsarawa.com
+mailer.carpediemcommunity.com
 mailer.carpetroses.net
 mailer.carpoolfinder.org
 mailer.carranglan.co.uk
