@@ -1558,6 +1558,7 @@ clickproposal.com
 clicoad.com
 cliftonhub.com
 cliftonradio.com
+cln-thinking.com
 clnthinking.com
 closetmarketer.net
 cloube.org
@@ -6615,6 +6616,7 @@ mailer.clickproposal.com
 mailer.clicoad.com
 mailer.cliftonhub.com
 mailer.cliftonradio.com
+mailer.cln-thinking.com
 mailer.clnthinking.com
 mailer.closetmarketer.net
 mailer.cloube.org
