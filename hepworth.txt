@@ -4076,6 +4076,7 @@ javheypenvine.com
 javieros.co.uk
 javspree.com
 javstream.net
+jaycasio.com
 jaysphotostudio.com
 jborge.com
 jecomux.com
@@ -9135,6 +9136,7 @@ mailer.javheypenvine.com
 mailer.javieros.co.uk
 mailer.javspree.com
 mailer.javstream.net
+mailer.jaycasio.com
 mailer.jaysphotostudio.com
 mailer.jborge.com
 mailer.jecomux.com
