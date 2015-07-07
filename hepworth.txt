@@ -4927,6 +4927,7 @@ lowest-tax.com
 lowesttaxrates.com
 lowtaxrate.net
 lowtaxrate.org
+lshapeddesk.net
 lslstudio.net
 ltuzigooting.co.uk
 luanhosting.com
@@ -9989,6 +9990,7 @@ mailer.lowest-tax.com
 mailer.lowesttaxrates.com
 mailer.lowtaxrate.net
 mailer.lowtaxrate.org
+mailer.lshapeddesk.net
 mailer.lslstudio.net
 mailer.ltuzigooting.co.uk
 mailer.luanhosting.com
