@@ -370,6 +370,7 @@ anahawanda.co.uk
 analystessentials.com
 anaoformia.co.uk
 ancipal.com
+andacari.co
 andaluste.co.uk
 andongsira.co.uk
 andrestes.co.uk
@@ -5440,6 +5441,7 @@ mailer.anahawanda.co.uk
 mailer.analystessentials.com
 mailer.anaoformia.co.uk
 mailer.ancipal.com
+mailer.andacari.co
 mailer.andaluste.co.uk
 mailer.andongsira.co.uk
 mailer.andrestes.co.uk
