@@ -1989,6 +1989,7 @@ deusenx.com
 devamazi.com
 developandimprove.com
 devhs.com
+devilisheggs.com
 devs-online.com
 devxstudiosen.net
 dfacbook.com
@@ -7063,6 +7064,7 @@ mailer.deusenx.com
 mailer.devamazi.com
 mailer.developandimprove.com
 mailer.devhs.com
+mailer.devilisheggs.com
 mailer.devs-online.com
 mailer.devxstudiosen.net
 mailer.dfacbook.com
