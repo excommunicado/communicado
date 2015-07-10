@@ -12395,6 +12395,7 @@ mailer.splashquick.com
 mailer.spootlight.com
 mailer.sporei.com
 mailer.spornaque.com
+mailer.sportsbetodds.net
 mailer.sportsgifs.net
 mailer.sportstoto.biz
 mailer.sportvist.com
@@ -16505,6 +16506,7 @@ splashquick.com
 spootlight.com
 sporei.com
 spornaque.com
+sportsbetodds.net
 sportsgifs.net
 sportstoto.biz
 sportvist.com
