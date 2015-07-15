@@ -2903,6 +2903,7 @@ free-vector.co
 freealertnetwork.com
 freecyprusads.com
 freedombreeze.com
+freefirestarter.com
 freefromfiat.net
 freeporvas.co.uk
 freeposweb.com
@@ -7981,6 +7982,7 @@ mailer.free-vector.co
 mailer.freealertnetwork.com
 mailer.freecyprusads.com
 mailer.freedombreeze.com
+mailer.freefirestarter.com
 mailer.freefromfiat.net
 mailer.freeporvas.co.uk
 mailer.freeposweb.com
