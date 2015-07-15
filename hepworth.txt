@@ -2684,6 +2684,7 @@ fanaid.net
 fantasistas.com
 farmingmachinery.net
 farmingxchange.org
+fascinating.co
 fasclapis.com
 fashionsponges.com
 fashmode.com
@@ -7764,6 +7765,7 @@ mailer.fanaid.net
 mailer.fantasistas.com
 mailer.farmingmachinery.net
 mailer.farmingxchange.org
+mailer.fascinating.co
 mailer.fasclapis.com
 mailer.fashionsponges.com
 mailer.fashmode.com
