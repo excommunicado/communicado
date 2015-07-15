@@ -2157,6 +2157,7 @@ dramaforyou.com
 dramaghost.com
 dramahoney.com
 dramahyung.com
+dramajjang.com
 dramaoppa.com
 dramarookie.com
 dramaseries.net
@@ -7238,6 +7239,7 @@ mailer.dramaforyou.com
 mailer.dramaghost.com
 mailer.dramahoney.com
 mailer.dramahyung.com
+mailer.dramajjang.com
 mailer.dramaoppa.com
 mailer.dramarookie.com
 mailer.dramaseries.net
