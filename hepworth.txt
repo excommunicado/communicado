@@ -12367,6 +12367,7 @@ mailer.snbots.com
 mailer.snowstromservers.com
 mailer.sobbes.com
 mailer.soceur-arma.org
+mailer.socialcloudbackup.com
 mailer.socialforexstockmarket.com
 mailer.socialguadagno.com
 mailer.socialmorphose.com
@@ -16481,6 +16482,7 @@ snbots.com
 snowstromservers.com
 sobbes.com
 soceur-arma.org
+socialcloudbackup.com
 socialforexstockmarket.com
 socialguadagno.com
 socialmorphose.com
