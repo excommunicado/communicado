@@ -13936,6 +13936,7 @@ mailer.y211.com
 mailer.yachtcougar.com
 mailer.yachtsorknot.com
 mailer.yachtsorknots.com
+mailer.yachtwhiz.com
 mailer.yantiar.com
 mailer.yanut.net
 mailer.yaraneura.co.uk
@@ -18057,6 +18058,7 @@ y211.com
 yachtcougar.com
 yachtsorknot.com
 yachtsorknots.com
+yachtwhiz.com
 yantiar.com
 yanut.net
 yaraneura.co.uk
