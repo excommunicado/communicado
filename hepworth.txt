@@ -13692,6 +13692,7 @@ mailer.willowandhart.com
 mailer.wilvard.com
 mailer.winapad.com
 mailer.wincashincome.com
+mailer.wineastrologer.com
 mailer.winedelivery.org
 mailer.wingll.com
 mailer.winkflat.com
@@ -17814,6 +17815,7 @@ willowandhart.com
 wilvard.com
 winapad.com
 wincashincome.com
+wineastrologer.com
 winedelivery.org
 wingll.com
 winkflat.com
