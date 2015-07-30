@@ -3636,6 +3636,7 @@ hospitalfaq.com
 hostgatorsave.com
 hostinetworking.com
 hostingevents.net
+hostingnetworks.net
 hostingslots.com
 hostlark.com
 hostscene.net
@@ -8726,6 +8727,7 @@ mailer.hospitalfaq.com
 mailer.hostgatorsave.com
 mailer.hostinetworking.com
 mailer.hostingevents.net
+mailer.hostingnetworks.net
 mailer.hostingslots.com
 mailer.hostlark.com
 mailer.hostscene.net
