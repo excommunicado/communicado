@@ -11473,6 +11473,7 @@ mailer.paradisee.co
 mailer.parallelparticles.com
 mailer.pariodis.com
 mailer.parkru.com
+mailer.parlando.net
 mailer.partlyburnt.com
 mailer.partlytoblame.com
 mailer.partybagsoz.com
@@ -15613,6 +15614,7 @@ paradisee.co
 parallelparticles.com
 pariodis.com
 parkru.com
+parlando.net
 partlyburnt.com
 partlytoblame.com
 partybagsoz.com
