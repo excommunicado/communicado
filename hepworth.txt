@@ -13272,6 +13272,7 @@ mailer.usermaps.net
 mailer.usermobi.net
 mailer.usernews.net
 mailer.userorg.net
+mailer.usertranslate.net
 mailer.usimailto.com
 mailer.usisender.com
 mailer.usisendmail.com
@@ -17418,6 +17419,7 @@ usermaps.net
 usermobi.net
 usernews.net
 userorg.net
+usertranslate.net
 usimailto.com
 usisender.com
 usisendmail.com
