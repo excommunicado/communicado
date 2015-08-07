@@ -13272,6 +13272,7 @@ mailer.usermaps.net
 mailer.usermobi.net
 mailer.usernews.net
 mailer.userorg.net
+mailer.usertranslate.net
 mailer.usimailto.com
 mailer.usisender.com
 mailer.usisendmail.com
@@ -13980,6 +13981,7 @@ mailer.xysapalorcse.co.uk
 mailer.xysaprella.co.uk
 mailer.xysaprelle.co.uk
 mailer.y211.com
+mailer.yachi.co
 mailer.yachtcougar.com
 mailer.yachtsorknot.com
 mailer.yachtsorknots.com
@@ -17417,6 +17419,7 @@ usermaps.net
 usermobi.net
 usernews.net
 userorg.net
+usertranslate.net
 usimailto.com
 usisender.com
 usisendmail.com
@@ -18125,6 +18128,7 @@ xysapalorcse.co.uk
 xysaprella.co.uk
 xysaprelle.co.uk
 y211.com
+yachi.co
 yachtcougar.com
 yachtsorknot.com
 yachtsorknots.com
