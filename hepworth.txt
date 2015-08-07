@@ -13273,6 +13273,7 @@ mailer.usermobi.net
 mailer.usermobile.net
 mailer.usernews.net
 mailer.userorg.net
+mailer.usertranslate.net
 mailer.usimailto.com
 mailer.usisender.com
 mailer.usisendmail.com
@@ -17420,6 +17421,7 @@ usermobi.net
 usermobile.net
 usernews.net
 userorg.net
+usertranslate.net
 usimailto.com
 usisender.com
 usisendmail.com
