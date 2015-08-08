@@ -3936,6 +3936,7 @@ instantwirelessfence.com
 instantxpertise.com
 insurancecompany365.com
 insurancediscovered.com
+insurancepolicyrates.org
 intacto-games.com
 intellectagents.com
 intensepulsedlight.net
@@ -9038,6 +9039,7 @@ mailer.instantwirelessfence.com
 mailer.instantxpertise.com
 mailer.insurancecompany365.com
 mailer.insurancediscovered.com
+mailer.insurancepolicyrates.org
 mailer.intacto-games.com
 mailer.intellectagents.com
 mailer.intensepulsedlight.net
