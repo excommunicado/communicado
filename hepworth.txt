@@ -10504,6 +10504,7 @@ mailer.mediamajesty.com
 mailer.mediamountain.co
 mailer.mediaportalcore.com
 mailer.mediastudiosakin.net
+mailer.mediasworks.org
 mailer.medinaluar.co.uk
 mailer.meettoangles.com
 mailer.meetupmaverick.com
@@ -14652,6 +14653,7 @@ mediamajesty.com
 mediamountain.co
 mediaportalcore.com
 mediastudiosakin.net
+mediasworks.org
 medinaluar.co.uk
 meettoangles.com
 meetupmaverick.com
