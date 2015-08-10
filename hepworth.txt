@@ -880,7 +880,9 @@ bestpieper.com
 beststocktradingsite.org
 bestwebmag.com
 betada.com
+betchucknow.net
 betfree.org
+betgrizzly.net
 betslip.org
 betsonweb.com
 betterfortheplanet.co.uk
@@ -5990,7 +5992,9 @@ mailer.bestpieper.com
 mailer.beststocktradingsite.org
 mailer.bestwebmag.com
 mailer.betada.com
+mailer.betchucknow.net
 mailer.betfree.org
+mailer.betgrizzly.net
 mailer.betslip.org
 mailer.betsonweb.com
 mailer.betterfortheplanet.co.uk
