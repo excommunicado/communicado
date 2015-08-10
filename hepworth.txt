@@ -486,6 +486,7 @@ artechele.co.uk
 arteyfofuchas.com
 artfulpapercrafts.com
 artibone.com
+artinmalta.com
 artll.net
 arutafsa.co.uk
 arutocap.co.uk
@@ -5590,6 +5591,7 @@ mailer.artechele.co.uk
 mailer.arteyfofuchas.com
 mailer.artfulpapercrafts.com
 mailer.artibone.com
+mailer.artinmalta.com
 mailer.artll.net
 mailer.arutafsa.co.uk
 mailer.arutocap.co.uk
