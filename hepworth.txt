@@ -1338,6 +1338,7 @@ caoayantas.co.uk
 capalongas.co.uk
 capastiana.co.uk
 capitalofdenmark.com
+capitalofestonia.com
 capizlana.co.uk
 capoocana.co.uk
 caprarava.co.uk
@@ -6460,6 +6461,7 @@ mailer.caoayantas.co.uk
 mailer.capalongas.co.uk
 mailer.capastiana.co.uk
 mailer.capitalofdenmark.com
+mailer.capitalofestonia.com
 mailer.capizlana.co.uk
 mailer.capoocana.co.uk
 mailer.caprarava.co.uk
