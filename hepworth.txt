@@ -992,6 +992,7 @@ blogpot.co
 blowforge.com
 blowhart.com
 bluejeansandrain.org
+bluestateobserver.com
 bluesubject.com
 blulavender.com
 bluntexpress.com
@@ -1167,6 +1168,7 @@ businessfinanceclub.co.uk
 businessmakr.com
 businessopinion.co.uk
 businesstrainingclub.co.uk
+bustops.net
 bustosnos.co.uk
 busuangan.co.uk
 busybeedomains.com
@@ -6108,6 +6110,7 @@ mailer.blogpot.co
 mailer.blowforge.com
 mailer.blowhart.com
 mailer.bluejeansandrain.org
+mailer.bluestateobserver.com
 mailer.bluesubject.com
 mailer.blulavender.com
 mailer.bluntexpress.com
@@ -6283,6 +6286,7 @@ mailer.businessfinanceclub.co.uk
 mailer.businessmakr.com
 mailer.businessopinion.co.uk
 mailer.businesstrainingclub.co.uk
+mailer.bustops.net
 mailer.bustosnos.co.uk
 mailer.busuangan.co.uk
 mailer.busybeedomains.com
