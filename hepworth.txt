@@ -1340,6 +1340,7 @@ capastiana.co.uk
 capitalofdenmark.com
 capitalofestonia.com
 capitaloffrance.com
+capitalofmalaysia.com
 capizlana.co.uk
 capoocana.co.uk
 caprarava.co.uk
@@ -6465,6 +6466,7 @@ mailer.capastiana.co.uk
 mailer.capitalofdenmark.com
 mailer.capitalofestonia.com
 mailer.capitaloffrance.com
+mailer.capitalofmalaysia.com
 mailer.capizlana.co.uk
 mailer.capoocana.co.uk
 mailer.caprarava.co.uk
