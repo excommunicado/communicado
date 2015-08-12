@@ -883,6 +883,7 @@ betada.com
 betchucknow.net
 betfree.org
 betgrizzly.net
+betimgold.com
 betslip.org
 betsonweb.com
 betterfortheplanet.co.uk
@@ -6002,6 +6003,7 @@ mailer.betada.com
 mailer.betchucknow.net
 mailer.betfree.org
 mailer.betgrizzly.net
+mailer.betimgold.com
 mailer.betslip.org
 mailer.betsonweb.com
 mailer.betterfortheplanet.co.uk
