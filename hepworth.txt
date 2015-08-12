@@ -24,6 +24,7 @@
 365ext.com
 365photos.net
 3dprintout.org
+52sky.org
 55cap.com
 57iox.com
 7daycabbagesoupdiet.org
@@ -5145,6 +5146,7 @@ mailer.360narrative.com
 mailer.365ext.com
 mailer.365photos.net
 mailer.3dprintout.org
+mailer.52sky.org
 mailer.55cap.com
 mailer.57iox.com
 mailer.7daycabbagesoupdiet.org
