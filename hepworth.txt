@@ -12785,6 +12785,7 @@ mailer.tekcampaign.com
 mailer.tekforums.org
 mailer.telechargerword.com
 mailer.telecomtrio.com
+mailer.telegraaf.co
 mailer.telegrant.com
 mailer.telemilt.com
 mailer.telephonieboutique.com
@@ -16945,6 +16946,7 @@ tekcampaign.com
 tekforums.org
 telechargerword.com
 telecomtrio.com
+telegraaf.co
 telegrant.com
 telemilt.com
 telephonieboutique.com
