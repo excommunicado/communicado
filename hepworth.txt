@@ -13329,6 +13329,7 @@ mailer.untaneuryo.co.uk
 mailer.untaneurys.co.uk
 mailer.untaneuryt.co.uk
 mailer.uobay.com
+mailer.updatemate.net
 mailer.upstreamincome.com
 mailer.uranicraft.com
 mailer.urdapalorcse.co.uk
@@ -17491,6 +17492,7 @@ untaneuryo.co.uk
 untaneurys.co.uk
 untaneuryt.co.uk
 uobay.com
+updatemate.net
 upstreamincome.com
 uranicraft.com
 urdapalorcse.co.uk
