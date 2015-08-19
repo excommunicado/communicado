@@ -13351,6 +13351,8 @@ mailer.usbnextgeneration.com
 mailer.usdsba.com
 mailer.usedpowertools.org
 mailer.userapp.net
+mailer.useremail.net
+mailer.userfirm.net
 mailer.userhandy.net
 mailer.usermaps.net
 mailer.usermobi.net
@@ -13776,6 +13778,7 @@ mailer.whatcraft.net
 mailer.whatisshopify.com
 mailer.whatisthegreenelephant.com
 mailer.whatjobcanido.com
+mailer.whatsapp-calling.com
 mailer.wheelable.com
 mailer.wheelbits.com
 mailer.wheelerhosting.net
@@ -17515,6 +17518,8 @@ usbnextgeneration.com
 usdsba.com
 usedpowertools.org
 userapp.net
+useremail.net
+userfirm.net
 userhandy.net
 usermaps.net
 usermobi.net
@@ -17940,6 +17945,7 @@ whatcraft.net
 whatisshopify.com
 whatisthegreenelephant.com
 whatjobcanido.com
+whatsapp-calling.com
 wheelable.com
 wheelbits.com
 wheelerhosting.net
