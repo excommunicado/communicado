@@ -113,6 +113,7 @@ adhotclick.com
 adhotserver.com
 aditeractive.com
 adkraze.com
+adm-consulting.org
 adminlounge.net
 admixclicks.com
 admobis.com
@@ -5254,6 +5255,7 @@ mailer.adhotclick.com
 mailer.adhotserver.com
 mailer.aditeractive.com
 mailer.adkraze.com
+mailer.adm-consulting.org
 mailer.adminlounge.net
 mailer.admixclicks.com
 mailer.admobis.com
