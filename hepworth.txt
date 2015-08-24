@@ -1688,6 +1688,7 @@ countysupport.com
 couponsgate.com
 couponsreload.com
 courden.com
+coursehunt.co
 covertcameras.org
 cowriter.co
 cowriters.co
@@ -6832,6 +6833,7 @@ mailer.countysupport.com
 mailer.couponsgate.com
 mailer.couponsreload.com
 mailer.courden.com
+mailer.coursehunt.co
 mailer.covertcameras.org
 mailer.cowriter.co
 mailer.cowriters.co
