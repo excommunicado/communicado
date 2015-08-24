@@ -11685,6 +11685,7 @@ mailer.pidchas.com
 mailer.piibb.net
 mailer.piibb.org
 mailer.pingrglobe.com
+mailer.pingurl.net
 mailer.pinterestmanual.com
 mailer.pipelinebulletin.com
 mailer.pixeltileworld.com
@@ -15856,6 +15857,7 @@ pidchas.com
 piibb.net
 piibb.org
 pingrglobe.com
+pingurl.net
 pinterestmanual.com
 pipelinebulletin.com
 pixeltileworld.com
