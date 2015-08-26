@@ -4091,6 +4091,7 @@ itechnopolis.com
 itogonis.co.uk
 itsashiny.com
 itsbizaar.com
+itsfashion.co
 ituzigooting.co.uk
 ivamaze.com
 ivanalas.co.uk
@@ -9249,6 +9250,7 @@ mailer.itechnopolis.com
 mailer.itogonis.co.uk
 mailer.itsashiny.com
 mailer.itsbizaar.com
+mailer.itsfashion.co
 mailer.ituzigooting.co.uk
 mailer.ivamaze.com
 mailer.ivanalas.co.uk
