@@ -11096,6 +11096,7 @@ mailer.nexteda.com
 mailer.nextstepalliance.com
 mailer.nextsurvival.com
 mailer.nfcring.org
+mailer.ngebul.com
 mailer.niagasms.com
 mailer.nibblebitbyte.com
 mailer.nicedrivesuk.com
@@ -11779,6 +11780,7 @@ mailer.potionhosting.org
 mailer.poupastico.com
 mailer.poverto.com
 mailer.powerfuladvance.com
+mailer.powerfulyum.com
 mailer.powerlinekits.com
 mailer.powerschooler.com
 mailer.practicebytes.com
@@ -12562,6 +12564,7 @@ mailer.soclmarketing.org
 mailer.socobjects.org
 mailer.softadvisor.co
 mailer.softfbapps.com
+mailer.softnethouse.com
 mailer.solarchargercell.net
 mailer.solarpoweredgadgets.net
 mailer.soldifacili.org
@@ -15279,6 +15282,7 @@ nexteda.com
 nextstepalliance.com
 nextsurvival.com
 nfcring.org
+ngebul.com
 niagasms.com
 nibblebitbyte.com
 nicedrivesuk.com
@@ -15962,6 +15966,7 @@ potionhosting.org
 poupastico.com
 poverto.com
 powerfuladvance.com
+powerfulyum.com
 powerlinekits.com
 powerschooler.com
 practicebytes.com
@@ -16745,6 +16750,7 @@ soclmarketing.org
 socobjects.org
 softadvisor.co
 softfbapps.com
+softnethouse.com
 solarchargercell.net
 solarpoweredgadgets.net
 soldifacili.org
