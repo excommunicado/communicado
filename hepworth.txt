@@ -3708,6 +3708,7 @@ houtoxwe.co.uk
 howinstall.com
 hs-support.org
 htdzn.com
+htsmanual.co
 htuzigooting.co.uk
 hu1.co
 hubcraftmc.com
@@ -8870,6 +8871,7 @@ mailer.houtoxwe.co.uk
 mailer.howinstall.com
 mailer.hs-support.org
 mailer.htdzn.com
+mailer.htsmanual.co
 mailer.htuzigooting.co.uk
 mailer.hu1.co
 mailer.hubcraftmc.com
