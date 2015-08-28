@@ -13005,6 +13005,7 @@ mailer.timilano.com
 mailer.timleebux.com
 mailer.tinderstars.com
 mailer.tintahost.org
+mailer.tintapvp.com
 mailer.tintaserver.com
 mailer.tintaservers.com
 mailer.tinyantlers.com
@@ -17198,6 +17199,7 @@ timilano.com
 timleebux.com
 tinderstars.com
 tintahost.org
+tintapvp.com
 tintaserver.com
 tintaservers.com
 tinyantlers.com
