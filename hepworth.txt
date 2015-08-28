@@ -12744,6 +12744,7 @@ mailer.synergy-rs.com
 mailer.syntaksi.com
 mailer.synthwork.co
 mailer.sysadminpit.com
+mailer.taaalm.com
 mailer.tabrief.com
 mailer.tacocathost.com
 mailer.tafelloper.com
@@ -13523,6 +13524,7 @@ mailer.verazr.com
 mailer.vercliks.com
 mailer.vericco.com
 mailer.vericoin.net
+mailer.verifyabuyer.com
 mailer.verisetter.com
 mailer.verraguela.co.uk
 mailer.verraguele.co.uk
@@ -16933,6 +16935,7 @@ synergy-rs.com
 syntaksi.com
 synthwork.co
 sysadminpit.com
+taaalm.com
 tabrief.com
 tacocathost.com
 tafelloper.com
@@ -17712,6 +17715,7 @@ verazr.com
 vercliks.com
 vericco.com
 vericoin.net
+verifyabuyer.com
 verisetter.com
 verraguela.co.uk
 verraguele.co.uk
