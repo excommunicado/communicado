@@ -3278,6 +3278,7 @@ goomelis.com
 goquanta.net
 gorefolte.co.uk
 gorfashion.com
+gosixv.co
 gosmarttips.com
 gotthegroove.net
 gourmetfoodonline.net
@@ -8442,6 +8443,7 @@ mailer.goomelis.com
 mailer.goquanta.net
 mailer.gorefolte.co.uk
 mailer.gorfashion.com
+mailer.gosixv.co
 mailer.gosmarttips.com
 mailer.gotthegroove.net
 mailer.gourmetfoodonline.net
