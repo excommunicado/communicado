@@ -2957,6 +2957,7 @@ foxandwolf.net
 francistel.co.uk
 free-vector.co
 freealertnetwork.com
+freealldownload.co
 freecyprusads.com
 freedombreeze.com
 freefirestarter.com
@@ -8128,6 +8129,7 @@ mailer.foxandwolf.net
 mailer.francistel.co.uk
 mailer.free-vector.co
 mailer.freealertnetwork.com
+mailer.freealldownload.co
 mailer.freecyprusads.com
 mailer.freedombreeze.com
 mailer.freefirestarter.com
