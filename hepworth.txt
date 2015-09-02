@@ -3670,6 +3670,7 @@ hivemail.org
 hkcreditcards.com
 hkdramas.com
 hkinboundmarketing.com
+hkspacehacker.com
 hlolh.com
 hmcarte.com
 hmouimatara.com
@@ -8845,6 +8846,7 @@ mailer.hivemail.org
 mailer.hkcreditcards.com
 mailer.hkdramas.com
 mailer.hkinboundmarketing.com
+mailer.hkspacehacker.com
 mailer.hlolh.com
 mailer.hmcarte.com
 mailer.hmouimatara.com
@@ -12669,6 +12671,7 @@ mailer.steadydollars.com
 mailer.steadyinv.com
 mailer.steamhotel.com
 mailer.steammurmystery.co.uk
+mailer.stefanobottini.com
 mailer.stellarreign.com
 mailer.stellarreigngames.com
 mailer.stepoptions.com
@@ -16868,6 +16871,7 @@ steadydollars.com
 steadyinv.com
 steamhotel.com
 steammurmystery.co.uk
+stefanobottini.com
 stellarreign.com
 stellarreigngames.com
 stepoptions.com
