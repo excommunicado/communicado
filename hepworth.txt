@@ -13945,6 +13945,7 @@ mailer.willowandhart.com
 mailer.wilvard.com
 mailer.winapad.com
 mailer.wincashincome.com
+mailer.windowswallpaper.net
 mailer.wineastrologer.com
 mailer.winedelivery.org
 mailer.wingll.com
@@ -18147,6 +18148,7 @@ willowandhart.com
 wilvard.com
 winapad.com
 wincashincome.com
+windowswallpaper.net
 wineastrologer.com
 winedelivery.org
 wingll.com
