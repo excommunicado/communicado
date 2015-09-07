@@ -12394,6 +12394,7 @@ mailer.scottybot.com
 mailer.screely.com
 mailer.screencap.org
 mailer.scriptkitty.co
+mailer.sdmindy.com
 mailer.sdvisalawyer.com
 mailer.searsportbank.com
 mailer.sectorsatovi.com
@@ -16603,6 +16604,7 @@ scottybot.com
 screely.com
 screencap.org
 scriptkitty.co
+sdmindy.com
 sdvisalawyer.com
 searsportbank.com
 sectorsatovi.com
