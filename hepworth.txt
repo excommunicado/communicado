@@ -1680,6 +1680,7 @@ copywritingmarketing.com
 copywritingnitro.com
 copywritingprofit.com
 corazoneo.com
+corbistore.com
 corcueras.co.uk
 cordontos.co.uk
 cordovala.co.uk
@@ -6864,6 +6865,7 @@ mailer.copywritingmarketing.com
 mailer.copywritingnitro.com
 mailer.copywritingprofit.com
 mailer.corazoneo.com
+mailer.corbistore.com
 mailer.corcueras.co.uk
 mailer.cordontos.co.uk
 mailer.cordovala.co.uk
