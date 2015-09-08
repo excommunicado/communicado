@@ -247,6 +247,7 @@ allwaywheel.net
 allwaywheel.org
 almagroste.co.uk
 almeriantis.co.uk
+alminerals.com
 aloguinsana.co.uk
 alorantica.co.uk
 alpraguela.co.uk
@@ -5432,6 +5433,7 @@ mailer.allwaywheel.net
 mailer.allwaywheel.org
 mailer.almagroste.co.uk
 mailer.almeriantis.co.uk
+mailer.alminerals.com
 mailer.aloguinsana.co.uk
 mailer.alorantica.co.uk
 mailer.alpraguela.co.uk
