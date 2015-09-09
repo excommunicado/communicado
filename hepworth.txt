@@ -10908,6 +10908,7 @@ mailer.monicalora.co.uk
 mailer.monk-fx.com
 mailer.monkayotos.co.uk
 mailer.monogrammaster.net
+mailer.monogramvirtua.com
 mailer.monrealaba.co.uk
 mailer.monstercpm.com
 mailer.montalbana.co.uk
@@ -15123,6 +15124,7 @@ monicalora.co.uk
 monk-fx.com
 monkayotos.co.uk
 monogrammaster.net
+monogramvirtua.com
 monrealaba.co.uk
 monstercpm.com
 montalbana.co.uk
