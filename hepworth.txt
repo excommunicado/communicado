@@ -12409,6 +12409,7 @@ mailer.scriptkitty.co
 mailer.sdmindy.com
 mailer.sdvisalawyer.com
 mailer.searsportbank.com
+mailer.seasaltcentral.com
 mailer.sectorsatovi.com
 mailer.sectortewracing.com
 mailer.securermoney.com
@@ -16622,6 +16623,7 @@ scriptkitty.co
 sdmindy.com
 sdvisalawyer.com
 searsportbank.com
+seasaltcentral.com
 sectorsatovi.com
 sectortewracing.com
 securermoney.com
