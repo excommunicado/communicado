@@ -902,6 +902,7 @@ betterfortheplanet.co.uk
 bettermortgagerate.net
 betterwayfound.com
 betucot.com
+beverlycovestudios.net
 beyimokac.com
 beyondghostwriting.com
 beyondmytwocents.com
@@ -6096,6 +6097,7 @@ mailer.betterfortheplanet.co.uk
 mailer.bettermortgagerate.net
 mailer.betterwayfound.com
 mailer.betucot.com
+mailer.beverlycovestudios.net
 mailer.beyimokac.com
 mailer.beyondghostwriting.com
 mailer.beyondmytwocents.com
