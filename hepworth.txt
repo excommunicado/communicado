@@ -520,6 +520,7 @@ assistantenvoy.com
 assistwizard.com
 assistyourtraining.com
 associateshand.com
+astraka.net
 asturiasna.co.uk
 asuncionde.co.uk
 atechforum.com
@@ -1945,6 +1946,7 @@ dealzlookout.com
 debtity.com
 decentralcloud.net
 decision-central.com
+deckinghowto.com
 decoy-calculator.com
 dedanovem.co.uk
 dedanovom.co.uk
@@ -5715,6 +5717,7 @@ mailer.assistantenvoy.com
 mailer.assistwizard.com
 mailer.assistyourtraining.com
 mailer.associateshand.com
+mailer.astraka.net
 mailer.asturiasna.co.uk
 mailer.asuncionde.co.uk
 mailer.atechforum.com
@@ -7140,6 +7143,7 @@ mailer.dealzlookout.com
 mailer.debtity.com
 mailer.decentralcloud.net
 mailer.decision-central.com
+mailer.deckinghowto.com
 mailer.decoy-calculator.com
 mailer.dedanovem.co.uk
 mailer.dedanovom.co.uk
@@ -11255,6 +11259,7 @@ mailer.norzagaras.co.uk
 mailer.nosleep.co
 mailer.notednetwork.com
 mailer.notjustahobby.com
+mailer.notobs.com
 mailer.notprivy.com
 mailer.notyeast.com
 mailer.noutafsa.co.uk
@@ -11414,6 +11419,7 @@ mailer.onlapolpe.co.uk
 mailer.onlinebusinessph.com
 mailer.onlinechurches.co.uk
 mailer.onlinecontinents.com
+mailer.onlinemechanical.net
 mailer.onlinemoneycraft.com
 mailer.onlinerevenuesblog.com
 mailer.onlinestorefront.net
@@ -15477,6 +15483,7 @@ norzagaras.co.uk
 nosleep.co
 notednetwork.com
 notjustahobby.com
+notobs.com
 notprivy.com
 notyeast.com
 noutafsa.co.uk
@@ -15636,6 +15643,7 @@ onlapolpe.co.uk
 onlinebusinessph.com
 onlinechurches.co.uk
 onlinecontinents.com
+onlinemechanical.net
 onlinemoneycraft.com
 onlinerevenuesblog.com
 onlinestorefront.net
