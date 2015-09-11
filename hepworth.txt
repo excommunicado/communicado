@@ -11808,6 +11808,7 @@ mailer.piclur.com
 mailer.pidchas.com
 mailer.piibb.net
 mailer.piibb.org
+mailer.pilgrimriders.com
 mailer.pingrglobe.com
 mailer.pingurl.net
 mailer.pinterestmanual.com
@@ -12952,6 +12953,7 @@ mailer.templarro.com
 mailer.templatelayer.com
 mailer.templatesbot.com
 mailer.templatestornado.com
+mailer.tempqsim.net
 mailer.tempust.com
 mailer.tenarcle.co.uk
 mailer.tenbarle.co.uk
@@ -16027,6 +16029,7 @@ piclur.com
 pidchas.com
 piibb.net
 piibb.org
+pilgrimriders.com
 pingrglobe.com
 pingurl.net
 pinterestmanual.com
@@ -17171,6 +17174,7 @@ templarro.com
 templatelayer.com
 templatesbot.com
 templatestornado.com
+tempqsim.net
 tempust.com
 tenarcle.co.uk
 tenbarle.co.uk
