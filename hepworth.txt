@@ -11935,6 +11935,7 @@ mailer.procuretravel.com
 mailer.productcreationprof.com
 mailer.productdeveloped.com
 mailer.professionalcardcreations.com
+mailer.profileartis.com
 mailer.profit-generator.org
 mailer.profitmagick.com
 mailer.profitopp.com
@@ -16156,6 +16157,7 @@ procuretravel.com
 productcreationprof.com
 productdeveloped.com
 professionalcardcreations.com
+profileartis.com
 profit-generator.org
 profitmagick.com
 profitopp.com
