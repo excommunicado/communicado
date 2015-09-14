@@ -958,6 +958,7 @@ bitesizeseminars.co.uk
 bitesizewebinars.co.uk
 bixxstore.com
 bizozit.com
+bjjodyssey.com
 bksab.com
 bladeline-hosting.com
 blaror.com
@@ -6160,6 +6161,7 @@ mailer.bitesizeseminars.co.uk
 mailer.bitesizewebinars.co.uk
 mailer.bixxstore.com
 mailer.bizozit.com
+mailer.bjjodyssey.com
 mailer.bksab.com
 mailer.bladeline-hosting.com
 mailer.blaror.com
