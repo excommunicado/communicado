@@ -545,6 +545,7 @@ aurimas.org
 aurorase.co.uk
 autocogs.com
 autoleasecalculator.org
+automakerguide.com
 automodif.net
 avalonatlarge.com
 avanjogia.org
@@ -5748,6 +5749,7 @@ mailer.aurimas.org
 mailer.aurorase.co.uk
 mailer.autocogs.com
 mailer.autoleasecalculator.org
+mailer.automakerguide.com
 mailer.automodif.net
 mailer.avalonatlarge.com
 mailer.avanjogia.org
@@ -10669,6 +10671,7 @@ mailer.mcleanlabs.com
 mailer.mcmultihost.com
 mailer.mcprismarine.com
 mailer.mctracker.net
+mailer.mechanicalpdfguide.com
 mailer.medacur.com
 mailer.medcamode.co.uk
 mailer.medcamodra.co.uk
@@ -14894,6 +14897,7 @@ mcleanlabs.com
 mcmultihost.com
 mcprismarine.com
 mctracker.net
+mechanicalpdfguide.com
 medacur.com
 medcamode.co.uk
 medcamodra.co.uk
