@@ -14035,6 +14035,7 @@ mailer.wincashincome.com
 mailer.windowswallpaper.net
 mailer.wineastrologer.com
 mailer.winedelivery.org
+mailer.winegiftsclub.com
 mailer.wingll.com
 mailer.winkflat.com
 mailer.winvacuum.com
@@ -18265,6 +18266,7 @@ wincashincome.com
 windowswallpaper.net
 wineastrologer.com
 winedelivery.org
+winegiftsclub.com
 wingll.com
 winkflat.com
 winvacuum.com
