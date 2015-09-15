@@ -11830,6 +11830,7 @@ mailer.petooutjet.com
 mailer.pheobusenterprise.com
 mailer.philrealtyseller.com
 mailer.phonethunder.com
+mailer.photo-wallpaper.net
 mailer.photogur.com
 mailer.photonshack.com
 mailer.photos-pictures.com
@@ -16061,6 +16062,7 @@ petooutjet.com
 pheobusenterprise.com
 philrealtyseller.com
 phonethunder.com
+photo-wallpaper.net
 photogur.com
 photonshack.com
 photos-pictures.com
