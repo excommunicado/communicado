@@ -5048,6 +5048,7 @@ lopacin.com
 lopcampaign.com
 loperolopa.co.uk
 lopezlupis.co.uk
+lordstaffordawards.com
 lorenzolos.co.uk
 loretosera.co.uk
 losbonitos.co.uk
@@ -10256,6 +10257,7 @@ mailer.lopacin.com
 mailer.lopcampaign.com
 mailer.loperolopa.co.uk
 mailer.lopezlupis.co.uk
+mailer.lordstaffordawards.com
 mailer.lorenzolos.co.uk
 mailer.loretosera.co.uk
 mailer.losbonitos.co.uk
