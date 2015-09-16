@@ -1938,6 +1938,7 @@ datunles.co.uk
 daturafa.co.uk
 dauistre.co.uk
 davaonia.co.uk
+davidmickeyevans.com
 davmarkendesign.com
 daydoin.net
 daydreamsenate.net
@@ -7153,6 +7154,7 @@ mailer.datunles.co.uk
 mailer.daturafa.co.uk
 mailer.dauistre.co.uk
 mailer.davaonia.co.uk
+mailer.davidmickeyevans.com
 mailer.davmarkendesign.com
 mailer.daydoin.net
 mailer.daydreamsenate.net
@@ -13111,6 +13113,7 @@ mailer.thespecsblack.com
 mailer.thespinachsilo.com
 mailer.thesunsetmovement.com
 mailer.thesvpindex.com
+mailer.thesweatsite.com
 mailer.thethirdeye.org
 mailer.thethoughtgallery.com
 mailer.thethreechildren.com
@@ -17346,6 +17349,7 @@ thespecsblack.com
 thespinachsilo.com
 thesunsetmovement.com
 thesvpindex.com
+thesweatsite.com
 thethirdeye.org
 thethoughtgallery.com
 thethreechildren.com
