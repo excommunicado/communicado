@@ -12303,6 +12303,7 @@ mailer.revomoney.com
 mailer.rgbgaming.net
 mailer.rhamsripa.com
 mailer.rhystrimble.com
+mailer.ricandi.com
 mailer.rici.es
 mailer.right-world.net
 mailer.rimeigao.com
@@ -16548,6 +16549,7 @@ revomoney.com
 rgbgaming.net
 rhamsripa.com
 rhystrimble.com
+ricandi.com
 rici.es
 right-world.net
 rimeigao.com
