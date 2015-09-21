@@ -2971,6 +2971,7 @@ fordholnse.co.uk
 fordholte.co.uk
 foreverpublic.com
 forexgratis.net
+forexlivetrading.net
 forexpurchaser.com
 forexsignalshq.com
 forhearst.com
@@ -8202,6 +8203,7 @@ mailer.fordholnse.co.uk
 mailer.fordholte.co.uk
 mailer.foreverpublic.com
 mailer.forexgratis.net
+mailer.forexlivetrading.net
 mailer.forexpurchaser.com
 mailer.forexsignalshq.com
 mailer.forhearst.com
