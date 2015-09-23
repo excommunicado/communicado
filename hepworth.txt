@@ -2540,6 +2540,7 @@ epalmetum.com
 epdrama.org
 epeso.co
 epochalmoney.com
+epochjournal.org
 epomhost.com
 epsdown.com
 epsdownload.com
@@ -7775,6 +7776,7 @@ mailer.epalmetum.com
 mailer.epdrama.org
 mailer.epeso.co
 mailer.epochalmoney.com
+mailer.epochjournal.org
 mailer.epomhost.com
 mailer.epsdown.com
 mailer.epsdownload.com
