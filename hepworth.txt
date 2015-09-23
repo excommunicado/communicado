@@ -3125,6 +3125,7 @@ gameheat.org
 gamelotus.org
 gamersinferno.com
 gamescoming.org
+gameshack.co
 gamestix.com
 gamesvx.com
 gaminglatino.com
@@ -8359,6 +8360,7 @@ mailer.gameheat.org
 mailer.gamelotus.org
 mailer.gamersinferno.com
 mailer.gamescoming.org
+mailer.gameshack.co
 mailer.gamestix.com
 mailer.gamesvx.com
 mailer.gaminglatino.com
