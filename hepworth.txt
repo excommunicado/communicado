@@ -2218,6 +2218,7 @@ dotnom.net
 dotnom.org
 downloaddriver.co
 downloadfullmovie.org
+downloadlagugratis.co
 downloadpics.net
 downtownshoping.com
 doyouknowthat.net
@@ -3292,6 +3293,7 @@ gmailupdate.com
 gmodserverlist.com
 gnail.co
 gnutzo.com
+goagent.co
 goalpeek.co
 goastensha.co.uk
 godisart.com
@@ -7454,6 +7456,7 @@ mailer.dotnom.net
 mailer.dotnom.org
 mailer.downloaddriver.co
 mailer.downloadfullmovie.org
+mailer.downloadlagugratis.co
 mailer.downloadpics.net
 mailer.downtownshoping.com
 mailer.doyouknowthat.net
@@ -8528,6 +8531,7 @@ mailer.gmailupdate.com
 mailer.gmodserverlist.com
 mailer.gnail.co
 mailer.gnutzo.com
+mailer.goagent.co
 mailer.goalpeek.co
 mailer.goastensha.co.uk
 mailer.godisart.com
