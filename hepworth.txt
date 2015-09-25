@@ -14134,6 +14134,7 @@ mailer.winegiftsclub.com
 mailer.wineshopaccessories.com
 mailer.wingll.com
 mailer.winkflat.com
+mailer.winsrv.co
 mailer.winvacuum.com
 mailer.wirecraftnetworks.com
 mailer.wiredcareer.com
@@ -18394,6 +18395,7 @@ winegiftsclub.com
 wineshopaccessories.com
 wingll.com
 winkflat.com
+winsrv.co
 winvacuum.com
 wirecraftnetworks.com
 wiredcareer.com
