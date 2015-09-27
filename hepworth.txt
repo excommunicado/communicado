@@ -968,6 +968,7 @@ bjjodyssey.com
 bksab.com
 blackforestcustomcabinets.com
 blackforestwoodworking.com
+blackheelshoes.com
 bladeline-hosting.com
 blaror.com
 bleryhara.co.uk
@@ -1794,6 +1795,7 @@ cryptocurrencymarkets.com
 cryptopaperwallets.com
 cryptosovereignty.net
 cryptowater.com
+csgshq.com
 ctfsbank.com
 ctrlaltfixed.com
 ctuzigootimg.co.uk
@@ -6213,6 +6215,7 @@ mailer.bjjodyssey.com
 mailer.bksab.com
 mailer.blackforestcustomcabinets.com
 mailer.blackforestwoodworking.com
+mailer.blackheelshoes.com
 mailer.bladeline-hosting.com
 mailer.blaror.com
 mailer.bleryhara.co.uk
@@ -7039,6 +7042,7 @@ mailer.cryptocurrencymarkets.com
 mailer.cryptopaperwallets.com
 mailer.cryptosovereignty.net
 mailer.cryptowater.com
+mailer.csgshq.com
 mailer.ctfsbank.com
 mailer.ctrlaltfixed.com
 mailer.ctuzigootimg.co.uk
