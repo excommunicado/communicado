@@ -950,6 +950,7 @@ biolics.com
 biomesotherapy.org
 biometricattendance.org
 bipagite.com
+birdonline.org
 birdtopiamc.com
 biriness.co.uk
 biscomsa.com
@@ -6203,6 +6204,7 @@ mailer.biolics.com
 mailer.biomesotherapy.org
 mailer.biometricattendance.org
 mailer.bipagite.com
+mailer.birdonline.org
 mailer.birdtopiamc.com
 mailer.biriness.co.uk
 mailer.biscomsa.com
