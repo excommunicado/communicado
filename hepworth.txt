@@ -970,6 +970,7 @@ blackforestcustomcabinets.com
 blackforestwoodworking.com
 blackheelshoes.com
 bladeline-hosting.com
+bladesofnaldthal.com
 blaror.com
 bleryhara.co.uk
 bleryhare.co.uk
@@ -6222,6 +6223,7 @@ mailer.blackforestcustomcabinets.com
 mailer.blackforestwoodworking.com
 mailer.blackheelshoes.com
 mailer.bladeline-hosting.com
+mailer.bladesofnaldthal.com
 mailer.blaror.com
 mailer.bleryhara.co.uk
 mailer.bleryhare.co.uk
