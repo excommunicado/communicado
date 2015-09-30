@@ -11984,6 +11984,7 @@ mailer.polishhappy.com
 mailer.politicalcable.com
 mailer.pomnich.com
 mailer.ponderunbasesra.com
+mailer.pontenforma.net
 mailer.poolspeed.com
 mailer.popurads.com
 mailer.porcupett.com
@@ -12662,6 +12663,7 @@ mailer.shanghaitoyiwu.com
 mailer.shapecontrol.net
 mailer.sharedocs.co
 mailer.sharegifs.com
+mailer.sharesnets.net
 mailer.sharonatduke.com
 mailer.shieldagents.net
 mailer.shipk.com
@@ -12831,6 +12833,7 @@ mailer.sparkzila.com
 mailer.spcdn.co
 mailer.specbar.net
 mailer.specthehalls.com
+mailer.speedstaterecords.com
 mailer.spgservers.net
 mailer.spikecraft.com
 mailer.splashquick.com
@@ -16251,6 +16254,7 @@ polishhappy.com
 politicalcable.com
 pomnich.com
 ponderunbasesra.com
+pontenforma.net
 poolspeed.com
 popurads.com
 porcupett.com
@@ -16929,6 +16933,7 @@ shanghaitoyiwu.com
 shapecontrol.net
 sharedocs.co
 sharegifs.com
+sharesnets.net
 sharonatduke.com
 shieldagents.net
 shipk.com
@@ -17098,6 +17103,7 @@ sparkzila.com
 spcdn.co
 specbar.net
 specthehalls.com
+speedstaterecords.com
 spgservers.net
 spikecraft.com
 splashquick.com
