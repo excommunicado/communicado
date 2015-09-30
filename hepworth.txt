@@ -12505,6 +12505,7 @@ mailer.saludnueva.com
 mailer.sana38.com
 mailer.sanbornpost.com
 mailer.sanjaro.com
+mailer.sanoshigeki.com
 mailer.santiago-cabrera.com
 mailer.saphahara.co.uk
 mailer.saphahare.co.uk
@@ -16779,6 +16780,7 @@ saludnueva.com
 sana38.com
 sanbornpost.com
 sanjaro.com
+sanoshigeki.com
 santiago-cabrera.com
 saphahara.co.uk
 saphahare.co.uk
