@@ -1730,6 +1730,7 @@ coursehunt.co
 covertcameras.org
 cowriter.co
 cowriters.co
+cpbiggesteater.com
 cpixels.biz
 cpmalot.com
 cpmgun.com
@@ -6996,6 +6997,7 @@ mailer.coursehunt.co
 mailer.covertcameras.org
 mailer.cowriter.co
 mailer.cowriters.co
+mailer.cpbiggesteater.com
 mailer.cpixels.biz
 mailer.cpmalot.com
 mailer.cpmgun.com
