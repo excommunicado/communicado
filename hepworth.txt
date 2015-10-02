@@ -4066,6 +4066,7 @@ inopacansa.co.uk
 inotworking.com
 inputmentor.com
 inputshift.com
+inriga.net
 inscribeonline.com
 instaheal.org
 instant-server.com
@@ -9333,6 +9334,7 @@ mailer.inopacansa.co.uk
 mailer.inotworking.com
 mailer.inputmentor.com
 mailer.inputshift.com
+mailer.inriga.net
 mailer.inscribeonline.com
 mailer.instaheal.org
 mailer.instant-server.com
