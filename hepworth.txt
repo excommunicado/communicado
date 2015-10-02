@@ -3929,6 +3929,7 @@ igiclick.com
 ignaciades.co.uk
 iguigteros.co.uk
 iidew.com
+iiyamadirect.com
 ijmarorha.com
 iklage.com
 ilagansias.co.uk
@@ -9199,6 +9200,7 @@ mailer.igiclick.com
 mailer.ignaciades.co.uk
 mailer.iguigteros.co.uk
 mailer.iidew.com
+mailer.iiyamadirect.com
 mailer.ijmarorha.com
 mailer.iklage.com
 mailer.ilagansias.co.uk
