@@ -2921,6 +2921,7 @@ fixitorleaveit.com
 fixtermed.com
 fixyourdrone.com
 fizzlotahiey.com
+fjcjapan.org
 flagrantfive.com
 flaired.net
 flameofdestiny.com
@@ -8198,6 +8199,7 @@ mailer.fixitorleaveit.com
 mailer.fixtermed.com
 mailer.fixyourdrone.com
 mailer.fizzlotahiey.com
+mailer.fjcjapan.org
 mailer.flagrantfive.com
 mailer.flaired.net
 mailer.flameofdestiny.com
