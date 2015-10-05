@@ -11432,6 +11432,7 @@ mailer.notednetwork.com
 mailer.notjustahobby.com
 mailer.notobs.com
 mailer.notprivy.com
+mailer.notthenational.com
 mailer.notyeast.com
 mailer.noutafsa.co.uk
 mailer.noutocap.co.uk
@@ -11655,6 +11656,7 @@ mailer.opengateadvice.com
 mailer.opensimads.com
 mailer.opentechworld.com
 mailer.openthreshold.org
+mailer.operacaooutono.com
 mailer.operationgain.com
 mailer.operazionibinarie.com
 mailer.oppaman.com
@@ -15709,6 +15711,7 @@ notednetwork.com
 notjustahobby.com
 notobs.com
 notprivy.com
+notthenational.com
 notyeast.com
 noutafsa.co.uk
 noutocap.co.uk
@@ -15932,6 +15935,7 @@ opengateadvice.com
 opensimads.com
 opentechworld.com
 openthreshold.org
+operacaooutono.com
 operationgain.com
 operazionibinarie.com
 oppaman.com
