@@ -13278,6 +13278,7 @@ mailer.thespecsblack.com
 mailer.thespinachsilo.com
 mailer.thesunsetmovement.com
 mailer.thesvpindex.com
+mailer.thesvpindex.org
 mailer.thesweatsite.com
 mailer.thethirdeye.org
 mailer.thethoughtgallery.com
@@ -17561,6 +17562,7 @@ thespecsblack.com
 thespinachsilo.com
 thesunsetmovement.com
 thesvpindex.com
+thesvpindex.org
 thesweatsite.com
 thethirdeye.org
 thethoughtgallery.com
