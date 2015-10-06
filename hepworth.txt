@@ -5084,6 +5084,7 @@ lloydgregory.net
 llrise.com
 lmapl.com
 lndrnetwork.net
+lndrnetwork.org
 loadsoffreebies.com
 loadsprograms.com
 loalounge.com
@@ -10364,6 +10365,7 @@ mailer.lloydgregory.net
 mailer.llrise.com
 mailer.lmapl.com
 mailer.lndrnetwork.net
+mailer.lndrnetwork.org
 mailer.loadsoffreebies.com
 mailer.loadsprograms.com
 mailer.loalounge.com
