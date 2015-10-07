@@ -1968,6 +1968,7 @@ dcdoptas.com
 dcsit.net
 dddprintforum.com
 ddlmatic.com
+de-l.net
 dealextreme.tv
 dealsnipe.net
 dealstorm.net
@@ -7249,6 +7250,7 @@ mailer.dcdoptas.com
 mailer.dcsit.net
 mailer.dddprintforum.com
 mailer.ddlmatic.com
+mailer.de-l.net
 mailer.dealextreme.tv
 mailer.dealsnipe.net
 mailer.dealstorm.net
