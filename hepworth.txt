@@ -12154,6 +12154,7 @@ mailer.progressivehn.org
 mailer.projectcrusade.com
 mailer.projectiontv.net
 mailer.projectlifemastery.net
+mailer.promisedlandcsa.net
 mailer.promoparkforum.com
 mailer.proonvobli.com
 mailer.propertycroatia.net
@@ -16440,6 +16441,7 @@ progressivehn.org
 projectcrusade.com
 projectiontv.net
 projectlifemastery.net
+promisedlandcsa.net
 promoparkforum.com
 proonvobli.com
 propertycroatia.net
