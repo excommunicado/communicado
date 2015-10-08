@@ -12028,6 +12028,7 @@ mailer.pingurl.net
 mailer.pinterestmanual.com
 mailer.pipelinebulletin.com
 mailer.pistachioats.com
+mailer.pixcar.co
 mailer.pixeltileworld.com
 mailer.pixelwound.com
 mailer.plant4fun.com
@@ -16319,6 +16320,7 @@ pingurl.net
 pinterestmanual.com
 pipelinebulletin.com
 pistachioats.com
+pixcar.co
 pixeltileworld.com
 pixelwound.com
 plant4fun.com
