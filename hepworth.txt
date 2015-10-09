@@ -3312,6 +3312,7 @@ glerarachar.co.uk
 glintolnse.co.uk
 glintolte.co.uk
 globalleadershiptothemax.com
+globalmilk.net
 globalmoneyearner.com
 globalniel.com
 globematters.com
@@ -8601,6 +8602,7 @@ mailer.glerarachar.co.uk
 mailer.glintolnse.co.uk
 mailer.glintolte.co.uk
 mailer.globalleadershiptothemax.com
+mailer.globalmilk.net
 mailer.globalmoneyearner.com
 mailer.globalniel.com
 mailer.globematters.com
@@ -12208,6 +12210,7 @@ mailer.pvpslash.com
 mailer.pvpspartans.com
 mailer.pyron2.com
 mailer.pzphao.com
+mailer.q7qool.net
 mailer.qiparius.com
 mailer.qippis.com
 mailer.qleort.com
@@ -14094,6 +14097,7 @@ mailer.wavelengthdesigns.net
 mailer.waxormex.com
 mailer.wbden.com
 mailer.weaclaith.com
+mailer.weare8.net
 mailer.web2splash.com
 mailer.webbihosti.com
 mailer.webcashnitro.com
@@ -16500,6 +16504,7 @@ pvpslash.com
 pvpspartans.com
 pyron2.com
 pzphao.com
+q7qool.net
 qiparius.com
 qippis.com
 qleort.com
@@ -18386,6 +18391,7 @@ wavelengthdesigns.net
 waxormex.com
 wbden.com
 weaclaith.com
+weare8.net
 web2splash.com
 webbihosti.com
 webcashnitro.com
