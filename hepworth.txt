@@ -4011,6 +4011,7 @@ ilumirachar.co.uk
 im-aiko.com
 image-se.com
 imagecozy.com
+imagetrends.co
 imeldanore.co.uk
 imgapi.net
 imgstick.com
@@ -9303,6 +9304,7 @@ mailer.ilumirachar.co.uk
 mailer.im-aiko.com
 mailer.image-se.com
 mailer.imagecozy.com
+mailer.imagetrends.co
 mailer.imeldanore.co.uk
 mailer.imgapi.net
 mailer.imgstick.com
