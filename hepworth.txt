@@ -526,6 +526,7 @@ assistantenvoy.com
 assistwizard.com
 assistyourtraining.com
 associateshand.com
+assuranceprofession.com
 astraka.net
 asturiasna.co.uk
 asuncionde.co.uk
@@ -5828,6 +5829,7 @@ mailer.assistantenvoy.com
 mailer.assistwizard.com
 mailer.assistyourtraining.com
 mailer.associateshand.com
+mailer.assuranceprofession.com
 mailer.astraka.net
 mailer.asturiasna.co.uk
 mailer.asuncionde.co.uk
