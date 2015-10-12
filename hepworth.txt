@@ -65,6 +65,7 @@ abuyognes.co.uk
 acaciaroses.com
 academicadvanced.com
 acceleratedassociates.com
+acceleratedinformation.com
 acceleratedrankings.com
 acceltraffic.com
 accommodationin.net
@@ -5368,6 +5369,7 @@ mailer.abuyognes.co.uk
 mailer.acaciaroses.com
 mailer.academicadvanced.com
 mailer.acceleratedassociates.com
+mailer.acceleratedinformation.com
 mailer.acceleratedrankings.com
 mailer.acceltraffic.com
 mailer.accommodationin.net
