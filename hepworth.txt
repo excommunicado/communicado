@@ -13313,6 +13313,7 @@ mailer.thedomainlot.com
 mailer.theeventclub.co.uk
 mailer.theeventsclub.co.uk
 mailer.thegamingsource.co
+mailer.thegardnerblog.com
 mailer.thegpsmap.com
 mailer.thegreendeco.com
 mailer.theguideplace.com
@@ -17615,6 +17616,7 @@ thedomainlot.com
 theeventclub.co.uk
 theeventsclub.co.uk
 thegamingsource.co
+thegardnerblog.com
 thegpsmap.com
 thegreendeco.com
 theguideplace.com
