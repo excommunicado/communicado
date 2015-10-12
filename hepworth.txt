@@ -1973,6 +1973,7 @@ dcsit.net
 dddprintforum.com
 ddlmatic.com
 de-l.net
+de3.co
 dealextreme.tv
 dealsnipe.net
 dealstorm.net
@@ -7267,6 +7268,7 @@ mailer.dcsit.net
 mailer.dddprintforum.com
 mailer.ddlmatic.com
 mailer.de-l.net
+mailer.de3.co
 mailer.dealextreme.tv
 mailer.dealsnipe.net
 mailer.dealstorm.net
