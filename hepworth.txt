@@ -12187,6 +12187,7 @@ mailer.procuretravel.com
 mailer.productcreationprof.com
 mailer.productdeveloped.com
 mailer.professionalcardcreations.com
+mailer.proffshoreservices.net
 mailer.profileartis.com
 mailer.profit-generator.org
 mailer.profitmagick.com
@@ -16492,6 +16493,7 @@ procuretravel.com
 productcreationprof.com
 productdeveloped.com
 professionalcardcreations.com
+proffshoreservices.net
 profileartis.com
 profit-generator.org
 profitmagick.com
