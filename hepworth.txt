@@ -12096,6 +12096,7 @@ mailer.polintano.com
 mailer.polipfer.com
 mailer.polishhappy.com
 mailer.politicalcable.com
+mailer.politicasnet.org
 mailer.pomnich.com
 mailer.ponderunbasesra.com
 mailer.pontenforma.net
@@ -12250,6 +12251,7 @@ mailer.pvpslash.com
 mailer.pvpspartans.com
 mailer.pyron2.com
 mailer.pzphao.com
+mailer.q7qarbon.org
 mailer.q7qool.net
 mailer.qaskise.net
 mailer.qiparius.com
@@ -12305,6 +12307,7 @@ mailer.quotowse.co.uk
 mailer.quotoxwe.co.uk
 mailer.qwellead.com
 mailer.qwhosting.com
+mailer.qyilx.org
 mailer.qyqlcs.com
 mailer.rabattsofort.com
 mailer.radiantdelicacy.com
@@ -12687,6 +12690,7 @@ mailer.schizr.com
 mailer.schneefan.com
 mailer.scholaratory.com
 mailer.scholardripfever.com
+mailer.scilord.net
 mailer.scolger.com
 mailer.scoopreportbrief.com
 mailer.scopone.org
@@ -16407,6 +16411,7 @@ polintano.com
 polipfer.com
 polishhappy.com
 politicalcable.com
+politicasnet.org
 pomnich.com
 ponderunbasesra.com
 pontenforma.net
@@ -16561,6 +16566,7 @@ pvpslash.com
 pvpspartans.com
 pyron2.com
 pzphao.com
+q7qarbon.org
 q7qool.net
 qaskise.net
 qiparius.com
@@ -16616,6 +16622,7 @@ quotowse.co.uk
 quotoxwe.co.uk
 qwellead.com
 qwhosting.com
+qyilx.org
 qyqlcs.com
 rabattsofort.com
 radiantdelicacy.com
@@ -16998,6 +17005,7 @@ schizr.com
 schneefan.com
 scholaratory.com
 scholardripfever.com
+scilord.net
 scolger.com
 scoopreportbrief.com
 scopone.org
