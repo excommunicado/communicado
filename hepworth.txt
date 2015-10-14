@@ -538,6 +538,7 @@ athletikk.com
 athomecoffee.com
 atimonanse.co.uk
 atmathome.net
+atmbuddy.net
 atokrette.co.uk
 atptc.com
 atsunrise.org
@@ -5843,6 +5844,7 @@ mailer.athletikk.com
 mailer.athomecoffee.com
 mailer.atimonanse.co.uk
 mailer.atmathome.net
+mailer.atmbuddy.net
 mailer.atokrette.co.uk
 mailer.atptc.com
 mailer.atsunrise.org
