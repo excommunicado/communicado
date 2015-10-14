@@ -539,6 +539,7 @@ athomecoffee.com
 atimonanse.co.uk
 atmathome.net
 atmbuddy.net
+atmbuddy.org
 atokrette.co.uk
 atptc.com
 atsunrise.org
@@ -5845,6 +5846,7 @@ mailer.athomecoffee.com
 mailer.atimonanse.co.uk
 mailer.atmathome.net
 mailer.atmbuddy.net
+mailer.atmbuddy.org
 mailer.atokrette.co.uk
 mailer.atptc.com
 mailer.atsunrise.org
@@ -12693,6 +12695,7 @@ mailer.scholaratory.com
 mailer.scholardripfever.com
 mailer.schwarzfarms.com
 mailer.scilord.net
+mailer.scilord.org
 mailer.scolger.com
 mailer.scoopreportbrief.com
 mailer.scopone.org
@@ -17010,6 +17013,7 @@ scholaratory.com
 scholardripfever.com
 schwarzfarms.com
 scilord.net
+scilord.org
 scolger.com
 scoopreportbrief.com
 scopone.org
