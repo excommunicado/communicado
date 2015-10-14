@@ -12519,6 +12519,7 @@ mailer.risen-network.com
 mailer.risiko-los.com
 mailer.ritterth.com
 mailer.rivenditore.org
+mailer.riverofhearts.org
 mailer.rivirally.co.uk
 mailer.rjcarver.com
 mailer.rkod.org
@@ -16829,6 +16830,7 @@ risen-network.com
 risiko-los.com
 ritterth.com
 rivenditore.org
+riverofhearts.org
 rivirally.co.uk
 rjcarver.com
 rkod.org
