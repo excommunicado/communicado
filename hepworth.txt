@@ -3046,6 +3046,7 @@ freefirestarter.com
 freefromfiat.net
 freeporvas.co.uk
 freeposweb.com
+freewaywatch.org
 freexoption.com
 frenze.biz
 freoneura.co.uk
@@ -8356,6 +8357,7 @@ mailer.freefirestarter.com
 mailer.freefromfiat.net
 mailer.freeporvas.co.uk
 mailer.freeposweb.com
+mailer.freewaywatch.org
 mailer.freexoption.com
 mailer.frenze.biz
 mailer.freoneura.co.uk
