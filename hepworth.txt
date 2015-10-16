@@ -12262,6 +12262,7 @@ mailer.pvpslash.com
 mailer.pvpspartans.com
 mailer.pyron2.com
 mailer.pzphao.com
+mailer.q-hat.net
 mailer.q7qarbon.org
 mailer.q7qool.net
 mailer.qaskise.net
@@ -16583,6 +16584,7 @@ pvpslash.com
 pvpspartans.com
 pyron2.com
 pzphao.com
+q-hat.net
 q7qarbon.org
 q7qool.net
 qaskise.net
