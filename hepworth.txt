@@ -12803,11 +12803,13 @@ mailer.seuleda.com
 mailer.seven-black.com
 mailer.seventenarts.com
 mailer.sewitwouldseam.com
+mailer.sgsservice.org
 mailer.sgsupermeat.com
 mailer.shadow-born.com
 mailer.shadow200.com
 mailer.shaktihurst.com
 mailer.shanghaitoyiwu.com
+mailer.shape-fit.org
 mailer.shapecontrol.net
 mailer.sharedocs.co
 mailer.sharegifs.com
@@ -17125,11 +17127,13 @@ seuleda.com
 seven-black.com
 seventenarts.com
 sewitwouldseam.com
+sgsservice.org
 sgsupermeat.com
 shadow-born.com
 shadow200.com
 shaktihurst.com
 shanghaitoyiwu.com
+shape-fit.org
 shapecontrol.net
 sharedocs.co
 sharegifs.com
