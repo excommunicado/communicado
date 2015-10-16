@@ -12830,6 +12830,7 @@ mailer.shotset.com
 mailer.show-the-pic.com
 mailer.showchannels.net
 mailer.showroom500.com
+mailer.showtvseries.net
 mailer.shredmeister.com
 mailer.shuttersky.org
 mailer.siansa.net
@@ -17155,6 +17156,7 @@ shotset.com
 show-the-pic.com
 showchannels.net
 showroom500.com
+showtvseries.net
 shredmeister.com
 shuttersky.org
 siansa.net
