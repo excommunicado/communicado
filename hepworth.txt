@@ -12803,6 +12803,7 @@ mailer.seuleda.com
 mailer.seven-black.com
 mailer.seventenarts.com
 mailer.sewitwouldseam.com
+mailer.sgsservice.org
 mailer.sgsupermeat.com
 mailer.shadow-born.com
 mailer.shadow200.com
@@ -17125,6 +17126,7 @@ seuleda.com
 seven-black.com
 seventenarts.com
 sewitwouldseam.com
+sgsservice.org
 sgsupermeat.com
 shadow-born.com
 shadow200.com
