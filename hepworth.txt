@@ -1855,6 +1855,7 @@ curiousdomains.com
 curiousposts.com
 currimaon.co.uk
 customvactions.com
+cutemagic.net
 cutleryclothing.com
 cuveewine.net
 cuyaposta.co.uk
@@ -7169,6 +7170,7 @@ mailer.curiousdomains.com
 mailer.curiousposts.com
 mailer.currimaon.co.uk
 mailer.customvactions.com
+mailer.cutemagic.net
 mailer.cutleryclothing.com
 mailer.cuveewine.net
 mailer.cuyaposta.co.uk
