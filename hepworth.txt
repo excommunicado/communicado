@@ -12068,6 +12068,7 @@ mailer.pernasinqua.co.uk
 mailer.pernasinque.co.uk
 mailer.pernasinqui.co.uk
 mailer.pernasinquo.co.uk
+mailer.perryshoemaker.com
 mailer.personalbank.net
 mailer.perucoin.com
 mailer.peterblogs.net
@@ -16400,6 +16401,7 @@ pernasinqua.co.uk
 pernasinque.co.uk
 pernasinqui.co.uk
 pernasinquo.co.uk
+perryshoemaker.com
 personalbank.net
 perucoin.com
 peterblogs.net
