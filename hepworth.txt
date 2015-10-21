@@ -14239,6 +14239,7 @@ mailer.weddingcakedesigns.org
 mailer.weddingseed.co
 mailer.weeklygamers.net
 mailer.wefirino.com
+mailer.wellsbridge.net
 mailer.wellspent.co
 mailer.welstsi.com
 mailer.wembeus.com
@@ -18576,6 +18577,7 @@ weddingcakedesigns.org
 weddingseed.co
 weeklygamers.net
 wefirino.com
+wellsbridge.net
 wellspent.co
 welstsi.com
 wembeus.com
