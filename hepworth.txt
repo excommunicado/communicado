@@ -12339,6 +12339,7 @@ mailer.qulasalorcse.co.uk
 mailer.quotafsa.co.uk
 mailer.quoterows.com
 mailer.quotesrow.com
+mailer.quotidianoviaggi.com
 mailer.quotocap.co.uk
 mailer.quotowse.co.uk
 mailer.quotoxwe.co.uk
@@ -16678,6 +16679,7 @@ qulasalorcse.co.uk
 quotafsa.co.uk
 quoterows.com
 quotesrow.com
+quotidianoviaggi.com
 quotocap.co.uk
 quotowse.co.uk
 quotoxwe.co.uk
