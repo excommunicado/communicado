@@ -12808,6 +12808,7 @@ mailer.sensatle.co.uk
 mailer.sensebuilt.com
 mailer.sensemyself.com
 mailer.sentalle.co.uk
+mailer.sentientprose.com
 mailer.sentiman.net
 mailer.sentryresources.com
 mailer.sentuhanbaiduri.com
@@ -17150,6 +17151,7 @@ sensatle.co.uk
 sensebuilt.com
 sensemyself.com
 sentalle.co.uk
+sentientprose.com
 sentiman.net
 sentryresources.com
 sentuhanbaiduri.com
