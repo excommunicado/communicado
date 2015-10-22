@@ -4446,6 +4446,7 @@ jojiapps.com
 jollyrp.com
 jolobolo.co.uk
 jomaliga.co.uk
+jomkraf.com
 jonathangroff.net
 jonesher.co.uk
 jonycohen.com
@@ -9769,6 +9770,7 @@ mailer.jojiapps.com
 mailer.jollyrp.com
 mailer.jolobolo.co.uk
 mailer.jomaliga.co.uk
+mailer.jomkraf.com
 mailer.jonathangroff.net
 mailer.jonesher.co.uk
 mailer.jonycohen.com
