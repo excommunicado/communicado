@@ -14223,6 +14223,7 @@ mailer.waxormex.com
 mailer.wbden.com
 mailer.weaclaith.com
 mailer.weare8.net
+mailer.weare8.org
 mailer.web2splash.com
 mailer.webbihosti.com
 mailer.webcashnitro.com
@@ -18571,6 +18572,7 @@ waxormex.com
 wbden.com
 weaclaith.com
 weare8.net
+weare8.org
 web2splash.com
 webbihosti.com
 webcashnitro.com
