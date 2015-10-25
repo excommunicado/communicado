@@ -529,6 +529,7 @@ assistwizard.com
 assistyourtraining.com
 associateshand.com
 assuranceprofession.com
+astonglobaltrading.com
 astraka.net
 asturiasna.co.uk
 asuncionde.co.uk
@@ -5859,6 +5860,7 @@ mailer.assistwizard.com
 mailer.assistyourtraining.com
 mailer.associateshand.com
 mailer.assuranceprofession.com
+mailer.astonglobaltrading.com
 mailer.astraka.net
 mailer.asturiasna.co.uk
 mailer.asuncionde.co.uk
