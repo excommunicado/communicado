@@ -11465,6 +11465,7 @@ mailer.newsderp.com
 mailer.newsjournal.co
 mailer.newsquack.com
 mailer.newsurprises.net
+mailer.newsworthydaily.com
 mailer.newtechnologydevices.com
 mailer.newtonmc.com
 mailer.nexteda.com
@@ -15823,6 +15824,7 @@ newsderp.com
 newsjournal.co
 newsquack.com
 newsurprises.net
+newsworthydaily.com
 newtechnologydevices.com
 newtonmc.com
 nexteda.com
