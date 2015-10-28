@@ -11386,6 +11386,7 @@ mailer.nateglonthoc.com
 mailer.nates.me
 mailer.natividado.co.uk
 mailer.natoninios.co.uk
+mailer.naturainews.com
 mailer.natural-remedies.co
 mailer.naturalgaspoolheater.net
 mailer.naturalperfectvision.net
@@ -12179,6 +12180,7 @@ mailer.pluslatin.com
 mailer.pmnr.net
 mailer.poenye.com
 mailer.pointdecontact.org
+mailer.pointsector.com
 mailer.pokertruth.net
 mailer.polintano.com
 mailer.polipfer.com
@@ -15760,6 +15762,7 @@ nateglonthoc.com
 nates.me
 natividado.co.uk
 natoninios.co.uk
+naturainews.com
 natural-remedies.co
 naturalgaspoolheater.net
 naturalperfectvision.net
@@ -16553,6 +16556,7 @@ pluslatin.com
 pmnr.net
 poenye.com
 pointdecontact.org
+pointsector.com
 pokertruth.net
 polintano.com
 polipfer.com
