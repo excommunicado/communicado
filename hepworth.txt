@@ -11282,6 +11282,7 @@ mailer.musuanbito.co.uk
 mailer.mutialavio.co.uk
 mailer.mutualfundcalculator.org
 mailer.mutuoprimacasa.org
+mailer.muvabeauty.com
 mailer.muzfilm.net
 mailer.mw-efnet.com
 mailer.mwgaming.net
@@ -15650,6 +15651,7 @@ musuanbito.co.uk
 mutialavio.co.uk
 mutualfundcalculator.org
 mutuoprimacasa.org
+muvabeauty.com
 muzfilm.net
 mw-efnet.com
 mwgaming.net
