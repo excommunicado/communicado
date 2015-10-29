@@ -2477,6 +2477,9 @@ efficientblog.com
 efinancetips.org
 eggexpress.com
 egosugar.com
+egyptianwork.com
+egyptianworks.com
+egyptified.com
 ehistoria.net
 eidengineering.com
 einestimme.com
@@ -7815,6 +7818,9 @@ mailer.efficientblog.com
 mailer.efinancetips.org
 mailer.eggexpress.com
 mailer.egosugar.com
+mailer.egyptianwork.com
+mailer.egyptianworks.com
+mailer.egyptified.com
 mailer.ehistoria.net
 mailer.eidengineering.com
 mailer.einestimme.com
