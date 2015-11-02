@@ -511,6 +511,7 @@ aruvandi.co.uk
 aruvytre.co.uk
 ascellian.com
 ascensionshows.com
+asd-stan.com
 asdics.com
 ash-benson.net
 asinganda.co.uk
@@ -5858,6 +5859,7 @@ mailer.aruvandi.co.uk
 mailer.aruvytre.co.uk
 mailer.ascellian.com
 mailer.ascensionshows.com
+mailer.asd-stan.com
 mailer.asdics.com
 mailer.ash-benson.net
 mailer.asinganda.co.uk
