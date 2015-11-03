@@ -3379,6 +3379,7 @@ golden45.com
 golden82.com
 goldinvestingadvice.net
 goldiramadeeasy.com
+goldirasinvesting.net
 goldlivechart.com
 goldll.com
 goldlleaf.com
@@ -8728,6 +8729,7 @@ mailer.golden45.com
 mailer.golden82.com
 mailer.goldinvestingadvice.net
 mailer.goldiramadeeasy.com
+mailer.goldirasinvesting.net
 mailer.goldlivechart.com
 mailer.goldll.com
 mailer.goldlleaf.com
@@ -12446,6 +12448,7 @@ mailer.ramimalek.net
 mailer.raminoonline.org
 mailer.randalldana.com
 mailer.randberger.com
+mailer.rangerdangerapp.com
 mailer.raqhive.net
 mailer.raqhive.org
 mailer.raspberrystrength.com
@@ -12992,6 +12995,7 @@ mailer.siloneuryn.co.uk
 mailer.siloneuryo.co.uk
 mailer.siloneurys.co.uk
 mailer.siloneuryt.co.uk
+mailer.silver401krollover.com
 mailer.silverbullionbuilder.com
 mailer.silverfoxpresents.com
 mailer.silveriniras.com
@@ -16841,6 +16845,7 @@ ramimalek.net
 raminoonline.org
 randalldana.com
 randberger.com
+rangerdangerapp.com
 raqhive.net
 raqhive.org
 raspberrystrength.com
@@ -17387,6 +17392,7 @@ siloneuryn.co.uk
 siloneuryo.co.uk
 siloneurys.co.uk
 siloneuryt.co.uk
+silver401krollover.com
 silverbullionbuilder.com
 silverfoxpresents.com
 silveriniras.com
