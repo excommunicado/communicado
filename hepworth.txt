@@ -533,6 +533,7 @@ assistyourtraining.com
 associateshand.com
 assuranceprofession.com
 astonglobaltrading.com
+astore4media.com
 astraka.net
 asturiasna.co.uk
 asuncionde.co.uk
@@ -5884,6 +5885,7 @@ mailer.assistyourtraining.com
 mailer.associateshand.com
 mailer.assuranceprofession.com
 mailer.astonglobaltrading.com
+mailer.astore4media.com
 mailer.astraka.net
 mailer.asturiasna.co.uk
 mailer.asuncionde.co.uk
@@ -12218,6 +12220,7 @@ mailer.polipfer.com
 mailer.polishhappy.com
 mailer.politicalcable.com
 mailer.politicasnet.org
+mailer.polosanbandung.com
 mailer.pomnich.com
 mailer.ponderunbasesra.com
 mailer.pontenforma.net
@@ -16615,6 +16618,7 @@ polipfer.com
 polishhappy.com
 politicalcable.com
 politicasnet.org
+polosanbandung.com
 pomnich.com
 ponderunbasesra.com
 pontenforma.net
