@@ -12186,6 +12186,7 @@ mailer.piattaformeforex.net
 mailer.pickledcukes.com
 mailer.piclur.com
 mailer.pidchas.com
+mailer.pigletbeach.com
 mailer.piibb.net
 mailer.piibb.org
 mailer.pilgrimriders.com
@@ -16585,6 +16586,7 @@ piattaformeforex.net
 pickledcukes.com
 piclur.com
 pidchas.com
+pigletbeach.com
 piibb.net
 piibb.org
 pilgrimriders.com
