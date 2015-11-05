@@ -14459,6 +14459,7 @@ mailer.whmhosting.net
 mailer.wholehomewater.com
 mailer.wholesalespain.com
 mailer.wifi-scale.com
+mailer.wifiprogress.com
 mailer.wiiiinds.com
 mailer.wiindsong.com
 mailer.wiisalute.com
@@ -18859,6 +18860,7 @@ whmhosting.net
 wholehomewater.com
 wholesalespain.com
 wifi-scale.com
+wifiprogress.com
 wiiiinds.com
 wiindsong.com
 wiisalute.com
