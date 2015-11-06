@@ -3412,6 +3412,7 @@ gorefolte.co.uk
 gorfashion.com
 gosixv.co
 gosmarttips.com
+gotagaytay.com
 gotrendx.co
 gotthegroove.net
 gourmetfoodonline.net
@@ -8769,6 +8770,7 @@ mailer.gorefolte.co.uk
 mailer.gorfashion.com
 mailer.gosixv.co
 mailer.gosmarttips.com
+mailer.gotagaytay.com
 mailer.gotrendx.co
 mailer.gotthegroove.net
 mailer.gourmetfoodonline.net
