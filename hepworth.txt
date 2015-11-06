@@ -3379,6 +3379,7 @@ gofiddle.org
 goingintothelight.com
 goironfx.com
 gojegoho.com
+gold4d.com
 gold4d.net
 golden45.com
 golden82.com
@@ -8738,6 +8739,7 @@ mailer.gofiddle.org
 mailer.goingintothelight.com
 mailer.goironfx.com
 mailer.gojegoho.com
+mailer.gold4d.com
 mailer.gold4d.net
 mailer.golden45.com
 mailer.golden82.com
@@ -11183,6 +11185,7 @@ mailer.minerow.com
 mailer.minerow.net
 mailer.minevale.net
 mailer.minglanila.co.uk
+mailer.minifarmbulk.com
 mailer.minigamearena.com
 mailer.minigroupbuy.com
 mailer.miniwinclothing.com
@@ -12859,6 +12862,7 @@ mailer.sdmindy.com
 mailer.sdvisalawyer.com
 mailer.searsportbank.com
 mailer.seasaltcentral.com
+mailer.seasontvseries.com
 mailer.seasontvseries.net
 mailer.sectorsatovi.com
 mailer.sectortewracing.com
@@ -15588,6 +15592,7 @@ minerow.com
 minerow.net
 minevale.net
 minglanila.co.uk
+minifarmbulk.com
 minigamearena.com
 minigroupbuy.com
 miniwinclothing.com
@@ -17264,6 +17269,7 @@ sdmindy.com
 sdvisalawyer.com
 searsportbank.com
 seasaltcentral.com
+seasontvseries.com
 seasontvseries.net
 sectorsatovi.com
 sectortewracing.com
