@@ -544,6 +544,7 @@ athletict.com
 athletikk.com
 athomecoffee.com
 atimonanse.co.uk
+atlasshippinglogistics.com
 atmathome.net
 atmbuddy.net
 atmbuddy.org
@@ -5906,6 +5907,7 @@ mailer.athletict.com
 mailer.athletikk.com
 mailer.athomecoffee.com
 mailer.atimonanse.co.uk
+mailer.atlasshippinglogistics.com
 mailer.atmathome.net
 mailer.atmbuddy.net
 mailer.atmbuddy.org
