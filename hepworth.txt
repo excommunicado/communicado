@@ -5346,6 +5346,7 @@ magdalenag.co.uk
 magdiwanga.co.uk
 magic-app.org
 magicbulletaccessories.net
+magicgods.com
 magpeturet.co.uk
 magsaysayo.co.uk
 magsingala.co.uk
@@ -10704,6 +10705,7 @@ mailer.magdalenag.co.uk
 mailer.magdiwanga.co.uk
 mailer.magic-app.org
 mailer.magicbulletaccessories.net
+mailer.magicgods.com
 mailer.magpeturet.co.uk
 mailer.magsaysayo.co.uk
 mailer.magsingala.co.uk
@@ -11169,6 +11171,7 @@ mailer.mimbirya.com
 mailer.minabarava.co.uk
 mailer.minalabacs.co.uk
 mailer.minalintos.co.uk
+mailer.mindfulfindings.com
 mailer.mindoronos.co.uk
 mailer.mindthegapradio.com
 mailer.minecraftpeople.com
@@ -11182,6 +11185,7 @@ mailer.minevale.net
 mailer.minglanila.co.uk
 mailer.minigamearena.com
 mailer.minigroupbuy.com
+mailer.miniwinclothing.com
 mailer.mintactionfigures.com
 mailer.mirraguela.co.uk
 mailer.mirraguele.co.uk
@@ -15572,6 +15576,7 @@ mimbirya.com
 minabarava.co.uk
 minalabacs.co.uk
 minalintos.co.uk
+mindfulfindings.com
 mindoronos.co.uk
 mindthegapradio.com
 minecraftpeople.com
@@ -15585,6 +15590,7 @@ minevale.net
 minglanila.co.uk
 minigamearena.com
 minigroupbuy.com
+miniwinclothing.com
 mintactionfigures.com
 mirraguela.co.uk
 mirraguele.co.uk
