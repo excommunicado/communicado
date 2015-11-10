@@ -4768,6 +4768,7 @@ klenarevinge.co.uk
 klenariartenge.co.uk
 klenarownelste.co.uk
 klg-network.org
+kloop.org
 klyrahara.co.uk
 klyrahare.co.uk
 klyrahari.co.uk
@@ -10135,6 +10136,7 @@ mailer.klenarevinge.co.uk
 mailer.klenariartenge.co.uk
 mailer.klenarownelste.co.uk
 mailer.klg-network.org
+mailer.kloop.org
 mailer.klyrahara.co.uk
 mailer.klyrahare.co.uk
 mailer.klyrahari.co.uk
