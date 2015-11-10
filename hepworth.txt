@@ -13650,6 +13650,7 @@ mailer.topreviews.co
 mailer.topseriale.net
 mailer.toptenyoutube.com
 mailer.tornadoinoklahoma.com
+mailer.torreastura.org
 mailer.toruswheel.com
 mailer.totalassociates.com
 mailer.totallybook.com
@@ -18065,6 +18066,7 @@ topreviews.co
 topseriale.net
 toptenyoutube.com
 tornadoinoklahoma.com
+torreastura.org
 toruswheel.com
 totalassociates.com
 totallybook.com
