@@ -5181,6 +5181,7 @@ locobacon.com
 locomurmystery.co.uk
 locsincrae.co.uk
 lofq.net
+logicexports.com
 logicgeniein.com
 logindisini.com
 loginee.com
@@ -10550,6 +10551,7 @@ mailer.locobacon.com
 mailer.locomurmystery.co.uk
 mailer.locsincrae.co.uk
 mailer.lofq.net
+mailer.logicexports.com
 mailer.logicgeniein.com
 mailer.logindisini.com
 mailer.loginee.com
