@@ -2493,6 +2493,7 @@ efficientblog.com
 efinancetips.org
 eggexpress.com
 egosugar.com
+egyptianshowrooms.com
 egyptianwork.com
 egyptianworks.com
 egyptified.com
@@ -7870,6 +7871,7 @@ mailer.efficientblog.com
 mailer.efinancetips.org
 mailer.eggexpress.com
 mailer.egosugar.com
+mailer.egyptianshowrooms.com
 mailer.egyptianwork.com
 mailer.egyptianworks.com
 mailer.egyptified.com
