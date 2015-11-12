@@ -521,6 +521,7 @@ asinganda.co.uk
 asipuloste.co.uk
 askarsgard.org
 askewdememp.com
+asoiduyioas.com
 aspdoious.com
 aspectservers.com
 aspp3.com
@@ -5897,6 +5898,7 @@ mailer.asinganda.co.uk
 mailer.asipuloste.co.uk
 mailer.askarsgard.org
 mailer.askewdememp.com
+mailer.asoiduyioas.com
 mailer.aspdoious.com
 mailer.aspectservers.com
 mailer.aspp3.com
