@@ -3872,7 +3872,6 @@ howinstall.com
 hs-support.org
 htdzn.com
 htsmanual.co
-https://github.com/excommunicado/communicado/pull/79
 htuzigooting.co.uk
 hu1.co
 hubcraftmc.com
@@ -9251,7 +9250,6 @@ mailer.howinstall.com
 mailer.hs-support.org
 mailer.htdzn.com
 mailer.htsmanual.co
-mailer.https://github.com/excommunicado/communicado/pull/79
 mailer.htuzigooting.co.uk
 mailer.hu1.co
 mailer.hubcraftmc.com
