@@ -2328,6 +2328,7 @@ duerosia.co.uk
 duingola.co.uk
 dulagios.co.uk
 dumaguetel.co.uk
+dumaicyber.org
 dumalagian.co.uk
 dumalinaos.co.uk
 dumalnegre.co.uk
@@ -7710,6 +7711,7 @@ mailer.duerosia.co.uk
 mailer.duingola.co.uk
 mailer.dulagios.co.uk
 mailer.dumaguetel.co.uk
+mailer.dumaicyber.org
 mailer.dumalagian.co.uk
 mailer.dumalinaos.co.uk
 mailer.dumalnegre.co.uk
