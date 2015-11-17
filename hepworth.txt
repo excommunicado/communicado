@@ -2497,6 +2497,7 @@ efinancetips.org
 eggexpress.com
 eggplantandasparagus.com
 egosugar.com
+egyptiangoods.com
 egyptianhomemade.com
 egyptianshowroom.com
 egyptianshowrooms.com
@@ -7886,6 +7887,7 @@ mailer.efinancetips.org
 mailer.eggexpress.com
 mailer.eggplantandasparagus.com
 mailer.egosugar.com
+mailer.egyptiangoods.com
 mailer.egyptianhomemade.com
 mailer.egyptianshowroom.com
 mailer.egyptianshowrooms.com
