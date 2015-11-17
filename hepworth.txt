@@ -14143,6 +14143,7 @@ mailer.vedcumodra.co.uk
 mailer.vedcumods.co.uk
 mailer.vedcumody.co.uk
 mailer.vedigratis.net
+mailer.vefadergisi.com
 mailer.vegamaster.com
 mailer.veganmemes.com
 mailer.vegasbarterboss.com
@@ -18571,6 +18572,7 @@ vedcumodra.co.uk
 vedcumods.co.uk
 vedcumody.co.uk
 vedigratis.net
+vefadergisi.com
 vegamaster.com
 veganmemes.com
 vegasbarterboss.com
