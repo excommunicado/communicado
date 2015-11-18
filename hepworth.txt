@@ -11218,6 +11218,7 @@ mailer.michelads.com
 mailer.michelleborth.net
 mailer.microcarracing.com
 mailer.microcosim.com
+mailer.microframeworkprojects.com
 mailer.microjobsclub.com
 mailer.mid-lifecommunicators.com
 mailer.midlifecommunicators.com
@@ -15650,6 +15651,7 @@ michelads.com
 michelleborth.net
 microcarracing.com
 microcosim.com
+microframeworkprojects.com
 microjobsclub.com
 mid-lifecommunicators.com
 midlifecommunicators.com
