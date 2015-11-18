@@ -11226,6 +11226,7 @@ mailer.midnightblossom.net
 mailer.midsalipto.co.uk
 mailer.midsayapos.co.uk
 mailer.midufc.net
+mailer.mightyassets.com
 mailer.miguelaris.co.uk
 mailer.mikaboorem.org
 mailer.mikkonen.co
@@ -15659,6 +15660,7 @@ midnightblossom.net
 midsalipto.co.uk
 midsayapos.co.uk
 midufc.net
+mightyassets.com
 miguelaris.co.uk
 mikaboorem.org
 mikkonen.co
