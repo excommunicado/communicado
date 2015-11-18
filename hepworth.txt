@@ -14428,6 +14428,7 @@ mailer.wavelengthdesigns.net
 mailer.waxormex.com
 mailer.wbden.com
 mailer.weaclaith.com
+mailer.weare8.co
 mailer.weare8.net
 mailer.weare8.org
 mailer.web2splash.com
@@ -18862,6 +18863,7 @@ wavelengthdesigns.net
 waxormex.com
 wbden.com
 weaclaith.com
+weare8.co
 weare8.net
 weare8.org
 web2splash.com
