@@ -14165,6 +14165,7 @@ mailer.veluis.com
 mailer.vencoach.net
 mailer.vencoach.org
 mailer.vendit.net
+mailer.venetaweb.com
 mailer.venicetravels.net
 mailer.venimal.com
 mailer.venomgn.com
@@ -18603,6 +18604,7 @@ veluis.com
 vencoach.net
 vencoach.org
 vendit.net
+venetaweb.com
 venicetravels.net
 venimal.com
 venomgn.com
