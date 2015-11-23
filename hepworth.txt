@@ -13196,6 +13196,7 @@ mailer.slymo.com
 mailer.smartgearsource.com
 mailer.smartgoggle.net
 mailer.smartgoggle.org
+mailer.smarthomelife.net
 mailer.smartphonemessenger.com
 mailer.smcdill.com
 mailer.smeassets.com
@@ -17644,6 +17645,7 @@ slymo.com
 smartgearsource.com
 smartgoggle.net
 smartgoggle.org
+smarthomelife.net
 smartphonemessenger.com
 smcdill.com
 smeassets.com
