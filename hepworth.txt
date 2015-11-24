@@ -1754,6 +1754,7 @@ corpuzila.co.uk
 cortegido.co.uk
 cortescua.co.uk
 cortezcoa.co.uk
+costavacations.net
 costumeroom99.com
 cotabatol.co.uk
 countdown-bids.com
@@ -7158,6 +7159,7 @@ mailer.corpuzila.co.uk
 mailer.cortegido.co.uk
 mailer.cortescua.co.uk
 mailer.cortezcoa.co.uk
+mailer.costavacations.net
 mailer.costumeroom99.com
 mailer.cotabatol.co.uk
 mailer.countdown-bids.com
