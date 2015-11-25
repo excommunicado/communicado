@@ -12660,6 +12660,7 @@ mailer.redflaghosting.net
 mailer.redflaghosting.org
 mailer.redhandmarketing.com
 mailer.redhawkwebmedia.com
+mailer.redmoon-online.com
 mailer.redpol.co
 mailer.redragon.co
 mailer.redstonenetworks.net
@@ -17116,6 +17117,7 @@ redflaghosting.net
 redflaghosting.org
 redhandmarketing.com
 redhawkwebmedia.com
+redmoon-online.com
 redpol.co
 redragon.co
 redstonenetworks.net
