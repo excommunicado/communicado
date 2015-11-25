@@ -12596,6 +12596,7 @@ mailer.raminoonline.org
 mailer.randalldana.com
 mailer.randberger.com
 mailer.rangerdangerapp.com
+mailer.rapidmarketingroute.com
 mailer.raqhive.net
 mailer.raqhive.org
 mailer.raspberrystrength.com
@@ -17049,6 +17050,7 @@ raminoonline.org
 randalldana.com
 randberger.com
 rangerdangerapp.com
+rapidmarketingroute.com
 raqhive.net
 raqhive.org
 raspberrystrength.com
