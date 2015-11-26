@@ -11644,6 +11644,7 @@ mailer.newbodytoday.com
 mailer.newbridgepark.org
 mailer.newcalaras.co.uk
 mailer.newemploptions.com
+mailer.neweuropetravels.com
 mailer.newgadgetslaunched.com
 mailer.newreleaseproducts.com
 mailer.news365.org
@@ -16103,6 +16104,7 @@ newbodytoday.com
 newbridgepark.org
 newcalaras.co.uk
 newemploptions.com
+neweuropetravels.com
 newgadgetslaunched.com
 newreleaseproducts.com
 news365.org
