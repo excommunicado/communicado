@@ -989,6 +989,7 @@ bitcoinchronical.com
 bitcoinchronical.net
 bitcoinplay.org
 bitcoinsentinal.com
+bitcoinshoutout.com
 bitcoinwheel.org
 bitebite.co.uk
 bitesizeseminars.co.uk
@@ -6401,6 +6402,7 @@ mailer.bitcoinchronical.com
 mailer.bitcoinchronical.net
 mailer.bitcoinplay.org
 mailer.bitcoinsentinal.com
+mailer.bitcoinshoutout.com
 mailer.bitcoinwheel.org
 mailer.bitebite.co.uk
 mailer.bitesizeseminars.co.uk
