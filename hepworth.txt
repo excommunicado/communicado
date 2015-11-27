@@ -14492,6 +14492,7 @@ mailer.waterehtwo.com
 mailer.waterfalloptions.com
 mailer.waterlsl.com
 mailer.watersongreads.com
+mailer.watertownindependents.org
 mailer.wave-blaze.com
 mailer.wavelengthdesigns.net
 mailer.waxormex.com
@@ -18952,6 +18953,7 @@ waterehtwo.com
 waterfalloptions.com
 waterlsl.com
 watersongreads.com
+watertownindependents.org
 wave-blaze.com
 wavelengthdesigns.net
 waxormex.com
