@@ -2282,6 +2282,7 @@ dotnom.ca
 dotnom.co
 dotnom.net
 dotnom.org
+doveandsnake.com
 dowlive.com
 downloaddriver.co
 downloadfullmovie.org
@@ -7696,6 +7697,7 @@ mailer.dotnom.ca
 mailer.dotnom.co
 mailer.dotnom.net
 mailer.dotnom.org
+mailer.doveandsnake.com
 mailer.dowlive.com
 mailer.downloaddriver.co
 mailer.downloadfullmovie.org
