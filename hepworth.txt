@@ -2868,6 +2868,7 @@ familyhealthstore.net
 famyantera.co.uk
 fanaid.net
 fantasistas.com
+fantasyscribe.com
 farmingmachinery.net
 farmingxchange.org
 fascinating.co
@@ -8283,6 +8284,7 @@ mailer.familyhealthstore.net
 mailer.famyantera.co.uk
 mailer.fanaid.net
 mailer.fantasistas.com
+mailer.fantasyscribe.com
 mailer.farmingmachinery.net
 mailer.farmingxchange.org
 mailer.fascinating.co
