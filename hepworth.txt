@@ -13492,6 +13492,7 @@ mailer.taobaochat.com
 mailer.taobaoclips.com
 mailer.taobaocommunity.com
 mailer.taobaocoupons.com
+mailer.taobaodeals.com
 mailer.taobaoenglish.net
 mailer.taobaoforums.com
 mailer.taobaofree.com
@@ -17955,6 +17956,7 @@ taobaochat.com
 taobaoclips.com
 taobaocommunity.com
 taobaocoupons.com
+taobaodeals.com
 taobaoenglish.net
 taobaoforums.com
 taobaofree.com
