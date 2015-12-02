@@ -2053,6 +2053,7 @@ delartes.co.uk
 delectablebelle.com
 delfinio.co.uk
 delicatelyhazy.com
+deliciasdelaabuela.net
 delitosecologicos.com
 deltrixis.com
 delwarava.co.uk
@@ -7473,6 +7474,7 @@ mailer.delartes.co.uk
 mailer.delectablebelle.com
 mailer.delfinio.co.uk
 mailer.delicatelyhazy.com
+mailer.deliciasdelaabuela.net
 mailer.delitosecologicos.com
 mailer.deltrixis.com
 mailer.delwarava.co.uk
