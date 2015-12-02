@@ -3451,6 +3451,7 @@ goodwinginnifer.com
 googlytics.net
 goomelis.com
 goquanta.net
+gordonwallingnd.com
 gorefolte.co.uk
 gorfashion.com
 gosixv.co
@@ -8870,6 +8871,7 @@ mailer.goodwinginnifer.com
 mailer.googlytics.net
 mailer.goomelis.com
 mailer.goquanta.net
+mailer.gordonwallingnd.com
 mailer.gorefolte.co.uk
 mailer.gorfashion.com
 mailer.gosixv.co
