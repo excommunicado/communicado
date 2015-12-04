@@ -12815,6 +12815,7 @@ mailer.revomoney.com
 mailer.rgbgaming.net
 mailer.rhamsripa.com
 mailer.rhystrimble.com
+mailer.riasbaixasturismo.com
 mailer.ricandi.com
 mailer.rici.es
 mailer.rickparkesradio.com
@@ -17284,6 +17285,7 @@ revomoney.com
 rgbgaming.net
 rhamsripa.com
 rhystrimble.com
+riasbaixasturismo.com
 ricandi.com
 rici.es
 rickparkesradio.com
