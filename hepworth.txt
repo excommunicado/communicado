@@ -4939,6 +4939,7 @@ labaguntive.co.uk
 labanganta.co.uk
 labasoniol.co.uk
 laboaslabo.co.uk
+laboratorioavo.com
 labradorte.co.uk
 lacubcubza.co.uk
 lagangilan.co.uk
@@ -10375,6 +10376,7 @@ mailer.labaguntive.co.uk
 mailer.labanganta.co.uk
 mailer.labasoniol.co.uk
 mailer.laboaslabo.co.uk
+mailer.laboratorioavo.com
 mailer.labradorte.co.uk
 mailer.lacubcubza.co.uk
 mailer.lagangilan.co.uk
