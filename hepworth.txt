@@ -1739,6 +1739,7 @@ coninolnse.co.uk
 coninolte.co.uk
 connect2040.org
 connerelo.co.uk
+conodigital.com
 consciousstar.com
 conservationsfe.com
 consolact.co.uk
@@ -7176,6 +7177,7 @@ mailer.coninolnse.co.uk
 mailer.coninolte.co.uk
 mailer.connect2040.org
 mailer.connerelo.co.uk
+mailer.conodigital.com
 mailer.consciousstar.com
 mailer.conservationsfe.com
 mailer.consolact.co.uk
