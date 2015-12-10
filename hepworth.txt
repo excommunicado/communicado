@@ -14786,6 +14786,7 @@ mailer.writingrealestate.com
 mailer.writtenpersuasion.com
 mailer.wsolegend.com
 mailer.wssel.com
+mailer.wsturadio.com
 mailer.wtuzigooting.co.uk
 mailer.wuilaguela.co.uk
 mailer.wuilaguele.co.uk
@@ -19260,6 +19261,7 @@ writingrealestate.com
 writtenpersuasion.com
 wsolegend.com
 wssel.com
+wsturadio.com
 wtuzigooting.co.uk
 wuilaguela.co.uk
 wuilaguele.co.uk
