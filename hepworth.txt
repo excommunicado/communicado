@@ -12422,6 +12422,7 @@ mailer.pmnr.net
 mailer.poenye.com
 mailer.pointdecontact.org
 mailer.pointsector.com
+mailer.pokafantaisie.com
 mailer.pokertruth.net
 mailer.polintano.com
 mailer.polipfer.com
@@ -16898,6 +16899,7 @@ pmnr.net
 poenye.com
 pointdecontact.org
 pointsector.com
+pokafantaisie.com
 pokertruth.net
 polintano.com
 polipfer.com
