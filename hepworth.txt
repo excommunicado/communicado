@@ -13584,6 +13584,7 @@ mailer.taxyst.com
 mailer.tdymedia.com
 mailer.tealbury.net
 mailer.teamdivergent.com
+mailer.teamoneyoshukai.com
 mailer.teamquicksilver.com
 mailer.teamtsunamifusion.com
 mailer.teardropdev.com
@@ -18062,6 +18063,7 @@ taxyst.com
 tdymedia.com
 tealbury.net
 teamdivergent.com
+teamoneyoshukai.com
 teamquicksilver.com
 teamtsunamifusion.com
 teardropdev.com
