@@ -12543,6 +12543,7 @@ mailer.progressivehn.org
 mailer.projectcrusade.com
 mailer.projectiontv.net
 mailer.projectlifemastery.net
+mailer.promesupport.com
 mailer.promisedlandcsa.net
 mailer.promoparkforum.com
 mailer.proonvobli.com
@@ -17023,6 +17024,7 @@ progressivehn.org
 projectcrusade.com
 projectiontv.net
 projectlifemastery.net
+promesupport.com
 promisedlandcsa.net
 promoparkforum.com
 proonvobli.com
