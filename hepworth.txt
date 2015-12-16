@@ -11712,6 +11712,7 @@ mailer.newsdailyreports.com
 mailer.newsderp.com
 mailer.newsjournal.co
 mailer.newsquack.com
+mailer.newsunrise.org
 mailer.newsurprises.net
 mailer.newsworthydaily.com
 mailer.newtechnologydevices.com
@@ -16198,6 +16199,7 @@ newsdailyreports.com
 newsderp.com
 newsjournal.co
 newsquack.com
+newsunrise.org
 newsurprises.net
 newsworthydaily.com
 newtechnologydevices.com
