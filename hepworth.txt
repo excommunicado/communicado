@@ -1739,6 +1739,7 @@ confoles.com
 coninolnse.co.uk
 coninolte.co.uk
 connect2040.org
+connectedtofinland.com
 connerelo.co.uk
 conodigital.com
 consciousstar.com
@@ -7181,6 +7182,7 @@ mailer.confoles.com
 mailer.coninolnse.co.uk
 mailer.coninolte.co.uk
 mailer.connect2040.org
+mailer.connectedtofinland.com
 mailer.connerelo.co.uk
 mailer.conodigital.com
 mailer.consciousstar.com
