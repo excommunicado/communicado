@@ -11036,6 +11036,7 @@ mailer.marketerswhitelabel.com
 mailer.marketingdevils.com
 mailer.marketingseosoftware.com
 mailer.marketingsonrisa.com
+mailer.marketplacewire.com
 mailer.markets-android.com
 mailer.markets-android.net
 mailer.marketvent.com
@@ -15525,6 +15526,7 @@ marketerswhitelabel.com
 marketingdevils.com
 marketingseosoftware.com
 marketingsonrisa.com
+marketplacewire.com
 markets-android.com
 markets-android.net
 marketvent.com
