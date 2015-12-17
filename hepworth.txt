@@ -1722,6 +1722,7 @@ commercialspaceflights.org
 commoncraftster.com
 comparebyzip.com
 completesecurityonline.net
+compositedeckingtypes.com
 compostela.co.uk
 comprartelevision.net
 compromises.co
@@ -7166,6 +7167,7 @@ mailer.commercialspaceflights.org
 mailer.commoncraftster.com
 mailer.comparebyzip.com
 mailer.completesecurityonline.net
+mailer.compositedeckingtypes.com
 mailer.compostela.co.uk
 mailer.comprartelevision.net
 mailer.compromises.co
