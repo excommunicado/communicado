@@ -4339,6 +4339,7 @@ iwantdrama.com
 ixuscreative.com
 izicampaign.com
 izzymeiklesmall.net
+j2meworld.com
 jaackdsc.com
 jabaduntive.co.uk
 jabaguntive.co.uk
@@ -9785,6 +9786,7 @@ mailer.iwantdrama.com
 mailer.ixuscreative.com
 mailer.izicampaign.com
 mailer.izzymeiklesmall.net
+mailer.j2meworld.com
 mailer.jaackdsc.com
 mailer.jabaduntive.co.uk
 mailer.jabaguntive.co.uk
