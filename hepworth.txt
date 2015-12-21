@@ -5436,6 +5436,7 @@ magic-app.org
 magicbulletaccessories.net
 magicgods.com
 magicsurveybuilder.com
+magiksgeo.com
 magpeturet.co.uk
 magsaysayo.co.uk
 magsingala.co.uk
@@ -10884,6 +10885,7 @@ mailer.magic-app.org
 mailer.magicbulletaccessories.net
 mailer.magicgods.com
 mailer.magicsurveybuilder.com
+mailer.magiksgeo.com
 mailer.magpeturet.co.uk
 mailer.magsaysayo.co.uk
 mailer.magsingala.co.uk
