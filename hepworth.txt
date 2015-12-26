@@ -13162,6 +13162,7 @@ mailer.senrasle.co.uk
 mailer.sensatle.co.uk
 mailer.sensebuilt.com
 mailer.sensemyself.com
+mailer.sensoryroomsuk.com
 mailer.sentalle.co.uk
 mailer.sentientprose.com
 mailer.sentiman.net
@@ -17664,6 +17665,7 @@ senrasle.co.uk
 sensatle.co.uk
 sensebuilt.com
 sensemyself.com
+sensoryroomsuk.com
 sentalle.co.uk
 sentientprose.com
 sentiman.net
