@@ -11050,6 +11050,7 @@ mailer.market24news.com
 mailer.marketersstore.com
 mailer.marketerswhitelabel.com
 mailer.marketingdevils.com
+mailer.marketingresumes.net
 mailer.marketingseosoftware.com
 mailer.marketingsonrisa.com
 mailer.marketplacewire.com
@@ -15554,6 +15555,7 @@ market24news.com
 marketersstore.com
 marketerswhitelabel.com
 marketingdevils.com
+marketingresumes.net
 marketingseosoftware.com
 marketingsonrisa.com
 marketplacewire.com
