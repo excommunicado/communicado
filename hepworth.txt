@@ -12965,6 +12965,7 @@ mailer.roxaprella.co.uk
 mailer.roxaprelle.co.uk
 mailer.roxkll.net
 mailer.royal-dollar.com
+mailer.rpcards.com
 mailer.rsaonlineqld.com
 mailer.rsaonlinewa.com
 mailer.rsdcare.com
@@ -17473,6 +17474,7 @@ roxaprella.co.uk
 roxaprelle.co.uk
 roxkll.net
 royal-dollar.com
+rpcards.com
 rsaonlineqld.com
 rsaonlinewa.com
 rsdcare.com
