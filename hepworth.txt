@@ -5276,6 +5276,7 @@ lokeserver.com
 lollybollyboo.com
 lolmanual.co
 lomoperiodical.org
+londoncup.net
 loneshift.com
 longlifeandhappiness.co.uk
 loocsitios.co.uk
@@ -10734,6 +10735,7 @@ mailer.lokeserver.com
 mailer.lollybollyboo.com
 mailer.lolmanual.co
 mailer.lomoperiodical.org
+mailer.londoncup.net
 mailer.loneshift.com
 mailer.longlifeandhappiness.co.uk
 mailer.loocsitios.co.uk
