@@ -2765,6 +2765,7 @@ excellentearn.com
 excitelogix.com
 excitepro.com
 eximportsource.com
+exintel.org
 exitepro.com
 expediantmeans.com
 experienceadd.com
@@ -8224,6 +8225,7 @@ mailer.excellentearn.com
 mailer.excitelogix.com
 mailer.excitepro.com
 mailer.eximportsource.com
+mailer.exintel.org
 mailer.exitepro.com
 mailer.expediantmeans.com
 mailer.experienceadd.com
