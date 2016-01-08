@@ -13566,6 +13566,7 @@ mailer.surveyshop.net
 mailer.survople.co.uk
 mailer.sushipartyanime.com
 mailer.suspectdevs.net
+mailer.suwak.org
 mailer.svvamp.com
 mailer.swagcity.org
 mailer.swapgifs.com
@@ -18077,6 +18078,7 @@ surveyshop.net
 survople.co.uk
 sushipartyanime.com
 suspectdevs.net
+suwak.org
 svvamp.com
 swagcity.org
 swapgifs.com
