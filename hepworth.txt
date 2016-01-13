@@ -3352,6 +3352,7 @@ giantsurvival.com
 gigamarketplace.com
 gigaquitos.co.uk
 gigmotorla.co.uk
+gigpixel.com
 gilabreime.co.uk
 giladrauli.co.uk
 gilahuie.co.uk
@@ -8820,6 +8821,7 @@ mailer.giantsurvival.com
 mailer.gigamarketplace.com
 mailer.gigaquitos.co.uk
 mailer.gigmotorla.co.uk
+mailer.gigpixel.com
 mailer.gilabreime.co.uk
 mailer.giladrauli.co.uk
 mailer.gilahuie.co.uk
