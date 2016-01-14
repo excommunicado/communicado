@@ -1991,6 +1991,7 @@ dalchysto.co.uk
 dalchystu.co.uk
 dallaholda.co.uk
 dallaholde.co.uk
+dallasquill.com
 dalmanias.co.uk
 dalyt.com
 damortish.co.uk
@@ -7460,6 +7461,7 @@ mailer.dalchysto.co.uk
 mailer.dalchystu.co.uk
 mailer.dallaholda.co.uk
 mailer.dallaholde.co.uk
+mailer.dallasquill.com
 mailer.dalmanias.co.uk
 mailer.dalyt.com
 mailer.damortish.co.uk
