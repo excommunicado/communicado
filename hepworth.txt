@@ -5050,6 +5050,7 @@ larlasinquo.co.uk
 laserdisplay.net
 lastalena.co.uk
 lastamesa.co.uk
+latanza.co
 latestdealsonline.co
 latewow.com
 latinacoin.com
@@ -10529,6 +10530,7 @@ mailer.larlasinquo.co.uk
 mailer.laserdisplay.net
 mailer.lastalena.co.uk
 mailer.lastamesa.co.uk
+mailer.latanza.co
 mailer.latestdealsonline.co
 mailer.latewow.com
 mailer.latinacoin.com
