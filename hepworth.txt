@@ -12471,6 +12471,7 @@ mailer.perryshoemaker.com
 mailer.perseltd.com
 mailer.personalbank.net
 mailer.perucoin.com
+mailer.peteandjorden.com
 mailer.petedavismedia.com
 mailer.peterblogs.net
 mailer.petesreport.net
@@ -16998,6 +16999,7 @@ perryshoemaker.com
 perseltd.com
 personalbank.net
 perucoin.com
+peteandjorden.com
 petedavismedia.com
 peterblogs.net
 petesreport.net
