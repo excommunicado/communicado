@@ -12899,6 +12899,7 @@ mailer.reoperlin.com
 mailer.rescuerxpharma.org
 mailer.resellrightssuccess.com
 mailer.residualifestyles.com
+mailer.resolutionary.co
 mailer.resolutionpractice.com
 mailer.resolvehim.com
 mailer.resorthotelsuites.com
@@ -17428,6 +17429,7 @@ reoperlin.com
 rescuerxpharma.org
 resellrightssuccess.com
 residualifestyles.com
+resolutionary.co
 resolutionpractice.com
 resolvehim.com
 resorthotelsuites.com
