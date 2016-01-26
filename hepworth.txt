@@ -5354,6 +5354,7 @@ lucidico.com
 lucidico.org
 lucke.co
 luckydesigns.org
+luckyjackcreations.com
 luckystarapps.com
 luckywee.com
 lucropositivo.co
@@ -10841,6 +10842,7 @@ mailer.lucidico.com
 mailer.lucidico.org
 mailer.lucke.co
 mailer.luckydesigns.org
+mailer.luckyjackcreations.com
 mailer.luckystarapps.com
 mailer.luckywee.com
 mailer.lucropositivo.co
