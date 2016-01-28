@@ -471,6 +471,7 @@ appstovideo.com
 apptinistic.com
 appventura.com
 appyflip.com
+aptastro.com
 apuestium.com
 aquariumhobby.org
 aquavoltz.com
@@ -5962,6 +5963,7 @@ mailer.appstovideo.com
 mailer.apptinistic.com
 mailer.appventura.com
 mailer.appyflip.com
+mailer.aptastro.com
 mailer.apuestium.com
 mailer.aquariumhobby.org
 mailer.aquavoltz.com
