@@ -13788,6 +13788,7 @@ mailer.tedcumods.co.uk
 mailer.tedcumody.co.uk
 mailer.teddyshair.com
 mailer.tedfon.com
+mailer.teespot.co
 mailer.teitter.co
 mailer.tekcampaign.com
 mailer.tekforums.org
@@ -18327,6 +18328,7 @@ tedcumods.co.uk
 tedcumody.co.uk
 teddyshair.com
 tedfon.com
+teespot.co
 teitter.co
 tekcampaign.com
 tekforums.org
