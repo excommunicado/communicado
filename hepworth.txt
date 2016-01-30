@@ -2137,6 +2137,7 @@ designingworld.org
 destinationselite.com
 destinedforcanvas.com
 destinyrings.com
+desupport.co
 detoneura.co.uk
 detoneure.co.uk
 detoneuri.co.uk
@@ -7632,6 +7633,7 @@ mailer.designingworld.org
 mailer.destinationselite.com
 mailer.destinedforcanvas.com
 mailer.destinyrings.com
+mailer.desupport.co
 mailer.detoneura.co.uk
 mailer.detoneure.co.uk
 mailer.detoneuri.co.uk
