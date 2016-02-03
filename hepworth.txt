@@ -13202,6 +13202,7 @@ mailer.sashagreyweb.com
 mailer.sastamedia.com
 mailer.sastiticktes.com
 mailer.satellitetvonline.org
+mailer.satoshiatx.com
 mailer.satoshipot.com
 mailer.saturnguilt.com
 mailer.savanhk.com
@@ -17743,6 +17744,7 @@ sashagreyweb.com
 sastamedia.com
 sastiticktes.com
 satellitetvonline.org
+satoshiatx.com
 satoshipot.com
 saturnguilt.com
 savanhk.com
