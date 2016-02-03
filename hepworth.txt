@@ -12557,6 +12557,7 @@ mailer.platefoor.com
 mailer.playgifs.com
 mailer.playhg.com
 mailer.playitouch.com
+mailer.playmates.co
 mailer.playtap.net
 mailer.playwithltc.com
 mailer.playwordtopia.com
@@ -17099,6 +17100,7 @@ platefoor.com
 playgifs.com
 playhg.com
 playitouch.com
+playmates.co
 playtap.net
 playwithltc.com
 playwordtopia.com
