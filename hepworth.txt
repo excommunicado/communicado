@@ -163,6 +163,7 @@ aerpoidom.co.uk
 aerpoidon.co.uk
 afaun.net
 affairslot.com
+affiliate-programs.co
 affiliateinter.net
 affinity-ro.com
 afsbusinessneeds.com
@@ -5666,6 +5667,7 @@ mailer.aerpoidom.co.uk
 mailer.aerpoidon.co.uk
 mailer.afaun.net
 mailer.affairslot.com
+mailer.affiliate-programs.co
 mailer.affiliateinter.net
 mailer.affinity-ro.com
 mailer.afsbusinessneeds.com
@@ -13265,6 +13267,7 @@ mailer.sedcumody.co.uk
 mailer.seedextrasolarlife.org
 mailer.segretariavirtuale.net
 mailer.sehatify.com
+mailer.selectivemonday.com
 mailer.selfdirectedrothiras.net
 mailer.sellbitcoininstantly.com
 mailer.sellbitcoinstoaud.com
@@ -13335,6 +13338,7 @@ mailer.sgsservice.org
 mailer.sgsupermeat.com
 mailer.shadow-born.com
 mailer.shadow200.com
+mailer.shadowcraft.co
 mailer.shadysweb.com
 mailer.shaktihurst.com
 mailer.shanghaitoyiwu.com
@@ -17809,6 +17813,7 @@ sedcumody.co.uk
 seedextrasolarlife.org
 segretariavirtuale.net
 sehatify.com
+selectivemonday.com
 selfdirectedrothiras.net
 sellbitcoininstantly.com
 sellbitcoinstoaud.com
@@ -17879,6 +17884,7 @@ sgsservice.org
 sgsupermeat.com
 shadow-born.com
 shadow200.com
+shadowcraft.co
 shadysweb.com
 shaktihurst.com
 shanghaitoyiwu.com
