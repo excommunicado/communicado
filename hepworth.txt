@@ -1091,6 +1091,7 @@ bobbafm.net
 bobbaforum.net
 bobbahub.net
 bobblebliss.com
+bobnims.com
 bobontos.co.uk
 bobstrollersafety.com
 bocauele.co.uk
@@ -6595,6 +6596,7 @@ mailer.bobbafm.net
 mailer.bobbaforum.net
 mailer.bobbahub.net
 mailer.bobblebliss.com
+mailer.bobnims.com
 mailer.bobontos.co.uk
 mailer.bobstrollersafety.com
 mailer.bocauele.co.uk
