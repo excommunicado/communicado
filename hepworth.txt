@@ -163,6 +163,7 @@ aerpoidom.co.uk
 aerpoidon.co.uk
 afaun.net
 affairslot.com
+affiliate-programs.co
 affiliateinter.net
 affinity-ro.com
 afsbusinessneeds.com
@@ -5666,6 +5667,7 @@ mailer.aerpoidom.co.uk
 mailer.aerpoidon.co.uk
 mailer.afaun.net
 mailer.affairslot.com
+mailer.affiliate-programs.co
 mailer.affiliateinter.net
 mailer.affinity-ro.com
 mailer.afsbusinessneeds.com
