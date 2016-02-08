@@ -5335,6 +5335,7 @@ lopezlupis.co.uk
 lordstaffordawards.com
 lorenzolos.co.uk
 loretosera.co.uk
+loriquarton.com
 losbonitos.co.uk
 losfaras.com
 losquenosabes.com
@@ -10841,6 +10842,7 @@ mailer.lopezlupis.co.uk
 mailer.lordstaffordawards.com
 mailer.lorenzolos.co.uk
 mailer.loretosera.co.uk
+mailer.loriquarton.com
 mailer.losbonitos.co.uk
 mailer.losfaras.com
 mailer.losquenosabes.com
