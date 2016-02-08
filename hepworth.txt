@@ -13012,6 +13012,7 @@ mailer.revobistro.com
 mailer.revoco-groupe.com
 mailer.revomoney.com
 mailer.rgbgaming.net
+mailer.rgteamspeak.co
 mailer.rhamsripa.com
 mailer.rhystrimble.com
 mailer.riasbaixasturismo.com
@@ -17560,6 +17561,7 @@ revobistro.com
 revoco-groupe.com
 revomoney.com
 rgbgaming.net
+rgteamspeak.co
 rhamsripa.com
 rhystrimble.com
 riasbaixasturismo.com
