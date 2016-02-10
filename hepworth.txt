@@ -1614,6 +1614,7 @@ celebritymagazine.co
 celiasdby.com
 celticpipe.com
 cemerler.com
+cenaedelitto.com
 centraladviser.com
 centuryadviser.com
 cervantel.co.uk
@@ -7125,6 +7126,7 @@ mailer.celebritymagazine.co
 mailer.celiasdby.com
 mailer.celticpipe.com
 mailer.cemerler.com
+mailer.cenaedelitto.com
 mailer.centraladviser.com
 mailer.centuryadviser.com
 mailer.cervantel.co.uk
