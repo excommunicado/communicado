@@ -3960,6 +3960,7 @@ hostula.com
 hoteld.net
 hotelkenting.com
 hotelroo.com
+hoteltravl.com
 hotreholda.co.uk
 hotreholde.co.uk
 hottoyacht.com
@@ -9470,6 +9471,7 @@ mailer.hostula.com
 mailer.hoteld.net
 mailer.hotelkenting.com
 mailer.hotelroo.com
+mailer.hoteltravl.com
 mailer.hotreholda.co.uk
 mailer.hotreholde.co.uk
 mailer.hottoyacht.com
@@ -13379,6 +13381,7 @@ mailer.shotset.com
 mailer.show-the-pic.com
 mailer.showchannels.net
 mailer.showroom500.com
+mailer.showtvseries.com
 mailer.showtvseries.net
 mailer.shpktgfd.co
 mailer.shredmeister.com
@@ -17932,6 +17935,7 @@ shotset.com
 show-the-pic.com
 showchannels.net
 showroom500.com
+showtvseries.com
 showtvseries.net
 shpktgfd.co
 shredmeister.com
