@@ -1885,6 +1885,7 @@ cryptosovereignty.net
 cryptowater.com
 csgshq.com
 csper.org
+ctcarlaw.com
 ctfsbank.com
 ctrlaltfixed.com
 ctuzigootimg.co.uk
@@ -7398,6 +7399,7 @@ mailer.cryptosovereignty.net
 mailer.cryptowater.com
 mailer.csgshq.com
 mailer.csper.org
+mailer.ctcarlaw.com
 mailer.ctfsbank.com
 mailer.ctrlaltfixed.com
 mailer.ctuzigootimg.co.uk
