@@ -12864,6 +12864,7 @@ mailer.ravenswoodfan.com
 mailer.rawfoodsnewsletter.com
 mailer.rawwow.com
 mailer.rayogley.net
+mailer.rayonsdelespoir.org
 mailer.rcairplanesmodel.com
 mailer.rctruckstanks.com
 mailer.reachester.com
@@ -17418,6 +17419,7 @@ ravenswoodfan.com
 rawfoodsnewsletter.com
 rawwow.com
 rayogley.net
+rayonsdelespoir.org
 rcairplanesmodel.com
 rctruckstanks.com
 reachester.com
