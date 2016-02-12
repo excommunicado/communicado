@@ -13567,6 +13567,7 @@ mailer.sovordo.com
 mailer.soxa.net
 mailer.spaceboatmusic.com
 mailer.spacelxl.com
+mailer.spadaesq.com
 mailer.spanishcoin.org
 mailer.sparkzila.com
 mailer.spcdn.co
@@ -18125,6 +18126,7 @@ sovordo.com
 soxa.net
 spaceboatmusic.com
 spacelxl.com
+spadaesq.com
 spanishcoin.org
 sparkzila.com
 spcdn.co
