@@ -3211,6 +3211,7 @@ fulltiltcom.com
 fullvincheck.com
 fundavailable.com
 funeralplanningexperts.com
+funeralplans.xyz
 funeralplansprepaid.com
 funeralplansuk.xyz
 funkygaming.net
@@ -8728,6 +8729,7 @@ mailer.fulltiltcom.com
 mailer.fullvincheck.com
 mailer.fundavailable.com
 mailer.funeralplanningexperts.com
+mailer.funeralplans.xyz
 mailer.funeralplansprepaid.com
 mailer.funeralplansuk.xyz
 mailer.funkygaming.net
