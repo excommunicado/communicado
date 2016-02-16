@@ -13531,6 +13531,7 @@ mailer.smilebrightbc.com
 mailer.smokecolor.com
 mailer.smsfreshdata.net
 mailer.snbots.com
+mailer.sndicate.co
 mailer.snowstromservers.com
 mailer.sobbes.com
 mailer.soceur-arma.org
@@ -18092,6 +18093,7 @@ smilebrightbc.com
 smokecolor.com
 smsfreshdata.net
 snbots.com
+sndicate.co
 snowstromservers.com
 sobbes.com
 soceur-arma.org
