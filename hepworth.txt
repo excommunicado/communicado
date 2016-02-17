@@ -765,6 +765,7 @@ baniserra.co.uk
 banisilanda.co.uk
 bank-invests.com
 bankbinaryoptions.com
+bankings.co
 bannarete.co.uk
 banoslene.co.uk
 bansalanda.co.uk
@@ -6287,6 +6288,7 @@ mailer.baniserra.co.uk
 mailer.banisilanda.co.uk
 mailer.bank-invests.com
 mailer.bankbinaryoptions.com
+mailer.bankings.co
 mailer.bannarete.co.uk
 mailer.banoslene.co.uk
 mailer.bansalanda.co.uk
@@ -12734,6 +12736,7 @@ mailer.professionalcardcreations.com
 mailer.proffshoreservices.net
 mailer.profileartis.com
 mailer.profit-generator.org
+mailer.profitbam.com
 mailer.profitmagick.com
 mailer.profitopp.com
 mailer.progressivehn.org
@@ -17298,6 +17301,7 @@ professionalcardcreations.com
 proffshoreservices.net
 profileartis.com
 profit-generator.org
+profitbam.com
 profitmagick.com
 profitopp.com
 progressivehn.org
