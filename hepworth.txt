@@ -12407,6 +12407,7 @@ mailer.paleopumpkin.com
 mailer.paleosmoke.com
 mailer.paleoway.net
 mailer.paltale.com
+mailer.paludasmolek.com
 mailer.palwriter.com
 mailer.panamanianrestaurants.com
 mailer.panamaprivacy.com
@@ -16973,6 +16974,7 @@ paleopumpkin.com
 paleosmoke.com
 paleoway.net
 paltale.com
+paludasmolek.com
 palwriter.com
 panamanianrestaurants.com
 panamaprivacy.com
