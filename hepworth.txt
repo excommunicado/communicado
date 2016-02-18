@@ -123,6 +123,7 @@ adminlounge.net
 admixclicks.com
 admobis.com
 admobite.com
+adnotable.com
 adplimus.com
 adplimut.com
 adpowerserver.com
@@ -5649,6 +5650,7 @@ mailer.adminlounge.net
 mailer.admixclicks.com
 mailer.admobis.com
 mailer.admobite.com
+mailer.adnotable.com
 mailer.adplimus.com
 mailer.adplimut.com
 mailer.adpowerserver.com
