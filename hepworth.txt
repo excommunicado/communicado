@@ -127,10 +127,12 @@ adplimus.com
 adplimut.com
 adpowerserver.com
 adproclick.com
+adprofitable.com
 ads-accelerator.com
 ads-eng.com
 adsocio.com
 adtextur.com
+adthriving.com
 adtisclick.com
 advancebrass.com
 advancingincomereview.com
@@ -5651,10 +5653,12 @@ mailer.adplimus.com
 mailer.adplimut.com
 mailer.adpowerserver.com
 mailer.adproclick.com
+mailer.adprofitable.com
 mailer.ads-accelerator.com
 mailer.ads-eng.com
 mailer.adsocio.com
 mailer.adtextur.com
+mailer.adthriving.com
 mailer.adtisclick.com
 mailer.advancebrass.com
 mailer.advancingincomereview.com
