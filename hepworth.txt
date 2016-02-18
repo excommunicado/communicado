@@ -12588,6 +12588,7 @@ mailer.php-school.net
 mailer.physicalgoldiras.org
 mailer.pianowork.net
 mailer.piattaformeforex.net
+mailer.picjump.org
 mailer.pickledcukes.com
 mailer.pickmybackpack.com
 mailer.piclur.com
@@ -17155,6 +17156,7 @@ php-school.net
 physicalgoldiras.org
 pianowork.net
 piattaformeforex.net
+picjump.org
 pickledcukes.com
 pickmybackpack.com
 piclur.com
