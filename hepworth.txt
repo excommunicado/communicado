@@ -12753,6 +12753,7 @@ mailer.profit-generator.org
 mailer.profitbam.com
 mailer.profitmagick.com
 mailer.profitopp.com
+mailer.progressiveaction.org
 mailer.progressivehn.org
 mailer.projectcrusade.com
 mailer.projectiontv.net
@@ -17324,6 +17325,7 @@ profit-generator.org
 profitbam.com
 profitmagick.com
 profitopp.com
+progressiveaction.org
 progressivehn.org
 projectcrusade.com
 projectiontv.net
