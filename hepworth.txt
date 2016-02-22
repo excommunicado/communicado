@@ -12903,6 +12903,7 @@ mailer.ravensnestsp.net
 mailer.ravenswoodfan.com
 mailer.rawfoodsnewsletter.com
 mailer.rawtestimonial.com
+mailer.rawtestimonials.com
 mailer.rawwow.com
 mailer.rayogley.net
 mailer.rayonsdelespoir.org
@@ -17476,6 +17477,7 @@ ravensnestsp.net
 ravenswoodfan.com
 rawfoodsnewsletter.com
 rawtestimonial.com
+rawtestimonials.com
 rawwow.com
 rayogley.net
 rayonsdelespoir.org
