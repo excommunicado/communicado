@@ -574,6 +574,7 @@ atmbuddy.org
 atokrette.co.uk
 atptc.com
 atsunrise.org
+attitudeguide.com
 attracttoimpact.com
 atuzigootimg.co.uk
 atuzigooting.co.uk
@@ -6102,6 +6103,7 @@ mailer.atmbuddy.org
 mailer.atokrette.co.uk
 mailer.atptc.com
 mailer.atsunrise.org
+mailer.attitudeguide.com
 mailer.attracttoimpact.com
 mailer.atuzigootimg.co.uk
 mailer.atuzigooting.co.uk
