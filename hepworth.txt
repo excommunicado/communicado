@@ -3198,6 +3198,7 @@ friendtm.com
 frontwebtv.com
 frostnode.com
 frozen-lotus.com
+fruitfulclick.com
 fruitwhy.com
 frutafsa.co.uk
 frutocap.co.uk
@@ -8727,6 +8728,7 @@ mailer.friendtm.com
 mailer.frontwebtv.com
 mailer.frostnode.com
 mailer.frozen-lotus.com
+mailer.fruitfulclick.com
 mailer.fruitwhy.com
 mailer.frutafsa.co.uk
 mailer.frutocap.co.uk
