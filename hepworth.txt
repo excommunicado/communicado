@@ -13589,6 +13589,7 @@ mailer.smeassets.com
 mailer.smilebrightbc.com
 mailer.smokecolor.com
 mailer.smsfreshdata.net
+mailer.snbaird.com
 mailer.snbots.com
 mailer.sndicate.co
 mailer.snowstromservers.com
@@ -18171,6 +18172,7 @@ smeassets.com
 smilebrightbc.com
 smokecolor.com
 smsfreshdata.net
+snbaird.com
 snbots.com
 sndicate.co
 snowstromservers.com
