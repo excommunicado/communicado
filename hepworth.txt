@@ -3502,6 +3502,7 @@ godisart.com
 goesding.com
 goeswallpaper.com
 gofiddle.org
+gofloat.co
 goingintothelight.com
 goironfx.com
 gojegoho.com
@@ -9041,6 +9042,7 @@ mailer.godisart.com
 mailer.goesding.com
 mailer.goeswallpaper.com
 mailer.gofiddle.org
+mailer.gofloat.co
 mailer.goingintothelight.com
 mailer.goironfx.com
 mailer.gojegoho.com
