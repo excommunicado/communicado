@@ -1563,6 +1563,7 @@ cartechno.net
 cartosa.net
 casabellaonlline.com
 casacomfort.net
+casajacarandabnb.com
 casaleserving.com
 casanaturistajob.com
 case92.com
@@ -7107,6 +7108,7 @@ mailer.cartechno.net
 mailer.cartosa.net
 mailer.casabellaonlline.com
 mailer.casacomfort.net
+mailer.casajacarandabnb.com
 mailer.casaleserving.com
 mailer.casanaturistajob.com
 mailer.case92.com
