@@ -12835,6 +12835,7 @@ mailer.publictrustclearance.com
 mailer.publishhub.com
 mailer.pullf.com
 mailer.pulmermaroons.com
+mailer.pulsegamingnetwork.com
 mailer.punista.com
 mailer.purchanista.com
 mailer.purchasebtc.net
@@ -17422,6 +17423,7 @@ publictrustclearance.com
 publishhub.com
 pullf.com
 pulmermaroons.com
+pulsegamingnetwork.com
 punista.com
 purchanista.com
 purchasebtc.net
