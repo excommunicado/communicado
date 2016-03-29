@@ -14534,6 +14534,7 @@ mailer.untaneurys.co.uk
 mailer.untaneuryt.co.uk
 mailer.uobay.com
 mailer.updatemate.net
+mailer.updatinfo.com
 mailer.upstreamincome.com
 mailer.uranicraft.com
 mailer.urbantreemill.org
@@ -19122,6 +19123,7 @@ untaneurys.co.uk
 untaneuryt.co.uk
 uobay.com
 updatemate.net
+updatinfo.com
 upstreamincome.com
 uranicraft.com
 urbantreemill.org
