@@ -13918,6 +13918,7 @@ mailer.taxplanguide.com
 mailer.taxyst.com
 mailer.tdymedia.com
 mailer.tealbury.net
+mailer.tealeafreviews.com
 mailer.teamdivergent.com
 mailer.teamoneyoshukai.com
 mailer.teamquicksilver.com
@@ -18517,6 +18518,7 @@ taxplanguide.com
 taxyst.com
 tdymedia.com
 tealbury.net
+tealeafreviews.com
 teamdivergent.com
 teamoneyoshukai.com
 teamquicksilver.com
