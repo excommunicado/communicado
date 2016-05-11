@@ -12551,6 +12551,7 @@ mailer.pdfguide4you.net
 mailer.pdx-occulture.com
 mailer.peachvideo.com
 mailer.peachydoves.com
+mailer.peakim.com
 mailer.pebblequarry.com
 mailer.pedcamode.co.uk
 mailer.pedcamodra.co.uk
@@ -12694,6 +12695,7 @@ mailer.pluginwebinar.com
 mailer.pluginwebinars.com
 mailer.plumcareers.com
 mailer.pluslatin.com
+mailer.plzzke.com
 mailer.pmnr.net
 mailer.poenye.com
 mailer.pointdecontact.org
@@ -14060,6 +14062,7 @@ mailer.theclosetmarketer.com
 mailer.theclosetmarketer.net
 mailer.thecrew-hq.com
 mailer.thecreweu.com
+mailer.thedailysteeper.com
 mailer.thedaniellee.com
 mailer.thedarkfiction.com
 mailer.theddroid.com
@@ -17153,6 +17156,7 @@ pdfguide4you.net
 pdx-occulture.com
 peachvideo.com
 peachydoves.com
+peakim.com
 pebblequarry.com
 pedcamode.co.uk
 pedcamodra.co.uk
@@ -17296,6 +17300,7 @@ pluginwebinar.com
 pluginwebinars.com
 plumcareers.com
 pluslatin.com
+plzzke.com
 pmnr.net
 poenye.com
 pointdecontact.org
@@ -18662,6 +18667,7 @@ theclosetmarketer.com
 theclosetmarketer.net
 thecrew-hq.com
 thecreweu.com
+thedailysteeper.com
 thedaniellee.com
 thedarkfiction.com
 theddroid.com
