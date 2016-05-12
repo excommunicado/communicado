@@ -13093,6 +13093,8 @@ mailer.resourcetotal.com
 mailer.responsetiger.com
 mailer.responsibleflowcharts.org
 mailer.restfulclient.com
+mailer.resumetemplatescv.com
+mailer.resumetemplatesjob.com
 mailer.retaneura.co.uk
 mailer.retaneure.co.uk
 mailer.retaneuri.co.uk
@@ -17698,6 +17700,8 @@ resourcetotal.com
 responsetiger.com
 responsibleflowcharts.org
 restfulclient.com
+resumetemplatescv.com
+resumetemplatesjob.com
 retaneura.co.uk
 retaneure.co.uk
 retaneuri.co.uk
