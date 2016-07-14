@@ -1904,6 +1904,7 @@ cryptopaperwallets.com
 cryptosovereignty.net
 cryptowater.com
 csgshq.com
+cskmerania.org
 csper.org
 ctcarlaw.com
 ctfsbank.com
@@ -7468,6 +7469,7 @@ mailer.cryptopaperwallets.com
 mailer.cryptosovereignty.net
 mailer.cryptowater.com
 mailer.csgshq.com
+mailer.cskmerania.org
 mailer.csper.org
 mailer.ctcarlaw.com
 mailer.ctfsbank.com
