@@ -1084,6 +1084,7 @@ bleryrachap.co.uk
 bleryrachar.co.uk
 blindsid.com
 blisswardbound.com
+blitsnews.co
 blitzmeister.com
 bloatedhippo.com
 blogfortravel.com
@@ -6652,6 +6653,7 @@ mailer.bleryrachap.co.uk
 mailer.bleryrachar.co.uk
 mailer.blindsid.com
 mailer.blisswardbound.com
+mailer.blitsnews.co
 mailer.blitzmeister.com
 mailer.bloatedhippo.com
 mailer.blogfortravel.com
