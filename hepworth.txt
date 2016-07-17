@@ -14814,6 +14814,7 @@ mailer.viralcricket.com
 mailer.viralnetworks.net
 mailer.viralrugby.com
 mailer.viralstoriesfast.com
+mailer.virtualxchange.org
 mailer.virtuousmind.com
 mailer.virtuouswriting.com
 mailer.visavisthesalonh.com
@@ -19424,6 +19425,7 @@ viralcricket.com
 viralnetworks.net
 viralrugby.com
 viralstoriesfast.com
+virtualxchange.org
 virtuousmind.com
 virtuouswriting.com
 visavisthesalonh.com
