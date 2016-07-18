@@ -11986,6 +11986,7 @@ mailer.newemploptions.com
 mailer.neweuropetravels.com
 mailer.newgadgetslaunched.com
 mailer.newinteriorideas.com
+mailer.newptcwebsites.com
 mailer.newreleaseproducts.com
 mailer.news365.org
 mailer.newsdailyreports.com
@@ -16598,6 +16599,7 @@ newemploptions.com
 neweuropetravels.com
 newgadgetslaunched.com
 newinteriorideas.com
+newptcwebsites.com
 newreleaseproducts.com
 news365.org
 newsdailyreports.com
