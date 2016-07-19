@@ -2060,6 +2060,7 @@ dasmaral.co.uk
 dasoldia.co.uk
 databaserepairing.com
 databashed.com
+dataentrymobile.com
 datato.me
 datevault.org
 datiforex.net
@@ -7632,6 +7633,7 @@ mailer.dasmaral.co.uk
 mailer.dasoldia.co.uk
 mailer.databaserepairing.com
 mailer.databashed.com
+mailer.dataentrymobile.com
 mailer.datato.me
 mailer.datevault.org
 mailer.datiforex.net
