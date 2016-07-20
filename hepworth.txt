@@ -2280,6 +2280,7 @@ diningtablefarm.com
 dipacula.co.uk
 diplahan.co.uk
 dipologe.co.uk
+directionteam.com
 dirlaguela.co.uk
 dirlaguele.co.uk
 dirlagueli.co.uk
@@ -7854,6 +7855,7 @@ mailer.diningtablefarm.com
 mailer.dipacula.co.uk
 mailer.diplahan.co.uk
 mailer.dipologe.co.uk
+mailer.directionteam.com
 mailer.dirlaguela.co.uk
 mailer.dirlaguele.co.uk
 mailer.dirlagueli.co.uk
