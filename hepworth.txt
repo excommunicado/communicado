@@ -13875,6 +13875,7 @@ mailer.svvamp.com
 mailer.swagcity.org
 mailer.swapgifs.com
 mailer.sweetricotta.com
+mailer.swiftaction.net
 mailer.swimback.net
 mailer.swopabook.com
 mailer.sxbig.com
@@ -18491,6 +18492,7 @@ svvamp.com
 swagcity.org
 swapgifs.com
 sweetricotta.com
+swiftaction.net
 swimback.net
 swopabook.com
 sxbig.com
