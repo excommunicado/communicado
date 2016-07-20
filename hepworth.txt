@@ -4921,6 +4921,7 @@ kidonka.com
 kikubsavs.com
 kilioholda.co.uk
 kilioholde.co.uk
+kimvanes.com
 kingrotation.com
 kinogitanu.co.uk
 kiosk9.com
@@ -10494,6 +10495,7 @@ mailer.kidonka.com
 mailer.kikubsavs.com
 mailer.kilioholda.co.uk
 mailer.kilioholde.co.uk
+mailer.kimvanes.com
 mailer.kingrotation.com
 mailer.kinogitanu.co.uk
 mailer.kiosk9.com
