@@ -2808,6 +2808,7 @@ euromuseum.com
 europacastno.com
 eurostarkitchen.com
 evade.co
+evaluatenetwork.com
 event-reviewer.com
 eventmailing.co.uk
 eventsandhospitality.co.uk
@@ -8385,6 +8386,7 @@ mailer.euromuseum.com
 mailer.europacastno.com
 mailer.eurostarkitchen.com
 mailer.evade.co
+mailer.evaluatenetwork.com
 mailer.event-reviewer.com
 mailer.eventmailing.co.uk
 mailer.eventsandhospitality.co.uk
