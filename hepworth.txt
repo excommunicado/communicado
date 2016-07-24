@@ -5142,6 +5142,7 @@ larlasinquo.co.uk
 laserdisplay.net
 lastalena.co.uk
 lastamesa.co.uk
+lastroom.co
 latanza.co
 latestdealsonline.co
 latewow.com
@@ -10720,6 +10721,7 @@ mailer.larlasinquo.co.uk
 mailer.laserdisplay.net
 mailer.lastalena.co.uk
 mailer.lastamesa.co.uk
+mailer.lastroom.co
 mailer.latanza.co
 mailer.latestdealsonline.co
 mailer.latewow.com
