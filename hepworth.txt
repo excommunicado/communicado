@@ -11685,6 +11685,7 @@ mailer.mirrup.com
 mailer.misamisara.co.uk
 mailer.mispixels.net
 mailer.misrline.com
+mailer.missgoodlife.org
 mailer.mistcreative.com
 mailer.mistercube.com
 mailer.misthotel.com
@@ -16313,6 +16314,7 @@ mirrup.com
 misamisara.co.uk
 mispixels.net
 misrline.com
+missgoodlife.org
 mistcreative.com
 mistercube.com
 misthotel.com
