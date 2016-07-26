@@ -3420,6 +3420,7 @@ getchirping.net
 getfreetvonline.net
 gethealthyzone.com
 getoldcar.com
+gettargetcoupon.com
 gettherightbike.com
 getyouraaron.com
 getyourhomebusiness.org
@@ -9001,6 +9002,7 @@ mailer.getchirping.net
 mailer.getfreetvonline.net
 mailer.gethealthyzone.com
 mailer.getoldcar.com
+mailer.gettargetcoupon.com
 mailer.gettherightbike.com
 mailer.getyouraaron.com
 mailer.getyourhomebusiness.org
