@@ -2968,6 +2968,7 @@ fashmode.com
 fast-ptc.com
 fastandbigger.com
 fastassistant.com
+fastcode.xyz
 fastprocessgroup.com
 fathomcouncil.com
 faunll.net
@@ -8552,6 +8553,7 @@ mailer.fashmode.com
 mailer.fast-ptc.com
 mailer.fastandbigger.com
 mailer.fastassistant.com
+mailer.fastcode.xyz
 mailer.fastprocessgroup.com
 mailer.fathomcouncil.com
 mailer.faunll.net
