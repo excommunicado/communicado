@@ -1033,6 +1033,7 @@ bitesizeseminars.co.uk
 bitesizewebinars.co.uk
 bitstats.net
 bixxstore.com
+biz5.net
 bizozit.com
 bjjodyssey.com
 bksab.com
@@ -6621,6 +6622,7 @@ mailer.bitesizeseminars.co.uk
 mailer.bitesizewebinars.co.uk
 mailer.bitstats.net
 mailer.bixxstore.com
+mailer.biz5.net
 mailer.bizozit.com
 mailer.bjjodyssey.com
 mailer.bksab.com
