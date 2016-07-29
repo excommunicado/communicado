@@ -12741,6 +12741,7 @@ mailer.pilgrimriders.com
 mailer.pingrglobe.com
 mailer.pingurl.net
 mailer.pininterior.com
+mailer.pink-wallpaper.com
 mailer.pinkhandprint.com
 mailer.pinterestmanual.com
 mailer.pipelinebulletin.com
@@ -17378,6 +17379,7 @@ pilgrimriders.com
 pingrglobe.com
 pingurl.net
 pininterior.com
+pink-wallpaper.com
 pinkhandprint.com
 pinterestmanual.com
 pipelinebulletin.com
