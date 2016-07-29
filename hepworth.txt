@@ -11794,6 +11794,7 @@ mailer.mretreats.net
 mailer.mrlentspotatoes.com
 mailer.ms-library.org
 mailer.msabin.co.uk
+mailer.msgoodlife.org
 mailer.msurveyuniverse.com
 mailer.msx.biz
 mailer.mtuzigooting.co.uk
@@ -12926,6 +12927,7 @@ mailer.prutoxwe.co.uk
 mailer.pruvinnel.co.uk
 mailer.pruvlese.co.uk
 mailer.pruvyuna.co.uk
+mailer.ps4games2016.com
 mailer.psdicon.net
 mailer.psychiz.com
 mailer.psychotalk.org
@@ -16432,6 +16434,7 @@ mretreats.net
 mrlentspotatoes.com
 ms-library.org
 msabin.co.uk
+msgoodlife.org
 msurveyuniverse.com
 msx.biz
 mtuzigooting.co.uk
@@ -17564,6 +17567,7 @@ prutoxwe.co.uk
 pruvinnel.co.uk
 pruvlese.co.uk
 pruvyuna.co.uk
+ps4games2016.com
 psdicon.net
 psychiz.com
 psychotalk.org
