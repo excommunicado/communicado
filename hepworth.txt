@@ -12732,6 +12732,7 @@ mailer.photos-pictures.com
 mailer.photoseffects.org
 mailer.php-school.net
 mailer.physicalgoldiras.org
+mailer.physioplatform.net
 mailer.pianowork.net
 mailer.piattaformeforex.net
 mailer.picjump.org
@@ -17372,6 +17373,7 @@ photos-pictures.com
 photoseffects.org
 php-school.net
 physicalgoldiras.org
+physioplatform.net
 pianowork.net
 piattaformeforex.net
 picjump.org
