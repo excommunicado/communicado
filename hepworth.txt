@@ -173,6 +173,7 @@ afetcadiri.co
 affairslot.com
 affiliate-programs.co
 affiliateinter.net
+affilopedia.com
 affinity-ro.com
 afsbusinessneeds.com
 after30days.com
@@ -5767,6 +5768,7 @@ mailer.afetcadiri.co
 mailer.affairslot.com
 mailer.affiliate-programs.co
 mailer.affiliateinter.net
+mailer.affilopedia.com
 mailer.affinity-ro.com
 mailer.afsbusinessneeds.com
 mailer.after30days.com
@@ -12239,6 +12241,7 @@ mailer.nyanchat.net
 mailer.nyongtraveler.com
 mailer.nyooo.com
 mailer.nznews.net
+mailer.o2strips.com
 mailer.obandolots.co.uk
 mailer.oberlo.co
 mailer.oberlo.net
@@ -16885,6 +16888,7 @@ nyanchat.net
 nyongtraveler.com
 nyooo.com
 nznews.net
+o2strips.com
 obandolots.co.uk
 oberlo.co
 oberlo.net
