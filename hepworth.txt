@@ -3202,6 +3202,7 @@ foruming.net
 foruminrosa.com
 forumlol.net
 fotoguadagno.com
+fotosdeamor.co
 foundhappy.com
 fourgnetwork.com
 fowlmolnse.co.uk
@@ -8806,6 +8807,7 @@ mailer.foruming.net
 mailer.foruminrosa.com
 mailer.forumlol.net
 mailer.fotoguadagno.com
+mailer.fotosdeamor.co
 mailer.foundhappy.com
 mailer.fourgnetwork.com
 mailer.fowlmolnse.co.uk
