@@ -13530,6 +13530,7 @@ mailer.sedcumods.co.uk
 mailer.sedcumody.co.uk
 mailer.seedextrasolarlife.org
 mailer.seeducation.co
+mailer.seggy.org
 mailer.segretariavirtuale.net
 mailer.sehatify.com
 mailer.selectivemonday.com
@@ -18184,6 +18185,7 @@ sedcumods.co.uk
 sedcumody.co.uk
 seedextrasolarlife.org
 seeducation.co
+seggy.org
 segretariavirtuale.net
 sehatify.com
 selectivemonday.com
