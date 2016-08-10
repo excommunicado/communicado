@@ -2091,6 +2091,7 @@ ddlmatic.com
 de-l.net
 de3.co
 dealextreme.tv
+dealfrance.com
 dealsnipe.net
 dealstorm.net
 dealzlookout.com
@@ -7699,6 +7700,7 @@ mailer.ddlmatic.com
 mailer.de-l.net
 mailer.de3.co
 mailer.dealextreme.tv
+mailer.dealfrance.com
 mailer.dealsnipe.net
 mailer.dealstorm.net
 mailer.dealzlookout.com
