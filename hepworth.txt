@@ -14069,6 +14069,7 @@ mailer.teardropdev.com
 mailer.teasingads.com
 mailer.teatredelull.com
 mailer.tech-x.net
+mailer.techgearassembler.com
 mailer.techguard.org
 mailer.techhotel.org
 mailer.techinv.net
@@ -18726,6 +18727,7 @@ teardropdev.com
 teasingads.com
 teatredelull.com
 tech-x.net
+techgearassembler.com
 techguard.org
 techhotel.org
 techinv.net
