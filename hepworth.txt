@@ -12285,6 +12285,7 @@ mailer.oceangave.com
 mailer.oceantape.com
 mailer.octosaur.org
 mailer.oculusprison.com
+mailer.oddgiveaways.com
 mailer.odecamode.co.uk
 mailer.odecamodra.co.uk
 mailer.odecamods.co.uk
@@ -16952,6 +16953,7 @@ oceangave.com
 oceantape.com
 octosaur.org
 oculusprison.com
+oddgiveaways.com
 odecamode.co.uk
 odecamodra.co.uk
 odecamods.co.uk
