@@ -427,6 +427,7 @@ aniamoiseogler.com
 aniene-green.net
 anilaowas.co.uk
 animebelt.com
+animecity.co
 animedb.net
 animedownloads.org
 animehime.net
@@ -6039,6 +6040,7 @@ mailer.aniamoiseogler.com
 mailer.aniene-green.net
 mailer.anilaowas.co.uk
 mailer.animebelt.com
+mailer.animecity.co
 mailer.animedb.net
 mailer.animedownloads.org
 mailer.animehime.net
