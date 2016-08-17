@@ -4192,6 +4192,7 @@ idolsnap.com
 idsub.co
 ifugaobagi.co.uk
 ifyti.com
+ig-clan.com
 igamesnet.com
 igbarasios.co.uk
 igiclick.com
@@ -9802,6 +9803,7 @@ mailer.idolsnap.com
 mailer.idsub.co
 mailer.ifugaobagi.co.uk
 mailer.ifyti.com
+mailer.ig-clan.com
 mailer.igamesnet.com
 mailer.igbarasios.co.uk
 mailer.igiclick.com
