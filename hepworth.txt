@@ -4195,6 +4195,7 @@ ifyti.com
 ig-clan.com
 igamesnet.com
 igbarasios.co.uk
+igclan.org
 igiclick.com
 ignaciades.co.uk
 iguigteros.co.uk
@@ -9806,6 +9807,7 @@ mailer.ifyti.com
 mailer.ig-clan.com
 mailer.igamesnet.com
 mailer.igbarasios.co.uk
+mailer.igclan.org
 mailer.igiclick.com
 mailer.ignaciades.co.uk
 mailer.iguigteros.co.uk
