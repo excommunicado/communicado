@@ -12346,6 +12346,7 @@ mailer.olmsmi.com
 mailer.olongapoco.co.uk
 mailer.olutangara.co.uk
 mailer.ombaz.com
+mailer.omegacurr.com
 mailer.omegacy.org
 mailer.omegada.org
 mailer.omegaja.com
@@ -17020,6 +17021,7 @@ olmsmi.com
 olongapoco.co.uk
 olutangara.co.uk
 ombaz.com
+omegacurr.com
 omegacy.org
 omegada.org
 omegaja.com
