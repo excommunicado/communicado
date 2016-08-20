@@ -12355,6 +12355,7 @@ mailer.omegakao.com
 mailer.omegaoui.com
 mailer.omegarian.com
 mailer.omegasaki.com
+mailer.omegashi.com
 mailer.omegasiki.com
 mailer.omegasikki.com
 mailer.omegasikki.net
@@ -17030,6 +17031,7 @@ omegakao.com
 omegaoui.com
 omegarian.com
 omegasaki.com
+omegashi.com
 omegasiki.com
 omegasikki.com
 omegasikki.net
