@@ -12352,6 +12352,7 @@ mailer.omegada.org
 mailer.omegaja.com
 mailer.omegaja.org
 mailer.omegakao.com
+mailer.omegamynt.com
 mailer.omegaoui.com
 mailer.omegarian.com
 mailer.omegasaki.com
@@ -17029,6 +17030,7 @@ omegada.org
 omegaja.com
 omegaja.org
 omegakao.com
+omegamynt.com
 omegaoui.com
 omegarian.com
 omegasaki.com
