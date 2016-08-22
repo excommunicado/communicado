@@ -3427,6 +3427,7 @@ geneprella.co.uk
 geneprelle.co.uk
 generalias.co.uk
 generosoto.co.uk
+genesispost.com
 geniuz.org
 geonaute360deals.com
 gerabreime.co.uk
@@ -9041,6 +9042,7 @@ mailer.geneprella.co.uk
 mailer.geneprelle.co.uk
 mailer.generalias.co.uk
 mailer.generosoto.co.uk
+mailer.genesispost.com
 mailer.geniuz.org
 mailer.geonaute360deals.com
 mailer.gerabreime.co.uk
