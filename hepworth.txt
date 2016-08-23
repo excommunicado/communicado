@@ -3478,6 +3478,7 @@ gironadigital.com
 gitagumler.co.uk
 gitdoc.org
 givehearts.net
+gladius-security.com
 glangander.co.uk
 glarmenia.org
 glasseswenzhou.com
@@ -9096,6 +9097,7 @@ mailer.gironadigital.com
 mailer.gitagumler.co.uk
 mailer.gitdoc.org
 mailer.givehearts.net
+mailer.gladius-security.com
 mailer.glangander.co.uk
 mailer.glarmenia.org
 mailer.glasseswenzhou.com
