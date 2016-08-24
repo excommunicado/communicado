@@ -15089,6 +15089,7 @@ mailer.wallpaperex.com
 mailer.wallpaperextras.com
 mailer.wallstreetmine.com
 mailer.wallsva.com
+mailer.wamslibrary.com
 mailer.wanderava.co.uk
 mailer.wanderave.co.uk
 mailer.wanderavi.co.uk
@@ -19769,6 +19770,7 @@ wallpaperex.com
 wallpaperextras.com
 wallstreetmine.com
 wallsva.com
+wamslibrary.com
 wanderava.co.uk
 wanderave.co.uk
 wanderavi.co.uk
