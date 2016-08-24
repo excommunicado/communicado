@@ -3540,6 +3540,7 @@ globalmoneyearner.com
 globalniel.com
 globalsoftwareapp.com
 globematters.com
+glodak.org
 gloriandra.co.uk
 gloweastafrica.com
 glpk.co
@@ -9163,6 +9164,7 @@ mailer.globalmoneyearner.com
 mailer.globalniel.com
 mailer.globalsoftwareapp.com
 mailer.globematters.com
+mailer.glodak.org
 mailer.gloriandra.co.uk
 mailer.gloweastafrica.com
 mailer.glpk.co
