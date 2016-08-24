@@ -2461,6 +2461,7 @@ dynoresearch.com
 dyscraftmc.com
 dywebcon.com
 e-peso.org
+e-zloto.net
 eababreime.co.uk
 eabadrauli.co.uk
 eabahuie.co.uk
@@ -8086,6 +8087,7 @@ mailer.dynoresearch.com
 mailer.dyscraftmc.com
 mailer.dywebcon.com
 mailer.e-peso.org
+mailer.e-zloto.net
 mailer.eababreime.co.uk
 mailer.eabadrauli.co.uk
 mailer.eabahuie.co.uk
