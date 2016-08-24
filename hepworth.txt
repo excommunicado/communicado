@@ -2094,6 +2094,7 @@ ddiva.net
 ddlmatic.com
 de-l.net
 de3.co
+dealchitown.com
 dealextreme.tv
 dealfrance.com
 dealsnipe.net
@@ -7713,6 +7714,7 @@ mailer.ddiva.net
 mailer.ddlmatic.com
 mailer.de-l.net
 mailer.de3.co
+mailer.dealchitown.com
 mailer.dealextreme.tv
 mailer.dealfrance.com
 mailer.dealsnipe.net
