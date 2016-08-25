@@ -3661,6 +3661,7 @@ grilasinquo.co.uk
 grillsweknow.com
 grindstoneline.com
 grnf.co
+groupdis.net
 groupmajor.com
 grownedibles.com
 grpbiz.com
@@ -9289,6 +9290,7 @@ mailer.grilasinquo.co.uk
 mailer.grillsweknow.com
 mailer.grindstoneline.com
 mailer.grnf.co
+mailer.groupdis.net
 mailer.groupmajor.com
 mailer.grownedibles.com
 mailer.grpbiz.com
