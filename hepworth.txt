@@ -5608,6 +5608,7 @@ magalona.co.uk
 magalond.co.uk
 maganoylan.co.uk
 magaraotos.co.uk
+magazinedreamhome.com
 magdalenag.co.uk
 magdiwanga.co.uk
 magic-app.org
@@ -11235,6 +11236,7 @@ mailer.magalona.co.uk
 mailer.magalond.co.uk
 mailer.maganoylan.co.uk
 mailer.magaraotos.co.uk
+mailer.magazinedreamhome.com
 mailer.magdalenag.co.uk
 mailer.magdiwanga.co.uk
 mailer.magic-app.org
@@ -13968,6 +13970,7 @@ mailer.styleexpression.com
 mailer.stylepixs.com
 mailer.stylexpression.com
 mailer.sub-odeon.com
+mailer.subindomovie.co
 mailer.submeup.com
 mailer.successlifesuccess.com
 mailer.suchsavings.com
@@ -18650,6 +18653,7 @@ styleexpression.com
 stylepixs.com
 stylexpression.com
 sub-odeon.com
+subindomovie.co
 submeup.com
 successlifesuccess.com
 suchsavings.com
