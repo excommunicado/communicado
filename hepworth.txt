@@ -1596,6 +1596,7 @@ castillans.co.uk
 castillejo.co.uk
 cataingane.co.uk
 catalinase.co.uk
+catalogreader.com
 catanauana.co.uk
 catanduane.co.uk
 catarmanca.co.uk
@@ -7222,6 +7223,7 @@ mailer.castillans.co.uk
 mailer.castillejo.co.uk
 mailer.cataingane.co.uk
 mailer.catalinase.co.uk
+mailer.catalogreader.com
 mailer.catanauana.co.uk
 mailer.catanduane.co.uk
 mailer.catarmanca.co.uk
