@@ -3418,6 +3418,7 @@ gedcumode.co.uk
 gedcumodra.co.uk
 gedcumods.co.uk
 gedcumody.co.uk
+gedebuk.net
 gelabreime.co.uk
 geladrauli.co.uk
 gelahuie.co.uk
@@ -9047,6 +9048,7 @@ mailer.gedcumode.co.uk
 mailer.gedcumodra.co.uk
 mailer.gedcumods.co.uk
 mailer.gedcumody.co.uk
+mailer.gedebuk.net
 mailer.gelabreime.co.uk
 mailer.geladrauli.co.uk
 mailer.gelahuie.co.uk
