@@ -3212,6 +3212,7 @@ forexpurchaser.com
 forexsignalshq.com
 forhearst.com
 forkorca.com
+formacaoplus.com
 forniernos.co.uk
 forsvikgroup.com
 fortichnas.co.uk
@@ -8847,6 +8848,7 @@ mailer.forexpurchaser.com
 mailer.forexsignalshq.com
 mailer.forhearst.com
 mailer.forkorca.com
+mailer.formacaoplus.com
 mailer.forniernos.co.uk
 mailer.forsvikgroup.com
 mailer.fortichnas.co.uk
