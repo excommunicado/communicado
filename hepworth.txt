@@ -1922,6 +1922,7 @@ cryptocurrencymarkets.com
 cryptopaperwallets.com
 cryptosovereignty.net
 cryptowater.com
+csgomental.com
 csgshq.com
 cskmerania.org
 csper.org
@@ -7559,6 +7560,7 @@ mailer.cryptocurrencymarkets.com
 mailer.cryptopaperwallets.com
 mailer.cryptosovereignty.net
 mailer.cryptowater.com
+mailer.csgomental.com
 mailer.csgshq.com
 mailer.cskmerania.org
 mailer.csper.org
