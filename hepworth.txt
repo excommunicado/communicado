@@ -2857,6 +2857,7 @@ excellentbod.com
 excellentearn.com
 excitelogix.com
 excitepro.com
+excstore.com
 eximportsource.com
 exintel.org
 exitepro.com
@@ -8493,6 +8494,7 @@ mailer.excellentbod.com
 mailer.excellentearn.com
 mailer.excitelogix.com
 mailer.excitepro.com
+mailer.excstore.com
 mailer.eximportsource.com
 mailer.exintel.org
 mailer.exitepro.com
