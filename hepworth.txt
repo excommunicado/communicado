@@ -1622,6 +1622,7 @@ cc-pvp.com
 ccapark.org
 ccmilitia.com
 ccoapark.org
+ccp-journal.com
 cdf-alliance.com
 cebuanose.co.uk
 cedcamode.co.uk
@@ -7260,6 +7261,7 @@ mailer.cc-pvp.com
 mailer.ccapark.org
 mailer.ccmilitia.com
 mailer.ccoapark.org
+mailer.ccp-journal.com
 mailer.cdf-alliance.com
 mailer.cebuanose.co.uk
 mailer.cedcamode.co.uk
