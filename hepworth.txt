@@ -11842,6 +11842,7 @@ mailer.mochillatech.com
 mailer.mochillatechnologies.com
 mailer.moddingbay.com
 mailer.modenotes.com
+mailer.modernquick.com
 mailer.modetodo.com
 mailer.mogibox.com
 mailer.mogpogiosa.co.uk
@@ -16537,6 +16538,7 @@ mochillatech.com
 mochillatechnologies.com
 moddingbay.com
 modenotes.com
+modernquick.com
 modetodo.com
 mogibox.com
 mogpogiosa.co.uk
