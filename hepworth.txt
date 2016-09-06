@@ -5155,6 +5155,7 @@ landseaoptics.com
 landskapes.com
 landsmooth.com
 langidensa.co.uk
+languageminer.org
 langueshevaard.com
 languyano.co.uk
 lanstron.com
@@ -10799,6 +10800,7 @@ mailer.landseaoptics.com
 mailer.landskapes.com
 mailer.landsmooth.com
 mailer.langidensa.co.uk
+mailer.languageminer.org
 mailer.langueshevaard.com
 mailer.languyano.co.uk
 mailer.lanstron.com
