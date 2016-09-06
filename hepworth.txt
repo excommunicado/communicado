@@ -15042,6 +15042,7 @@ mailer.vipdls.com
 mailer.viperdiamond.com
 mailer.viralautobots.net
 mailer.viralcricket.com
+mailer.viralhottest.com
 mailer.viralnetworks.net
 mailer.viralrugby.com
 mailer.viralstoriesfast.com
@@ -19740,6 +19741,7 @@ vipdls.com
 viperdiamond.com
 viralautobots.net
 viralcricket.com
+viralhottest.com
 viralnetworks.net
 viralrugby.com
 viralstoriesfast.com
