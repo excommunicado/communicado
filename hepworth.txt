@@ -15054,6 +15054,7 @@ mailer.virtuouswriting.com
 mailer.visavisthesalonh.com
 mailer.visionfuss.com
 mailer.visitnesia.com
+mailer.visualcommunicating.com
 mailer.vitafortis.net
 mailer.vitamindress.com
 mailer.vitanx.com
@@ -19757,6 +19758,7 @@ virtuouswriting.com
 visavisthesalonh.com
 visionfuss.com
 visitnesia.com
+visualcommunicating.com
 vitafortis.net
 vitamindress.com
 vitanx.com
