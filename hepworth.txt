@@ -15147,6 +15147,7 @@ mailer.wallll.com
 mailer.wallofcrush.com
 mailer.wallpaperex.com
 mailer.wallpaperextras.com
+mailer.wallstreetelite.co
 mailer.wallstreetmine.com
 mailer.wallsva.com
 mailer.wamslibrary.com
@@ -19854,6 +19855,7 @@ wallll.com
 wallofcrush.com
 wallpaperex.com
 wallpaperextras.com
+wallstreetelite.co
 wallstreetmine.com
 wallsva.com
 wamslibrary.com
