@@ -15951,6 +15951,7 @@ mailer.zindydesign.com
 mailer.zindyshop.com
 mailer.zipcah.com
 mailer.zirelshop.net
+mailer.zivera-online.com
 mailer.zoey-d.org
 mailer.zohoserving.com
 mailer.zonathankinh.com
@@ -20661,6 +20662,7 @@ zindydesign.com
 zindyshop.com
 zipcah.com
 zirelshop.net
+zivera-online.com
 zoey-d.org
 zohoserving.com
 zonathankinh.com
