@@ -14075,6 +14075,7 @@ mailer.suwak.org
 mailer.svvamp.com
 mailer.swagcity.org
 mailer.swapgifs.com
+mailer.sweeptastic.com
 mailer.sweetricotta.com
 mailer.swiftaction.net
 mailer.swimback.net
@@ -18784,6 +18785,7 @@ suwak.org
 svvamp.com
 swagcity.org
 swapgifs.com
+sweeptastic.com
 sweetricotta.com
 swiftaction.net
 swimback.net
