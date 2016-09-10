@@ -15432,6 +15432,7 @@ mailer.wpnuno.com
 mailer.writelivegrow.com
 mailer.writinghelpers.org
 mailer.writingrealestate.com
+mailer.writingventures.org
 mailer.writtenpersuasion.com
 mailer.wsolegend.com
 mailer.wssel.com
@@ -20144,6 +20145,7 @@ wpnuno.com
 writelivegrow.com
 writinghelpers.org
 writingrealestate.com
+writingventures.org
 writtenpersuasion.com
 wsolegend.com
 wssel.com
