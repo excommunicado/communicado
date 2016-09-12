@@ -14985,6 +14985,7 @@ mailer.verrasinqua.co.uk
 mailer.verrasinque.co.uk
 mailer.verrasinqui.co.uk
 mailer.verrasinquo.co.uk
+mailer.verummeasurement.com
 mailer.verylimited.co.uk
 mailer.vetrerava.co.uk
 mailer.vetrerave.co.uk
@@ -19703,6 +19704,7 @@ verrasinqua.co.uk
 verrasinque.co.uk
 verrasinqui.co.uk
 verrasinquo.co.uk
+verummeasurement.com
 verylimited.co.uk
 vetrerava.co.uk
 vetrerave.co.uk
