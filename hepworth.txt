@@ -15152,6 +15152,7 @@ mailer.vuveyod.com
 mailer.vuvucosbr.com
 mailer.vuzu.org
 mailer.wabitea.com
+mailer.wagdog.net
 mailer.wakeuprecipes.com
 mailer.walipalorcse.co.uk
 mailer.walipanorcse.co.uk
@@ -19872,6 +19873,7 @@ vuveyod.com
 vuvucosbr.com
 vuzu.org
 wabitea.com
+wagdog.net
 wakeuprecipes.com
 walipalorcse.co.uk
 walipanorcse.co.uk
