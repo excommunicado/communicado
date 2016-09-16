@@ -13619,6 +13619,7 @@ mailer.screencap.org
 mailer.scriptfromscratch.com
 mailer.scriptkitty.co
 mailer.scrollum.com
+mailer.sdfd.co
 mailer.sdmindy.com
 mailer.sdvisalawyer.com
 mailer.seadivestarship.com
@@ -18350,6 +18351,7 @@ screencap.org
 scriptfromscratch.com
 scriptkitty.co
 scrollum.com
+sdfd.co
 sdmindy.com
 sdvisalawyer.com
 seadivestarship.com
