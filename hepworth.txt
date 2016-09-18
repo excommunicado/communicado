@@ -13720,6 +13720,7 @@ mailer.serpvideo.com
 mailer.servaman.net
 mailer.serverserver.co.uk
 mailer.servicebroker.org
+mailer.servicegist.com
 mailer.sessalesteams.com
 mailer.sessionvoc.com
 mailer.sesupplies.net
@@ -18455,6 +18456,7 @@ serpvideo.com
 servaman.net
 serverserver.co.uk
 servicebroker.org
+servicegist.com
 sessalesteams.com
 sessionvoc.com
 sesupplies.net
