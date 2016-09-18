@@ -14243,6 +14243,7 @@ mailer.tekcampaign.com
 mailer.tekforums.org
 mailer.teknomode.com
 mailer.tekodeco.co
+mailer.teldem.com
 mailer.telechargerword.com
 mailer.telecomtrio.com
 mailer.telegraaf.co
@@ -18977,6 +18978,7 @@ tekcampaign.com
 tekforums.org
 teknomode.com
 tekodeco.co
+teldem.com
 telechargerword.com
 telecomtrio.com
 telegraaf.co
