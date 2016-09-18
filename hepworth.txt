@@ -1720,6 +1720,7 @@ citrescon.co.uk
 civilrefinement.com
 clanduell.com
 clanshub.com
+claremking.org
 clarindos.co.uk
 classi-fields.com
 classicadvice.com
@@ -7374,6 +7375,7 @@ mailer.citrescon.co.uk
 mailer.civilrefinement.com
 mailer.clanduell.com
 mailer.clanshub.com
+mailer.claremking.org
 mailer.clarindos.co.uk
 mailer.classi-fields.com
 mailer.classicadvice.com
