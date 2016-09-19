@@ -15145,6 +15145,7 @@ mailer.vitrirachap.co.uk
 mailer.vitrirachar.co.uk
 mailer.vivataobao.com
 mailer.vividpersuasion.com
+mailer.vivirverde.com
 mailer.vj52.com
 mailer.vlmp3.com
 mailer.vocationallignment.com
@@ -19881,6 +19882,7 @@ vitrirachap.co.uk
 vitrirachar.co.uk
 vivataobao.com
 vividpersuasion.com
+vivirverde.com
 vj52.com
 vlmp3.com
 vocationallignment.com
