@@ -2358,6 +2358,7 @@ dizedesigns.com
 dlabowties.com
 dleinew.com
 dmkc.net
+dns-webserver.com
 dockmc.com
 docseas.com
 docsengine.net
@@ -8013,6 +8014,7 @@ mailer.dizedesigns.com
 mailer.dlabowties.com
 mailer.dleinew.com
 mailer.dmkc.net
+mailer.dns-webserver.com
 mailer.dockmc.com
 mailer.docseas.com
 mailer.docsengine.net
