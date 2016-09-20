@@ -14341,6 +14341,7 @@ mailer.theclosetmarketer.net
 mailer.thecreationcrew.com
 mailer.thecrew-hq.com
 mailer.thecreweu.com
+mailer.thecubemc.com
 mailer.thedailysteeper.com
 mailer.thedaniellee.com
 mailer.thedarkfiction.com
@@ -19078,6 +19079,7 @@ theclosetmarketer.net
 thecreationcrew.com
 thecrew-hq.com
 thecreweu.com
+thecubemc.com
 thedailysteeper.com
 thedaniellee.com
 thedarkfiction.com
