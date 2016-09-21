@@ -14113,6 +14113,7 @@ mailer.sweeptastic.com
 mailer.sweetricotta.com
 mailer.swiftaction.net
 mailer.swiftclaimsltd.com
+mailer.swiftlycoded.net
 mailer.swimback.net
 mailer.swopabook.com
 mailer.sxbig.com
@@ -18856,6 +18857,7 @@ sweeptastic.com
 sweetricotta.com
 swiftaction.net
 swiftclaimsltd.com
+swiftlycoded.net
 swimback.net
 swopabook.com
 sxbig.com
