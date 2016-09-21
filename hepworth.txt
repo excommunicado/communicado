@@ -13759,6 +13759,7 @@ mailer.shieldagents.net
 mailer.shipk.com
 mailer.shockfm.net
 mailer.shopbiz.co
+mailer.shoplicate.org
 mailer.shoplocalcabot.com
 mailer.shoppify.net
 mailer.shorttip.com
@@ -18504,6 +18505,7 @@ shieldagents.net
 shipk.com
 shockfm.net
 shopbiz.co
+shoplicate.org
 shoplocalcabot.com
 shoppify.net
 shorttip.com
