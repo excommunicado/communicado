@@ -13762,6 +13762,7 @@ mailer.shockfm.net
 mailer.shopbiz.co
 mailer.shoplicate.org
 mailer.shoplocalcabot.com
+mailer.shopmixx.com
 mailer.shoppify.net
 mailer.shorttip.com
 mailer.shotset.com
@@ -18512,6 +18513,7 @@ shockfm.net
 shopbiz.co
 shoplicate.org
 shoplocalcabot.com
+shopmixx.com
 shoppify.net
 shorttip.com
 shotset.com
