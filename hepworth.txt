@@ -12892,6 +12892,7 @@ mailer.photogur.com
 mailer.photonshack.com
 mailer.photos-pictures.com
 mailer.photoseffects.org
+mailer.photosly.org
 mailer.php-school.net
 mailer.physicalgoldiras.org
 mailer.physioplatform.net
@@ -17645,6 +17646,7 @@ photogur.com
 photonshack.com
 photos-pictures.com
 photoseffects.org
+photosly.org
 php-school.net
 physicalgoldiras.org
 physioplatform.net
