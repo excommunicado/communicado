@@ -13123,6 +13123,7 @@ mailer.purecorfu.com
 mailer.puregcbe.com
 mailer.pureinnovate.com
 mailer.purevincheck.com
+mailer.puricimoweb.co
 mailer.purkot.in
 mailer.purkot.net
 mailer.purkot.org
@@ -17879,6 +17880,7 @@ purecorfu.com
 puregcbe.com
 pureinnovate.com
 purevincheck.com
+puricimoweb.co
 purkot.in
 purkot.net
 purkot.org
