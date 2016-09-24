@@ -13183,6 +13183,7 @@ mailer.quick-profit.org
 mailer.quickmoneyblueprint.co
 mailer.quicksilversolutionsllc.com
 mailer.quickstory.net
+mailer.quickwealthblueprint.co
 mailer.quioprella.co.uk
 mailer.quioprelle.co.uk
 mailer.quixoticinc.com
@@ -17941,6 +17942,7 @@ quick-profit.org
 quickmoneyblueprint.co
 quicksilversolutionsllc.com
 quickstory.net
+quickwealthblueprint.co
 quioprella.co.uk
 quioprelle.co.uk
 quixoticinc.com
