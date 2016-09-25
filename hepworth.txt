@@ -13202,6 +13202,7 @@ mailer.qwhosting.com
 mailer.qyilx.org
 mailer.qyqlcs.com
 mailer.rabattsofort.com
+mailer.rackrivals.com
 mailer.radiantdelicacy.com
 mailer.radioboon.com
 mailer.radioboonforum.com
@@ -17962,6 +17963,7 @@ qwhosting.com
 qyilx.org
 qyqlcs.com
 rabattsofort.com
+rackrivals.com
 radiantdelicacy.com
 radioboon.com
 radioboonforum.com
