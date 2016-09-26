@@ -12832,6 +12832,7 @@ mailer.penpasle.co.uk
 mailer.penquale.co.uk
 mailer.penrasle.co.uk
 mailer.pensatle.co.uk
+mailer.pentairlight.com
 mailer.pentalle.co.uk
 mailer.penualle.co.uk
 mailer.penvatle.co.uk
@@ -17597,6 +17598,7 @@ penpasle.co.uk
 penquale.co.uk
 penrasle.co.uk
 pensatle.co.uk
+pentairlight.com
 pentalle.co.uk
 penualle.co.uk
 penvatle.co.uk
