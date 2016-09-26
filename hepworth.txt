@@ -12977,6 +12977,7 @@ mailer.portlandsocialtract.com
 mailer.poscampaign.com
 mailer.poseminence.com
 mailer.positionhistory.com
+mailer.positivestudy.com
 mailer.potionhosting.com
 mailer.potionhosting.net
 mailer.potionhosting.org
@@ -17743,6 +17744,7 @@ portlandsocialtract.com
 poscampaign.com
 poseminence.com
 positionhistory.com
+positivestudy.com
 potionhosting.com
 potionhosting.net
 potionhosting.org
