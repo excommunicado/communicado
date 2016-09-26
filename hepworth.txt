@@ -13303,6 +13303,7 @@ mailer.refinedthrifts.com
 mailer.refisecurity.com
 mailer.refocusd.co
 mailer.regainefoam.org
+mailer.regdeal.com
 mailer.relaisdechatenoy.net
 mailer.relanovem.co.uk
 mailer.relanovom.co.uk
@@ -18067,6 +18068,7 @@ refinedthrifts.com
 refisecurity.com
 refocusd.co
 regainefoam.org
+regdeal.com
 relaisdechatenoy.net
 relanovem.co.uk
 relanovom.co.uk
