@@ -12899,6 +12899,7 @@ mailer.photosly.org
 mailer.php-school.net
 mailer.physicalgoldiras.org
 mailer.physioplatform.net
+mailer.pianoclix.com
 mailer.pianowork.net
 mailer.piattaformeforex.net
 mailer.picjump.org
@@ -17668,6 +17669,7 @@ photosly.org
 php-school.net
 physicalgoldiras.org
 physioplatform.net
+pianoclix.com
 pianowork.net
 piattaformeforex.net
 picjump.org
