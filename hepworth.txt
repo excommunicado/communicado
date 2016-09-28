@@ -12914,6 +12914,7 @@ mailer.pifany.net
 mailer.pigletbeach.com
 mailer.piibb.net
 mailer.piibb.org
+mailer.pikoplanet.com
 mailer.pilgrimriders.com
 mailer.pingrglobe.com
 mailer.pingurl.net
@@ -17690,6 +17691,7 @@ pifany.net
 pigletbeach.com
 piibb.net
 piibb.org
+pikoplanet.com
 pilgrimriders.com
 pingrglobe.com
 pingurl.net
