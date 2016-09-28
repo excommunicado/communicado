@@ -13994,6 +13994,7 @@ mailer.splunkt.com
 mailer.spootlight.com
 mailer.sporei.com
 mailer.spornaque.com
+mailer.sportsadi.com
 mailer.sportsbetodds.net
 mailer.sportsgifs.net
 mailer.sportstoto.biz
@@ -18768,6 +18769,7 @@ splunkt.com
 spootlight.com
 sporei.com
 spornaque.com
+sportsadi.com
 sportsbetodds.net
 sportsgifs.net
 sportstoto.biz
