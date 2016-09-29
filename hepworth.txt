@@ -13217,6 +13217,7 @@ mailer.radioboon.com
 mailer.radioboonforum.com
 mailer.radiocollectletter.com
 mailer.radiomaker.co.uk
+mailer.radioomega.net
 mailer.radioshire.com
 mailer.ragerush.com
 mailer.raidboosting.com
@@ -17995,6 +17996,7 @@ radioboon.com
 radioboonforum.com
 radiocollectletter.com
 radiomaker.co.uk
+radioomega.net
 radioshire.com
 ragerush.com
 raidboosting.com
