@@ -14102,6 +14102,7 @@ mailer.supdervids.com
 mailer.super-sonico.net
 mailer.superearns.com
 mailer.superfunnight.net
+mailer.superfunwedding.com
 mailer.superhummus.com
 mailer.superlatiff.com
 mailer.supermansocks.com
@@ -18886,6 +18887,7 @@ supdervids.com
 super-sonico.net
 superearns.com
 superfunnight.net
+superfunwedding.com
 superhummus.com
 superlatiff.com
 supermansocks.com
