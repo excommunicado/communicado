@@ -1233,6 +1233,7 @@ bruvontel.co.uk
 brylee.net
 bscsr.com
 bscsrg.com
+bshswac.org
 bstclassifieds.com
 btc-forums.org
 btc-purchase.com
@@ -6894,6 +6895,7 @@ mailer.bruvontel.co.uk
 mailer.brylee.net
 mailer.bscsr.com
 mailer.bscsrg.com
+mailer.bshswac.org
 mailer.bstclassifieds.com
 mailer.btc-forums.org
 mailer.btc-purchase.com
