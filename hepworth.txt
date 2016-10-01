@@ -13480,6 +13480,7 @@ mailer.robreeps.com
 mailer.rockll.net
 mailer.rockscale.net
 mailer.rocksketch.com
+mailer.rodical.net
 mailer.rogue-it.com
 mailer.roiactive.com
 mailer.roilind.com
@@ -18267,6 +18268,7 @@ robreeps.com
 rockll.net
 rockscale.net
 rocksketch.com
+rodical.net
 rogue-it.com
 roiactive.com
 roilind.com
