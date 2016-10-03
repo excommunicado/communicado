@@ -13790,6 +13790,7 @@ mailer.shaktihurst.com
 mailer.shanghaitoyiwu.com
 mailer.shape-fit.org
 mailer.shapecontrol.net
+mailer.shapemagnow.com
 mailer.sharedocs.co
 mailer.sharegifs.com
 mailer.sharesnets.net
@@ -18588,6 +18589,7 @@ shaktihurst.com
 shanghaitoyiwu.com
 shape-fit.org
 shapecontrol.net
+shapemagnow.com
 sharedocs.co
 sharegifs.com
 sharesnets.net
