@@ -13674,6 +13674,7 @@ mailer.scilord.org
 mailer.scolger.com
 mailer.scoopreportbrief.com
 mailer.scopone.org
+mailer.scottdlunn.com
 mailer.scottybot.com
 mailer.screely.com
 mailer.screencap.org
@@ -18480,6 +18481,7 @@ scilord.org
 scolger.com
 scoopreportbrief.com
 scopone.org
+scottdlunn.com
 scottybot.com
 screely.com
 screencap.org
