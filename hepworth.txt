@@ -12198,6 +12198,7 @@ mailer.news365.org
 mailer.newsdailyreports.com
 mailer.newsderp.com
 mailer.newsjournal.co
+mailer.newsletterabo.net
 mailer.newsquack.com
 mailer.newsunrise.org
 mailer.newsurprises.net
@@ -17012,6 +17013,7 @@ news365.org
 newsdailyreports.com
 newsderp.com
 newsjournal.co
+newsletterabo.net
 newsquack.com
 newsunrise.org
 newsurprises.net
