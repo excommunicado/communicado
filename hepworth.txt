@@ -4902,6 +4902,7 @@ kaltluft.com
 kanakareberyas.com
 kanangasal.co.uk
 kanefag.com
+kangdownload.com
 kanzhun.co
 kapaidolat.co.uk
 kapalongla.co.uk
@@ -10567,6 +10568,7 @@ mailer.kaltluft.com
 mailer.kanakareberyas.com
 mailer.kanangasal.co.uk
 mailer.kanefag.com
+mailer.kangdownload.com
 mailer.kanzhun.co
 mailer.kapaidolat.co.uk
 mailer.kapalongla.co.uk
