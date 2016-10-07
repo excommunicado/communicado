@@ -12979,6 +12979,7 @@ mailer.poenye.com
 mailer.pointdecontact.org
 mailer.pointsector.com
 mailer.pokafantaisie.com
+mailer.pokeboost.co
 mailer.pokertruth.net
 mailer.polintano.com
 mailer.polipfer.com
@@ -17790,6 +17791,7 @@ poenye.com
 pointdecontact.org
 pointsector.com
 pokafantaisie.com
+pokeboost.co
 pokertruth.net
 polintano.com
 polipfer.com
