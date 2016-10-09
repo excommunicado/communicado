@@ -14491,6 +14491,7 @@ mailer.thetravelandculturetour.com
 mailer.thetravelshopping.com
 mailer.thetrinitymc.com
 mailer.theultimatecreation.com
+mailer.thevibesng.com
 mailer.thewriterary.com
 mailer.thewritinggenie.com
 mailer.theyachtking.com
@@ -19308,6 +19309,7 @@ thetravelandculturetour.com
 thetravelshopping.com
 thetrinitymc.com
 theultimatecreation.com
+thevibesng.com
 thewriterary.com
 thewritinggenie.com
 theyachtking.com
