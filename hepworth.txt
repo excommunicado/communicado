@@ -12930,6 +12930,7 @@ mailer.photoseffects.org
 mailer.photosly.net
 mailer.photosly.org
 mailer.php-school.net
+mailer.physical-action.com
 mailer.physicalgoldiras.org
 mailer.physioplatform.net
 mailer.pianoclix.com
@@ -17751,6 +17752,7 @@ photoseffects.org
 photosly.net
 photosly.org
 php-school.net
+physical-action.com
 physicalgoldiras.org
 physioplatform.net
 pianoclix.com
