@@ -271,6 +271,7 @@ almeriantis.co.uk
 alminerals.com
 aloguinsana.co.uk
 alorantica.co.uk
+alotcoupon.com
 alpraguela.co.uk
 alpraguele.co.uk
 alpragueli.co.uk
@@ -5938,6 +5939,7 @@ mailer.almeriantis.co.uk
 mailer.alminerals.com
 mailer.aloguinsana.co.uk
 mailer.alorantica.co.uk
+mailer.alotcoupon.com
 mailer.alpraguela.co.uk
 mailer.alpraguele.co.uk
 mailer.alpragueli.co.uk
