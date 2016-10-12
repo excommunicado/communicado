@@ -1764,6 +1764,7 @@ clubpitchers.net
 clubvvpt.com
 clysb.com
 cn-nutrition.net
+cngla.com
 cnpmerchantsolutions.com
 coastf.com
 cobms.com
@@ -7433,6 +7434,7 @@ mailer.clubpitchers.net
 mailer.clubvvpt.com
 mailer.clysb.com
 mailer.cn-nutrition.net
+mailer.cngla.com
 mailer.cnpmerchantsolutions.com
 mailer.coastf.com
 mailer.cobms.com
