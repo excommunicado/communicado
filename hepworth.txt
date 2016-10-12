@@ -3628,6 +3628,7 @@ goodlifedaily.com
 goodwinginnifer.com
 googlytics.net
 goomelis.com
+goornot.co
 goquanta.net
 gordonwallingnd.com
 gorefolte.co.uk
@@ -9299,6 +9300,7 @@ mailer.goodlifedaily.com
 mailer.goodwinginnifer.com
 mailer.googlytics.net
 mailer.goomelis.com
+mailer.goornot.co
 mailer.goquanta.net
 mailer.gordonwallingnd.com
 mailer.gorefolte.co.uk
