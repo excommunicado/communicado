@@ -14168,6 +14168,7 @@ mailer.super-sonico.net
 mailer.superearns.com
 mailer.superfunnight.net
 mailer.superfunwedding.com
+mailer.supergisele.com
 mailer.superhummus.com
 mailer.superlatiff.com
 mailer.supermansocks.com
@@ -19003,6 +19004,7 @@ super-sonico.net
 superearns.com
 superfunnight.net
 superfunwedding.com
+supergisele.com
 superhummus.com
 superlatiff.com
 supermansocks.com
