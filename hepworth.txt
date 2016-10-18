@@ -1782,6 +1782,7 @@ codecounselor.com
 codiuslabs.com
 coffee-stuff.com
 coffeeblog.co
+cogollo.co
 cografyabilgi.com
 coingringo.com
 coinmark.net
@@ -7467,6 +7468,7 @@ mailer.codecounselor.com
 mailer.codiuslabs.com
 mailer.coffee-stuff.com
 mailer.coffeeblog.co
+mailer.cogollo.co
 mailer.cografyabilgi.com
 mailer.coingringo.com
 mailer.coinmark.net
