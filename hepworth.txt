@@ -2132,6 +2132,7 @@ dealsnipe.net
 dealstorm.net
 dealzlookout.com
 debtity.com
+debtprogress.com
 decentralcloud.net
 decision-central.com
 deckingboardsoil.com
@@ -7819,6 +7820,7 @@ mailer.dealsnipe.net
 mailer.dealstorm.net
 mailer.dealzlookout.com
 mailer.debtity.com
+mailer.debtprogress.com
 mailer.decentralcloud.net
 mailer.decision-central.com
 mailer.deckingboardsoil.com
