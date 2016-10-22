@@ -14372,6 +14372,7 @@ mailer.techkeyboard.com
 mailer.technikey.com
 mailer.technodemocracy.org
 mailer.technojoint.org
+mailer.technologyencore.com
 mailer.technologyprice.com
 mailer.techpi.net
 mailer.techrupture.com
@@ -19219,6 +19220,7 @@ techkeyboard.com
 technikey.com
 technodemocracy.org
 technojoint.org
+technologyencore.com
 technologyprice.com
 techpi.net
 techrupture.com
