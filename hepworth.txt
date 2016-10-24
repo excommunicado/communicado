@@ -12868,6 +12868,7 @@ mailer.pastacasserole.com
 mailer.patagonianmara.com
 mailer.patentiraj.com
 mailer.patentmakr.com
+mailer.paydaydirecteloans.com
 mailer.payhound.co.uk
 mailer.paylittletax.com
 mailer.paylittletaxes.com
@@ -17720,6 +17721,7 @@ pastacasserole.com
 patagonianmara.com
 patentiraj.com
 patentmakr.com
+paydaydirecteloans.com
 payhound.co.uk
 paylittletax.com
 paylittletaxes.com
