@@ -13019,6 +13019,7 @@ mailer.pink-wallpaper.com
 mailer.pinkhandprint.com
 mailer.pinterestmanual.com
 mailer.pipelinebulletin.com
+mailer.pirsumzol.net
 mailer.pistachioats.com
 mailer.pixcar.co
 mailer.pixeltileworld.com
@@ -17872,6 +17873,7 @@ pink-wallpaper.com
 pinkhandprint.com
 pinterestmanual.com
 pipelinebulletin.com
+pirsumzol.net
 pistachioats.com
 pixcar.co
 pixeltileworld.com
