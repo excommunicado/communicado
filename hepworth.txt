@@ -14383,6 +14383,7 @@ mailer.technodemocracy.org
 mailer.technojoint.org
 mailer.technologyencore.com
 mailer.technologyprice.com
+mailer.technonetcs.net
 mailer.techpi.net
 mailer.techrupture.com
 mailer.techseduction.com
@@ -19241,6 +19242,7 @@ technodemocracy.org
 technojoint.org
 technologyencore.com
 technologyprice.com
+technonetcs.net
 techpi.net
 techrupture.com
 techseduction.com
