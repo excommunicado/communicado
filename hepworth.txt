@@ -14657,6 +14657,7 @@ mailer.toothladder.com
 mailer.top10cam.net
 mailer.topangalabs.com
 mailer.topcoffeebeans.com
+mailer.topdesignersbags.com
 mailer.topmoviestar.com
 mailer.topoll.net
 mailer.topresults.co
@@ -19519,6 +19520,7 @@ toothladder.com
 top10cam.net
 topangalabs.com
 topcoffeebeans.com
+topdesignersbags.com
 topmoviestar.com
 topoll.net
 topresults.co
