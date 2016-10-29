@@ -1843,6 +1843,7 @@ contentfound.com
 conventionsandgatherings.com
 cookschoice.org
 coolpress.net
+coolwebtool.co
 copyrightmakr.com
 copywritingcult.com
 copywritingmarketing.com
@@ -7540,6 +7541,7 @@ mailer.contentfound.com
 mailer.conventionsandgatherings.com
 mailer.cookschoice.org
 mailer.coolpress.net
+mailer.coolwebtool.co
 mailer.copyrightmakr.com
 mailer.copywritingcult.com
 mailer.copywritingmarketing.com
