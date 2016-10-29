@@ -15649,6 +15649,7 @@ mailer.wloold.com
 mailer.wmaccm.com
 mailer.wne-trading.com
 mailer.wnflash.com
+mailer.woodenshops.com
 mailer.woodspanner.com
 mailer.woodworkingblast.com
 mailer.woodworkingone.com
@@ -20514,6 +20515,7 @@ wloold.com
 wmaccm.com
 wne-trading.com
 wnflash.com
+woodenshops.com
 woodspanner.com
 woodworkingblast.com
 woodworkingone.com
