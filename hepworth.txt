@@ -14653,6 +14653,7 @@ mailer.tnnyi.com
 mailer.toberr.com
 mailer.tockhalm.com
 mailer.tod38.com
+mailer.todaycal.com
 mailer.todaysanew.com
 mailer.toewedgeshoes.com
 mailer.tokika.com
@@ -19521,6 +19522,7 @@ tnnyi.com
 toberr.com
 tockhalm.com
 tod38.com
+todaycal.com
 todaysanew.com
 toewedgeshoes.com
 tokika.com
