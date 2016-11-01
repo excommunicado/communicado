@@ -13040,6 +13040,7 @@ mailer.pinterestmanual.com
 mailer.pipelinebulletin.com
 mailer.pirsumzol.net
 mailer.pistachioats.com
+mailer.pitchheroes.com
 mailer.pixcar.co
 mailer.pixeltileworld.com
 mailer.pixelunderworld.com
@@ -17915,6 +17916,7 @@ pinterestmanual.com
 pipelinebulletin.com
 pirsumzol.net
 pistachioats.com
+pitchheroes.com
 pixcar.co
 pixeltileworld.com
 pixelunderworld.com
