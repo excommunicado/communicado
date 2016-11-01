@@ -472,6 +472,7 @@ aplombie.com
 apluslink.com
 apollogaming.org
 appcomet.co
+appdego.com
 appdesignerschool.com
 appelauxdons.org
 apperanto.com
@@ -6174,6 +6175,7 @@ mailer.aplombie.com
 mailer.apluslink.com
 mailer.apollogaming.org
 mailer.appcomet.co
+mailer.appdego.com
 mailer.appdesignerschool.com
 mailer.appelauxdons.org
 mailer.apperanto.com
