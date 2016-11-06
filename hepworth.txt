@@ -3595,6 +3595,7 @@ glpk.co
 glpkr.co
 glucogenmurah.net
 glutsatnft.com
+gmaail.co
 gmailplan.com
 gmailupdate.com
 gmes-mariss.com
@@ -9301,6 +9302,7 @@ mailer.glpk.co
 mailer.glpkr.co
 mailer.glucogenmurah.net
 mailer.glutsatnft.com
+mailer.gmaail.co
 mailer.gmailplan.com
 mailer.gmailupdate.com
 mailer.gmes-mariss.com
