@@ -14150,6 +14150,7 @@ mailer.spcdn.co
 mailer.specbar.net
 mailer.specthehalls.com
 mailer.speedstaterecords.com
+mailer.speidel-behealter.co
 mailer.spgservers.net
 mailer.spikecraft.com
 mailer.splashquick.com
@@ -19038,6 +19039,7 @@ spcdn.co
 specbar.net
 specthehalls.com
 speedstaterecords.com
+speidel-behealter.co
 spgservers.net
 spikecraft.com
 splashquick.com
