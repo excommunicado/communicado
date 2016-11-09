@@ -30,6 +30,7 @@
 55cap.com
 57iox.com
 5lo.co
+5waveclick.com
 7daycabbagesoupdiet.org
 7daysdeals.com
 7vote.com
@@ -5738,6 +5739,7 @@ mailer.52sky.org
 mailer.55cap.com
 mailer.57iox.com
 mailer.5lo.co
+mailer.5waveclick.com
 mailer.7daycabbagesoupdiet.org
 mailer.7daysdeals.com
 mailer.7vote.com
