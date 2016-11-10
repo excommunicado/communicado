@@ -14095,6 +14095,7 @@ mailer.snbaird.com
 mailer.snbots.com
 mailer.sndicate.co
 mailer.snowstromservers.com
+mailer.soaid.org
 mailer.sobbes.com
 mailer.socalrx.org
 mailer.soceur-arma.org
@@ -18989,6 +18990,7 @@ snbaird.com
 snbots.com
 sndicate.co
 snowstromservers.com
+soaid.org
 sobbes.com
 socalrx.org
 soceur-arma.org
