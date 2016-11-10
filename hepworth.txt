@@ -14096,6 +14096,7 @@ mailer.snbots.com
 mailer.sndicate.co
 mailer.snowstromservers.com
 mailer.sobbes.com
+mailer.socalrx.org
 mailer.soceur-arma.org
 mailer.socialactiveness.com
 mailer.socialcloudbackup.com
@@ -18988,6 +18989,7 @@ snbots.com
 sndicate.co
 snowstromservers.com
 sobbes.com
+socalrx.org
 soceur-arma.org
 socialactiveness.com
 socialcloudbackup.com
