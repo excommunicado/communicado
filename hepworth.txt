@@ -13054,6 +13054,7 @@ mailer.pininterior.com
 mailer.pink-wallpaper.com
 mailer.pinkhandprint.com
 mailer.pinterestmanual.com
+mailer.pinterst.co
 mailer.pipelinebulletin.com
 mailer.pirsumzol.net
 mailer.pistachioats.com
@@ -17945,6 +17946,7 @@ pininterior.com
 pink-wallpaper.com
 pinkhandprint.com
 pinterestmanual.com
+pinterst.co
 pipelinebulletin.com
 pirsumzol.net
 pistachioats.com
