@@ -2010,6 +2010,7 @@ cybpa.com
 cycletshirt.com
 cyclingwithfood.com
 cykoze.com
+cyprus-rhodes.com
 d4nikon.com
 daanbanta.co.uk
 dabaduntive.co.uk
@@ -7721,6 +7722,7 @@ mailer.cybpa.com
 mailer.cycletshirt.com
 mailer.cyclingwithfood.com
 mailer.cykoze.com
+mailer.cyprus-rhodes.com
 mailer.d4nikon.com
 mailer.daanbanta.co.uk
 mailer.dabaduntive.co.uk
