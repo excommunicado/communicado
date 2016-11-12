@@ -4233,6 +4233,7 @@ ibazambala.co.uk
 ibh-sapporo.com
 ibmeter.com
 ibmmailbulten.com
+iboa.co
 ibtnework.com
 ibungarasa.co.uk
 icbccw.com
@@ -9946,6 +9947,7 @@ mailer.ibazambala.co.uk
 mailer.ibh-sapporo.com
 mailer.ibmeter.com
 mailer.ibmmailbulten.com
+mailer.iboa.co
 mailer.ibtnework.com
 mailer.ibungarasa.co.uk
 mailer.icbccw.com
