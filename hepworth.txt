@@ -6,6 +6,7 @@
 10kgames.com
 10knitro.com
 11exito.org
+123languages.com
 17psi.com
 1goldmine.com
 1khits.com
@@ -5720,6 +5721,7 @@ mailer.101workshop.com
 mailer.10kgames.com
 mailer.10knitro.com
 mailer.11exito.org
+mailer.123languages.com
 mailer.17psi.com
 mailer.1goldmine.com
 mailer.1khits.com
