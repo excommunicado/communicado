@@ -14132,6 +14132,7 @@ mailer.soclforbusiness.com
 mailer.soclmarketing.net
 mailer.soclmarketing.org
 mailer.socobjects.org
+mailer.soconnngas.com
 mailer.softadvisor.co
 mailer.softfbapps.com
 mailer.softnethouse.com
@@ -19038,6 +19039,7 @@ soclforbusiness.com
 soclmarketing.net
 soclmarketing.org
 socobjects.org
+soconnngas.com
 softadvisor.co
 softfbapps.com
 softnethouse.com
