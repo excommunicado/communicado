@@ -13927,6 +13927,7 @@ mailer.serverserver.co.uk
 mailer.servfull.com
 mailer.servicebroker.org
 mailer.servicegist.com
+mailer.servucy.com
 mailer.sessalesteams.com
 mailer.sessionvoc.com
 mailer.sesupplies.net
@@ -18837,6 +18838,7 @@ serverserver.co.uk
 servfull.com
 servicebroker.org
 servicegist.com
+servucy.com
 sessalesteams.com
 sessionvoc.com
 sesupplies.net
