@@ -13924,6 +13924,7 @@ mailer.seraphis2.org
 mailer.serettamartin.com
 mailer.serprojectgenerator.com
 mailer.serpvideo.com
+mailer.servacy.com
 mailer.servaman.net
 mailer.servecy.com
 mailer.serverserver.co.uk
@@ -18838,6 +18839,7 @@ seraphis2.org
 serettamartin.com
 serprojectgenerator.com
 serpvideo.com
+servacy.com
 servaman.net
 servecy.com
 serverserver.co.uk
