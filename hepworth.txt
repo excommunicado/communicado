@@ -13148,6 +13148,7 @@ mailer.ppp-ads.net
 mailer.practicebytes.com
 mailer.pragersys.com
 mailer.pre-paidfunerals.xyz
+mailer.preciosa.org
 mailer.precioushoney.com
 mailer.precisehair.com
 mailer.precohara.co.uk
@@ -18055,6 +18056,7 @@ ppp-ads.net
 practicebytes.com
 pragersys.com
 pre-paidfunerals.xyz
+preciosa.org
 precioushoney.com
 precisehair.com
 precohara.co.uk
