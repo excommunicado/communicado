@@ -13959,6 +13959,7 @@ mailer.shapecontrol.net
 mailer.shapemagnow.com
 mailer.sharedocs.co
 mailer.sharegifs.com
+mailer.sharemca.net
 mailer.sharesnets.net
 mailer.sharonatduke.com
 mailer.shavecloser.com
@@ -18874,6 +18875,7 @@ shapecontrol.net
 shapemagnow.com
 sharedocs.co
 sharegifs.com
+sharemca.net
 sharesnets.net
 sharonatduke.com
 shavecloser.com
