@@ -13972,6 +13972,7 @@ mailer.shhuro.com
 mailer.shieldagents.net
 mailer.shipk.com
 mailer.shockfm.net
+mailer.shojiscreens.net
 mailer.shopbiz.co
 mailer.shoplicate.org
 mailer.shoplocalcabot.com
@@ -18892,6 +18893,7 @@ shhuro.com
 shieldagents.net
 shipk.com
 shockfm.net
+shojiscreens.net
 shopbiz.co
 shoplicate.org
 shoplocalcabot.com
