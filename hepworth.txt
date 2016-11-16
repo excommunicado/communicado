@@ -14053,6 +14053,7 @@ mailer.simonecode.com
 mailer.simplecleanweb.com
 mailer.simplelivingdaily.com
 mailer.simplycreativewebsites.com
+mailer.simplyfashioned.com
 mailer.simracingcore.com
 mailer.singingmiracle.com
 mailer.sinkmc.org
@@ -18972,6 +18973,7 @@ simonecode.com
 simplecleanweb.com
 simplelivingdaily.com
 simplycreativewebsites.com
+simplyfashioned.com
 simracingcore.com
 singingmiracle.com
 sinkmc.org
