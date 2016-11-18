@@ -13971,6 +13971,7 @@ mailer.sharegifs.com
 mailer.sharemca.net
 mailer.sharesnets.net
 mailer.sharonatduke.com
+mailer.sharpcoins.com
 mailer.shavecloser.com
 mailer.shellybroughton.com
 mailer.shhuro.com
@@ -18898,6 +18899,7 @@ sharegifs.com
 sharemca.net
 sharesnets.net
 sharonatduke.com
+sharpcoins.com
 shavecloser.com
 shellybroughton.com
 shhuro.com
