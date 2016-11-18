@@ -13828,6 +13828,7 @@ mailer.scoopreportbrief.com
 mailer.scopone.org
 mailer.scottdlunn.com
 mailer.scottybot.com
+mailer.scrapjobs.co
 mailer.screely.com
 mailer.screencap.org
 mailer.scriptfromscratch.com
@@ -18752,6 +18753,7 @@ scoopreportbrief.com
 scopone.org
 scottdlunn.com
 scottybot.com
+scrapjobs.co
 screely.com
 screencap.org
 scriptfromscratch.com
