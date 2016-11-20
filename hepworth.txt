@@ -14370,6 +14370,7 @@ mailer.swiftclaimsltd.com
 mailer.swiftlycoded.com
 mailer.swiftlycoded.net
 mailer.swimback.net
+mailer.swissrep.co
 mailer.swopabook.com
 mailer.sxbig.com
 mailer.sydneynews.org
@@ -19300,6 +19301,7 @@ swiftclaimsltd.com
 swiftlycoded.com
 swiftlycoded.net
 swimback.net
+swissrep.co
 swopabook.com
 sxbig.com
 sydneynews.org
