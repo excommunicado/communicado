@@ -14366,6 +14366,7 @@ mailer.swagcity.org
 mailer.swapgifs.com
 mailer.sweeptastic.com
 mailer.sweetricotta.com
+mailer.swflped.com
 mailer.swiblack.com
 mailer.swiftaction.net
 mailer.swiftclaimsltd.com
@@ -19297,6 +19298,7 @@ swagcity.org
 swapgifs.com
 sweeptastic.com
 sweetricotta.com
+swflped.com
 swiblack.com
 swiftaction.net
 swiftclaimsltd.com
