@@ -12134,6 +12134,7 @@ mailer.mysteriousevents.co.uk
 mailer.mysurveysop.com
 mailer.mytopthree.me
 mailer.myxeleron.com
+mailer.myyandex.net
 mailer.n-creations.net
 mailer.naabiasran.co.uk
 mailer.naawanshar.co.uk
@@ -17068,6 +17069,7 @@ mysteriousevents.co.uk
 mysurveysop.com
 mytopthree.me
 myxeleron.com
+myyandex.net
 n-creations.net
 naabiasran.co.uk
 naawanshar.co.uk
