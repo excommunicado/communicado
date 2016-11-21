@@ -14184,6 +14184,7 @@ mailer.sorting-hat.org
 mailer.sosyalastro.com
 mailer.sotiaxnet.com
 mailer.soundclipfactory.com
+mailer.soundtake.co
 mailer.soundtopiasoundfx.com
 mailer.sourceforgei.net
 mailer.sourceradiant.com
@@ -19120,6 +19121,7 @@ sorting-hat.org
 sosyalastro.com
 sotiaxnet.com
 soundclipfactory.com
+soundtake.co
 soundtopiasoundfx.com
 sourceforgei.net
 sourceradiant.com
