@@ -13092,6 +13092,7 @@ mailer.playitouch.com
 mailer.playmates.co
 mailer.playtap.net
 mailer.playwithltc.com
+mailer.playwithuri.com
 mailer.playwordtopia.com
 mailer.plebian.org
 mailer.pleotess.com
@@ -18025,6 +18026,7 @@ playitouch.com
 playmates.co
 playtap.net
 playwithltc.com
+playwithuri.com
 playwordtopia.com
 plebian.org
 pleotess.com
