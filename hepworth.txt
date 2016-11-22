@@ -825,6 +825,7 @@ barbazala.co.uk
 barbutsqdire.com
 barcelonaite.co.uk
 barcompanyllc.com
+bargaindo.com
 bargainquote.org
 barginseacher.com
 bariliga.co.uk
@@ -6543,6 +6544,7 @@ mailer.barbazala.co.uk
 mailer.barbutsqdire.com
 mailer.barcelonaite.co.uk
 mailer.barcompanyllc.com
+mailer.bargaindo.com
 mailer.bargainquote.org
 mailer.barginseacher.com
 mailer.bariliga.co.uk
