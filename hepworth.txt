@@ -13658,6 +13658,7 @@ mailer.roiactive.com
 mailer.roilind.com
 mailer.rokumo.com
 mailer.rollercoastertycoon.net
+mailer.romaco.co
 mailer.rometravels.net
 mailer.rondadigital.com
 mailer.rongpencil.net
@@ -18597,6 +18598,7 @@ roiactive.com
 roilind.com
 rokumo.com
 rollercoastertycoon.net
+romaco.co
 rometravels.net
 rondadigital.com
 rongpencil.net
