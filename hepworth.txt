@@ -13834,6 +13834,7 @@ mailer.schweighofermedia.com
 mailer.scilord.net
 mailer.scilord.org
 mailer.scolger.com
+mailer.scoobasquad.com
 mailer.scoopreportbrief.com
 mailer.scopone.org
 mailer.scottdlunn.com
@@ -18776,6 +18777,7 @@ schweighofermedia.com
 scilord.net
 scilord.org
 scolger.com
+scoobasquad.com
 scoopreportbrief.com
 scopone.org
 scottdlunn.com
