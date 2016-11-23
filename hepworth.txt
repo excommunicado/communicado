@@ -13997,6 +13997,7 @@ mailer.shoplocalcabot.com
 mailer.shopmixx.com
 mailer.shoppify.net
 mailer.shorttip.com
+mailer.shortwaveentertainment.com
 mailer.shotset.com
 mailer.shoutphoto.com
 mailer.show-the-pic.com
@@ -18938,6 +18939,7 @@ shoplocalcabot.com
 shopmixx.com
 shoppify.net
 shorttip.com
+shortwaveentertainment.com
 shotset.com
 shoutphoto.com
 show-the-pic.com
