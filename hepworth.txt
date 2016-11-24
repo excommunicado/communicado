@@ -2219,6 +2219,7 @@ demskills.net
 demureaura.com
 denmy.net
 deplourcreative.com
+deployedcloud.com
 derek-hough.net
 derfnerfy.com
 derloves.com
@@ -7938,6 +7939,7 @@ mailer.demskills.net
 mailer.demureaura.com
 mailer.denmy.net
 mailer.deplourcreative.com
+mailer.deployedcloud.com
 mailer.derek-hough.net
 mailer.derfnerfy.com
 mailer.derloves.com
