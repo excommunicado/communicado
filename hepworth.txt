@@ -15466,6 +15466,7 @@ mailer.vivataobao.com
 mailer.vividpersuasion.com
 mailer.vivirverde.com
 mailer.vj52.com
+mailer.vkintegrator.com
 mailer.vlmp3.com
 mailer.vocationallignment.com
 mailer.vodkabrands.org
@@ -20410,6 +20411,7 @@ vivataobao.com
 vividpersuasion.com
 vivirverde.com
 vj52.com
+vkintegrator.com
 vlmp3.com
 vocationallignment.com
 vodkabrands.org
