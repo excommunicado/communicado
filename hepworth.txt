@@ -1485,6 +1485,7 @@ canlaonter.co.uk
 canlubanga.co.uk
 cannonballhill.com
 cannotsleep.org
+cannyserve.com
 cantabriadigital.com
 caoayantas.co.uk
 caorgs.net
@@ -7207,6 +7208,7 @@ mailer.canlaonter.co.uk
 mailer.canlubanga.co.uk
 mailer.cannonballhill.com
 mailer.cannotsleep.org
+mailer.cannyserve.com
 mailer.cantabriadigital.com
 mailer.caoayantas.co.uk
 mailer.caorgs.net
