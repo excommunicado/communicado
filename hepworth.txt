@@ -13988,6 +13988,7 @@ mailer.shadowcraft.co
 mailer.shadysweb.com
 mailer.shahlngt.com
 mailer.shaktihurst.com
+mailer.shambalaspirits.com
 mailer.shanghaitoyiwu.com
 mailer.shape-fit.org
 mailer.shapecontrol.net
@@ -18940,6 +18941,7 @@ shadowcraft.co
 shadysweb.com
 shahlngt.com
 shaktihurst.com
+shambalaspirits.com
 shanghaitoyiwu.com
 shape-fit.org
 shapecontrol.net
