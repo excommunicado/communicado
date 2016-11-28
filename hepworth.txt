@@ -2258,6 +2258,7 @@ detoneuryt.co.uk
 deusenx.com
 devamazi.com
 developandimprove.com
+developersauce.com
 devhs.com
 devs-online.com
 devxstudiosen.net
@@ -7981,6 +7982,7 @@ mailer.detoneuryt.co.uk
 mailer.deusenx.com
 mailer.devamazi.com
 mailer.developandimprove.com
+mailer.developersauce.com
 mailer.devhs.com
 mailer.devs-online.com
 mailer.devxstudiosen.net
