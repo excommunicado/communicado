@@ -4382,6 +4382,7 @@ indabserver.com
 indanansia.co.uk
 indangalas.co.uk
 independantwitness.com
+indiegostudios.org
 indo-sms.com
 indocantik.co
 indodomainonline.com
@@ -10106,6 +10107,7 @@ mailer.indabserver.com
 mailer.indanansia.co.uk
 mailer.indangalas.co.uk
 mailer.independantwitness.com
+mailer.indiegostudios.org
 mailer.indo-sms.com
 mailer.indocantik.co
 mailer.indodomainonline.com
