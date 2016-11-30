@@ -3445,6 +3445,7 @@ gaswap.co
 gatewawan.com
 gateway3ds.co
 gatorchews.com
+gatorserve.com
 gattaranta.co.uk
 gausvin.com
 gavekortgive.com
@@ -9170,6 +9171,7 @@ mailer.gaswap.co
 mailer.gatewawan.com
 mailer.gateway3ds.co
 mailer.gatorchews.com
+mailer.gatorserve.com
 mailer.gattaranta.co.uk
 mailer.gausvin.com
 mailer.gavekortgive.com
