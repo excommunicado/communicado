@@ -14849,6 +14849,7 @@ mailer.travicraft.com
 mailer.treehousemediallc.net
 mailer.treehousemediallc.org
 mailer.tregsproject.com
+mailer.trendo-news.com
 mailer.trentforum.net
 mailer.trenthotel.com
 mailer.trenthub.net
@@ -19810,6 +19811,7 @@ travicraft.com
 treehousemediallc.net
 treehousemediallc.org
 tregsproject.com
+trendo-news.com
 trentforum.net
 trenthotel.com
 trenthub.net
