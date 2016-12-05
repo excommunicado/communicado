@@ -14020,6 +14020,7 @@ mailer.shhuro.com
 mailer.shieldagents.net
 mailer.shipk.com
 mailer.shockfm.net
+mailer.shocollect.com
 mailer.shojiscreens.net
 mailer.shopbiz.co
 mailer.shoplicate.org
@@ -18987,6 +18988,7 @@ shhuro.com
 shieldagents.net
 shipk.com
 shockfm.net
+shocollect.com
 shojiscreens.net
 shopbiz.co
 shoplicate.org
