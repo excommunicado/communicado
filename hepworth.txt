@@ -13397,6 +13397,7 @@ mailer.quixtarinsideout.com
 mailer.qulasalorcse.co.uk
 mailer.quotafsa.co.uk
 mailer.quoterows.com
+mailer.quotesandwords.com
 mailer.quotesrow.com
 mailer.quotidianoviaggi.com
 mailer.quotocap.co.uk
@@ -18366,6 +18367,7 @@ quixtarinsideout.com
 qulasalorcse.co.uk
 quotafsa.co.uk
 quoterows.com
+quotesandwords.com
 quotesrow.com
 quotidianoviaggi.com
 quotocap.co.uk
