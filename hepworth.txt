@@ -1129,6 +1129,7 @@ blulavender.com
 bluntexpress.com
 bluntolnse.co.uk
 bluntolte.co.uk
+bluntvalue.com
 blurbplatform.com
 bm-box.com
 boachron.co.uk
@@ -6861,6 +6862,7 @@ mailer.blulavender.com
 mailer.bluntexpress.com
 mailer.bluntolnse.co.uk
 mailer.bluntolte.co.uk
+mailer.bluntvalue.com
 mailer.blurbplatform.com
 mailer.bm-box.com
 mailer.boachron.co.uk
