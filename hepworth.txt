@@ -13699,6 +13699,7 @@ mailer.rondadigital.com
 mailer.rongpencil.net
 mailer.rooflet.com
 mailer.rookmusic.com
+mailer.rookprime.com
 mailer.rooney-mara.net
 mailer.routafsa.co.uk
 mailer.routinemode.com
@@ -18675,6 +18676,7 @@ rondadigital.com
 rongpencil.net
 rooflet.com
 rookmusic.com
+rookprime.com
 rooney-mara.net
 routafsa.co.uk
 routinemode.com
