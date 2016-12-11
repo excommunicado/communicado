@@ -1446,6 +1446,7 @@ calisthenicsworkout.org
 callangto.co.uk
 callitnow.org
 calloperator.co
+callu.co
 calolbona.co.uk
 caloocane.co.uk
 calories-plus.com
@@ -7180,6 +7181,7 @@ mailer.calisthenicsworkout.org
 mailer.callangto.co.uk
 mailer.callitnow.org
 mailer.calloperator.co
+mailer.callu.co
 mailer.calolbona.co.uk
 mailer.caloocane.co.uk
 mailer.calories-plus.com
