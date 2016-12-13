@@ -13454,6 +13454,7 @@ mailer.raqhive.net
 mailer.raqhive.org
 mailer.raspberrystrength.com
 mailer.raspberryverve.com
+mailer.ratedcharts.com
 mailer.ratehappenings.com
 mailer.ravagerecords.com
 mailer.raven-glass.com
@@ -18438,6 +18439,7 @@ raqhive.net
 raqhive.org
 raspberrystrength.com
 raspberryverve.com
+ratedcharts.com
 ratehappenings.com
 ravagerecords.com
 raven-glass.com
