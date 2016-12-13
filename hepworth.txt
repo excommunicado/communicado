@@ -13117,6 +13117,7 @@ mailer.pinkhandprint.com
 mailer.pinterestmanual.com
 mailer.pinterst.co
 mailer.pipelinebulletin.com
+mailer.piproyalties.com
 mailer.pirsumzol.net
 mailer.pistachioats.com
 mailer.pitchheroes.com
@@ -18100,6 +18101,7 @@ pinkhandprint.com
 pinterestmanual.com
 pinterst.co
 pipelinebulletin.com
+piproyalties.com
 pirsumzol.net
 pistachioats.com
 pitchheroes.com
