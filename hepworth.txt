@@ -13703,6 +13703,7 @@ mailer.rockscale.net
 mailer.rocksketch.com
 mailer.rocount.com
 mailer.rodical.net
+mailer.rogoes.com
 mailer.rogue-it.com
 mailer.roiactive.com
 mailer.roilind.com
@@ -18688,6 +18689,7 @@ rockscale.net
 rocksketch.com
 rocount.com
 rodical.net
+rogoes.com
 rogue-it.com
 roiactive.com
 roilind.com
