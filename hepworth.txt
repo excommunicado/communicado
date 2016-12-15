@@ -14859,6 +14859,7 @@ mailer.topcoffeebeans.com
 mailer.topdesignersbags.com
 mailer.topmoviestar.com
 mailer.topoll.net
+mailer.topplerz.com
 mailer.topresults.co
 mailer.topresultspromos.com
 mailer.topreviews.co
@@ -19854,6 +19855,7 @@ topcoffeebeans.com
 topdesignersbags.com
 topmoviestar.com
 topoll.net
+topplerz.com
 topresults.co
 topresultspromos.com
 topreviews.co
