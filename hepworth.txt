@@ -14465,6 +14465,7 @@ mailer.swiftlycoded.com
 mailer.swiftlycoded.net
 mailer.swimback.net
 mailer.swissrep.co
+mailer.swooser.com
 mailer.swopabook.com
 mailer.sxbig.com
 mailer.sydneynews.org
@@ -19458,6 +19459,7 @@ swiftlycoded.com
 swiftlycoded.net
 swimback.net
 swissrep.co
+swooser.com
 swopabook.com
 sxbig.com
 sydneynews.org
