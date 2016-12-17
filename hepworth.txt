@@ -12719,6 +12719,7 @@ mailer.opalarachar.co.uk
 mailer.opendesertproject.com
 mailer.opendoorpolicy.net
 mailer.openended.net
+mailer.openflatshop.com
 mailer.opengateadvice.com
 mailer.openhealthforum.com
 mailer.opensimads.com
@@ -17719,6 +17720,7 @@ opalarachar.co.uk
 opendesertproject.com
 opendoorpolicy.net
 openended.net
+openflatshop.com
 opengateadvice.com
 openhealthforum.com
 opensimads.com
