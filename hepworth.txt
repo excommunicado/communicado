@@ -4132,6 +4132,7 @@ hotelroo.com
 hoteltravl.com
 hotreholda.co.uk
 hotreholde.co.uk
+hotshotthemes.com
 hottoyacht.com
 hotvinestoday.com
 hougholte.co.uk
@@ -9872,6 +9873,7 @@ mailer.hotelroo.com
 mailer.hoteltravl.com
 mailer.hotreholda.co.uk
 mailer.hotreholde.co.uk
+mailer.hotshotthemes.com
 mailer.hottoyacht.com
 mailer.hotvinestoday.com
 mailer.hougholte.co.uk
