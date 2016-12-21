@@ -14507,6 +14507,7 @@ mailer.taiwandramas.com
 mailer.taiwanentertainment.net
 mailer.taiwanesedramas.com
 mailer.takesamile.com
+mailer.takua.co
 mailer.talentresourceadm.com
 mailer.talepona.com
 mailer.tamarsgallery.com
@@ -19517,6 +19518,7 @@ taiwandramas.com
 taiwanentertainment.net
 taiwanesedramas.com
 takesamile.com
+takua.co
 talentresourceadm.com
 talepona.com
 tamarsgallery.com
