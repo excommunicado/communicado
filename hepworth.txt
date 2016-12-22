@@ -15809,6 +15809,7 @@ mailer.whoismydriver.com
 mailer.wholehomewater.com
 mailer.wholesalecash.co
 mailer.wholesalespain.com
+mailer.whot.co
 mailer.wifi-scale.com
 mailer.wifiprogress.com
 mailer.wiiiinds.com
@@ -20821,6 +20822,7 @@ whoismydriver.com
 wholehomewater.com
 wholesalecash.co
 wholesalespain.com
+whot.co
 wifi-scale.com
 wifiprogress.com
 wiiiinds.com
