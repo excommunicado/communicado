@@ -14179,6 +14179,7 @@ mailer.sknowbst.com
 mailer.skrajna.com
 mailer.skylanderscodes.com
 mailer.slacka.net
+mailer.slackable.co
 mailer.slahda.org
 mailer.slashzone.net
 mailer.slegellaw.com
@@ -19192,6 +19193,7 @@ sknowbst.com
 skrajna.com
 skylanderscodes.com
 slacka.net
+slackable.co
 slahda.org
 slashzone.net
 slegellaw.com
