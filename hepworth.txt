@@ -15378,6 +15378,7 @@ mailer.veganmemes.com
 mailer.vegasbarterboss.com
 mailer.vegasbuyersclub.com
 mailer.veinpromo.com
+mailer.vekitap.net
 mailer.veluis.com
 mailer.vencoach.net
 mailer.vencoach.org
@@ -20394,6 +20395,7 @@ veganmemes.com
 vegasbarterboss.com
 vegasbuyersclub.com
 veinpromo.com
+vekitap.net
 veluis.com
 vencoach.net
 vencoach.org
