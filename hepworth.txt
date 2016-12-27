@@ -2622,6 +2622,7 @@ ecclasinqui.co.uk
 ecclasinquo.co.uk
 echagueria.co.uk
 echosyndication.com
+echotango.net
 echowildlife.com
 ecijanueva.co.uk
 ecjgallery.com
@@ -8364,6 +8365,7 @@ mailer.ecclasinqui.co.uk
 mailer.ecclasinquo.co.uk
 mailer.echagueria.co.uk
 mailer.echosyndication.com
+mailer.echotango.net
 mailer.echowildlife.com
 mailer.ecijanueva.co.uk
 mailer.ecjgallery.com
