@@ -15691,6 +15691,7 @@ mailer.web-service-companies.com
 mailer.web2splash.com
 mailer.webbihosti.com
 mailer.webcashnitro.com
+mailer.webhostingeasy.co
 mailer.webhotz.com
 mailer.webmining.co
 mailer.webs-support.com
@@ -20712,6 +20713,7 @@ web-service-companies.com
 web2splash.com
 webbihosti.com
 webcashnitro.com
+webhostingeasy.co
 webhotz.com
 webmining.co
 webs-support.com
