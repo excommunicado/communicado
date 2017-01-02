@@ -14100,6 +14100,7 @@ mailer.shpktgfd.co
 mailer.shredmeister.com
 mailer.shuffleopia.com
 mailer.shuttersky.org
+mailer.shvabe-zuerich.co
 mailer.siansa.net
 mailer.sidearmsecurity.com
 mailer.sidedrive.org
@@ -19124,6 +19125,7 @@ shpktgfd.co
 shredmeister.com
 shuffleopia.com
 shuttersky.org
+shvabe-zuerich.co
 siansa.net
 sidearmsecurity.com
 sidedrive.org
