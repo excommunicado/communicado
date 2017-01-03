@@ -13320,6 +13320,7 @@ mailer.profit-generator.org
 mailer.profitbam.com
 mailer.profitmagick.com
 mailer.profitopp.com
+mailer.profuly.com
 mailer.profundfx.com
 mailer.progressiveaction.org
 mailer.progressivehn.org
@@ -18348,6 +18349,7 @@ profit-generator.org
 profitbam.com
 profitmagick.com
 profitopp.com
+profuly.com
 profundfx.com
 progressiveaction.org
 progressivehn.org
