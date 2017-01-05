@@ -4669,6 +4669,7 @@ javieros.co.uk
 javspree.com
 javstream.net
 jaycasio.com
+jayleighs.com
 jaysphotostudio.com
 jborge.com
 jecomux.com
@@ -10418,6 +10419,7 @@ mailer.javieros.co.uk
 mailer.javspree.com
 mailer.javstream.net
 mailer.jaycasio.com
+mailer.jayleighs.com
 mailer.jaysphotostudio.com
 mailer.jborge.com
 mailer.jecomux.com
