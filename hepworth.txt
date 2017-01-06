@@ -2691,6 +2691,7 @@ elctoys.org
 eldukepacasmayo.com
 ele-brate.com
 electrictouchmagic.com
+electrum-vert.org
 elenarovae.co.uk
 elevationmask.org
 elexxon.com
@@ -8445,6 +8446,7 @@ mailer.elctoys.org
 mailer.eldukepacasmayo.com
 mailer.ele-brate.com
 mailer.electrictouchmagic.com
+mailer.electrum-vert.org
 mailer.elenarovae.co.uk
 mailer.elevationmask.org
 mailer.elexxon.com
