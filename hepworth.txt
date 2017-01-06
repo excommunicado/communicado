@@ -4131,6 +4131,7 @@ hostgatorsave.com
 hostinetworking.com
 hostingevents.net
 hostingnetworks.net
+hostingsites.co
 hostingslots.com
 hostlark.com
 hostscene.net
@@ -9884,6 +9885,7 @@ mailer.hostgatorsave.com
 mailer.hostinetworking.com
 mailer.hostingevents.net
 mailer.hostingnetworks.net
+mailer.hostingsites.co
 mailer.hostingslots.com
 mailer.hostlark.com
 mailer.hostscene.net
