@@ -13588,6 +13588,7 @@ mailer.redicons.net
 mailer.redmoon-online.com
 mailer.redpol.co
 mailer.redragon.co
+mailer.redsquidonline.com
 mailer.redstagehippo.com
 mailer.redstonenetworks.net
 mailer.redstonenetworks.org
@@ -18633,6 +18634,7 @@ redicons.net
 redmoon-online.com
 redpol.co
 redragon.co
+redsquidonline.com
 redstagehippo.com
 redstonenetworks.net
 redstonenetworks.org
