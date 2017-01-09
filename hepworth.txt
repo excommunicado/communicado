@@ -14105,6 +14105,7 @@ mailer.shapecontrol.net
 mailer.shapemagnow.com
 mailer.sharedocs.co
 mailer.sharegifs.com
+mailer.shareholdergroup.org
 mailer.shareholdersgroup.org
 mailer.sharemca.net
 mailer.sharesnets.net
@@ -19148,6 +19149,7 @@ shapecontrol.net
 shapemagnow.com
 sharedocs.co
 sharegifs.com
+shareholdergroup.org
 shareholdersgroup.org
 sharemca.net
 sharesnets.net
