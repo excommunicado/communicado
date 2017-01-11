@@ -15457,6 +15457,7 @@ mailer.vendit.net
 mailer.venetaweb.com
 mailer.venicetravels.net
 mailer.venimal.com
+mailer.venolyn.co
 mailer.venomgn.com
 mailer.ventflat.com
 mailer.ventrilocution.net
@@ -20507,6 +20508,7 @@ vendit.net
 venetaweb.com
 venicetravels.net
 venimal.com
+venolyn.co
 venomgn.com
 ventflat.com
 ventrilocution.net
