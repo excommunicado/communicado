@@ -13235,6 +13235,7 @@ mailer.polipfer.com
 mailer.polishhappy.com
 mailer.politicalcable.com
 mailer.politicasnet.org
+mailer.pollard-base.org
 mailer.polosanbandung.com
 mailer.polynesiefrancaise.org
 mailer.pomnich.com
@@ -18288,6 +18289,7 @@ polipfer.com
 polishhappy.com
 politicalcable.com
 politicasnet.org
+pollard-base.org
 polosanbandung.com
 polynesiefrancaise.org
 pomnich.com
