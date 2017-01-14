@@ -1028,6 +1028,7 @@ binalonan.co.uk
 binangonan.co.uk
 binanros.co.uk
 binaryarrow.com
+binaryreviewspot.org
 binarystep.net
 bindeal.com
 bindoyla.co.uk
@@ -6800,6 +6801,7 @@ mailer.binalonan.co.uk
 mailer.binangonan.co.uk
 mailer.binanros.co.uk
 mailer.binaryarrow.com
+mailer.binaryreviewspot.org
 mailer.binarystep.net
 mailer.bindeal.com
 mailer.bindoyla.co.uk
