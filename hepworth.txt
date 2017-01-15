@@ -13384,6 +13384,7 @@ mailer.profitmagick.com
 mailer.profitopp.com
 mailer.profuly.com
 mailer.profundfx.com
+mailer.profxacademy.com
 mailer.progressiveaction.org
 mailer.progressivehn.org
 mailer.projectcrusade.com
@@ -18444,6 +18445,7 @@ profitmagick.com
 profitopp.com
 profuly.com
 profundfx.com
+profxacademy.com
 progressiveaction.org
 progressivehn.org
 projectcrusade.com
