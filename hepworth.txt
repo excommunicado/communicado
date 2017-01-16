@@ -15627,6 +15627,7 @@ mailer.viralnetworks.net
 mailer.viralrugby.com
 mailer.viralstoriesfast.com
 mailer.virtualincome.co
+mailer.virtualprivatenetwork.co
 mailer.virtualxchange.org
 mailer.virtuousmind.com
 mailer.virtuouswriting.com
@@ -20688,6 +20689,7 @@ viralnetworks.net
 viralrugby.com
 viralstoriesfast.com
 virtualincome.co
+virtualprivatenetwork.co
 virtualxchange.org
 virtuousmind.com
 virtuouswriting.com
