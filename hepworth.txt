@@ -15733,6 +15733,7 @@ mailer.walldc.com
 mailer.wallike.com
 mailer.wallll.com
 mailer.wallofcrush.com
+mailer.wallofnames.net
 mailer.wallpaperex.com
 mailer.wallpaperextras.com
 mailer.wallstreetelite.co
@@ -20798,6 +20799,7 @@ walldc.com
 wallike.com
 wallll.com
 wallofcrush.com
+wallofnames.net
 wallpaperex.com
 wallpaperextras.com
 wallstreetelite.co
