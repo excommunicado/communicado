@@ -463,6 +463,7 @@ antipaslena.co.uk
 antipolortes.co.uk
 antiquarim.co.uk
 antique-seller.com
+antlervel.com
 antonioshe.co.uk
 anyandallthings.com
 apalittres.co.uk
@@ -6242,6 +6243,7 @@ mailer.antipaslena.co.uk
 mailer.antipolortes.co.uk
 mailer.antiquarim.co.uk
 mailer.antique-seller.com
+mailer.antlervel.com
 mailer.antonioshe.co.uk
 mailer.anyandallthings.com
 mailer.apalittres.co.uk
