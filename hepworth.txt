@@ -12352,6 +12352,7 @@ mailer.navalmagra.co.uk
 mailer.navaslatas.co.uk
 mailer.navotastia.co.uk
 mailer.nawalshala.co.uk
+mailer.nbjournal.com
 mailer.nctproject.co
 mailer.neandercraft.com
 mailer.neatrepeats.org
@@ -17420,6 +17421,7 @@ navalmagra.co.uk
 navaslatas.co.uk
 navotastia.co.uk
 nawalshala.co.uk
+nbjournal.com
 nctproject.co
 neandercraft.com
 neatrepeats.org
