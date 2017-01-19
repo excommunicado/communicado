@@ -15710,6 +15710,7 @@ mailer.vividpersuasion.com
 mailer.vivirverde.com
 mailer.vj52.com
 mailer.vkintegrator.com
+mailer.vlisca.com
 mailer.vlmp3.com
 mailer.vocationallignment.com
 mailer.vodkabrands.org
@@ -20779,6 +20780,7 @@ vividpersuasion.com
 vivirverde.com
 vj52.com
 vkintegrator.com
+vlisca.com
 vlmp3.com
 vocationallignment.com
 vodkabrands.org
