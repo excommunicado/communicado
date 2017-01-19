@@ -5096,6 +5096,7 @@ khuaotalon.com
 kiagold.co
 kiambafero.co.uk
 kianganaro.co.uk
+kiasimir.com
 kiasonline.com
 kibaweanto.co.uk
 kiblawanse.co.uk
@@ -10883,6 +10884,7 @@ mailer.khuaotalon.com
 mailer.kiagold.co
 mailer.kiambafero.co.uk
 mailer.kianganaro.co.uk
+mailer.kiasimir.com
 mailer.kiasonline.com
 mailer.kibaweanto.co.uk
 mailer.kiblawanse.co.uk
