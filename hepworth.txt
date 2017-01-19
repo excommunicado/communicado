@@ -502,6 +502,7 @@ appventura.com
 appyflip.com
 aptastro.com
 apuestium.com
+aquafinevu.com
 aquariumhobby.org
 aquavoltz.com
 aquinoste.co.uk
@@ -6287,6 +6288,7 @@ mailer.appventura.com
 mailer.appyflip.com
 mailer.aptastro.com
 mailer.apuestium.com
+mailer.aquafinevu.com
 mailer.aquariumhobby.org
 mailer.aquavoltz.com
 mailer.aquinoste.co.uk
