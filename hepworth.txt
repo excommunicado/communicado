@@ -3454,6 +3454,7 @@ gamebroadcasters.com
 gamecoast.net
 gameheat.org
 gamelotus.org
+gamemail.org
 gamersinferno.com
 gamescoming.org
 gameshack.co
@@ -9242,6 +9243,7 @@ mailer.gamebroadcasters.com
 mailer.gamecoast.net
 mailer.gameheat.org
 mailer.gamelotus.org
+mailer.gamemail.org
 mailer.gamersinferno.com
 mailer.gamescoming.org
 mailer.gameshack.co
