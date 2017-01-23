@@ -12481,6 +12481,7 @@ mailer.newsworthydaily.com
 mailer.newtechnologydevices.com
 mailer.newtonmc.com
 mailer.newwebuae.com
+mailer.nexiserve.com
 mailer.nexteda.com
 mailer.nextrade1.com
 mailer.nextstepalliance.com
@@ -17552,6 +17553,7 @@ newsworthydaily.com
 newtechnologydevices.com
 newtonmc.com
 newwebuae.com
+nexiserve.com
 nexteda.com
 nextrade1.com
 nextstepalliance.com
