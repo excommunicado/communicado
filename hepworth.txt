@@ -14952,6 +14952,7 @@ mailer.thetrinitymc.com
 mailer.theultimatecreation.com
 mailer.thevibesng.com
 mailer.thewebsitewizard.co
+mailer.thewholesale.co
 mailer.thewriterary.com
 mailer.thewritinggenie.com
 mailer.theyachtking.com
@@ -20025,6 +20026,7 @@ thetrinitymc.com
 theultimatecreation.com
 thevibesng.com
 thewebsitewizard.co
+thewholesale.co
 thewriterary.com
 thewritinggenie.com
 theyachtking.com
