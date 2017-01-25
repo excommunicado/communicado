@@ -3276,6 +3276,7 @@ flulte.com
 fluxxcraft.net
 flyinflyout.org
 fns-nalog.com
+fogles.org
 fokroholda.co.uk
 fokroholde.co.uk
 fondo-flamenco.com
@@ -9076,6 +9077,7 @@ mailer.flulte.com
 mailer.fluxxcraft.net
 mailer.flyinflyout.org
 mailer.fns-nalog.com
+mailer.fogles.org
 mailer.fokroholda.co.uk
 mailer.fokroholde.co.uk
 mailer.fondo-flamenco.com
