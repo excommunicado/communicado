@@ -626,6 +626,7 @@ avalonatlarge.com
 avanjogia.org
 avantolon.com
 avaterius.com
+avbuf.com
 avecsen.com
 avegomedia.com
 averageshop.com
@@ -6425,6 +6426,7 @@ mailer.avalonatlarge.com
 mailer.avanjogia.org
 mailer.avantolon.com
 mailer.avaterius.com
+mailer.avbuf.com
 mailer.avecsen.com
 mailer.avegomedia.com
 mailer.averageshop.com
