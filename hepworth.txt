@@ -12691,6 +12691,7 @@ mailer.nyooo.com
 mailer.nznews.net
 mailer.o2strips.com
 mailer.obandolots.co.uk
+mailer.obasanjo.org
 mailer.oberlo.co
 mailer.oberlo.net
 mailer.ocamporino.co.uk
@@ -17773,6 +17774,7 @@ nyooo.com
 nznews.net
 o2strips.com
 obandolots.co.uk
+obasanjo.org
 oberlo.co
 oberlo.net
 ocamporino.co.uk
