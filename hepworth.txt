@@ -13633,6 +13633,7 @@ mailer.rawtestimonials.com
 mailer.rawwow.com
 mailer.rayogley.net
 mailer.rayonsdelespoir.org
+mailer.rbvertex.org
 mailer.rcairplanesmodel.com
 mailer.rctruckstanks.com
 mailer.reachester.com
@@ -18714,6 +18715,7 @@ rawtestimonials.com
 rawwow.com
 rayogley.net
 rayonsdelespoir.org
+rbvertex.org
 rcairplanesmodel.com
 rctruckstanks.com
 reachester.com
