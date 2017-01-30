@@ -995,6 +995,7 @@ bestimideas.com
 bestlistsblog.com
 bestlocalauto.com
 bestonlinetradingsite.org
+bestpaidsurveys.org
 bestpieper.com
 beststocktradingsite.org
 besttungsten.com
@@ -6800,6 +6801,7 @@ mailer.bestimideas.com
 mailer.bestlistsblog.com
 mailer.bestlocalauto.com
 mailer.bestonlinetradingsite.org
+mailer.bestpaidsurveys.org
 mailer.bestpieper.com
 mailer.beststocktradingsite.org
 mailer.besttungsten.com
