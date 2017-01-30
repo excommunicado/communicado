@@ -2494,6 +2494,7 @@ dropolox.com
 drosteam.com
 drozofficial.com
 drudgerepo.com
+druidd.org
 drutafsa.co.uk
 drutocap.co.uk
 drutowse.co.uk
@@ -8298,6 +8299,7 @@ mailer.dropolox.com
 mailer.drosteam.com
 mailer.drozofficial.com
 mailer.drudgerepo.com
+mailer.druidd.org
 mailer.drutafsa.co.uk
 mailer.drutocap.co.uk
 mailer.drutowse.co.uk
