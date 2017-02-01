@@ -214,6 +214,7 @@ alamadare.co.uk
 alaminosta.co.uk
 alangalane.co.uk
 albanobre.co.uk
+albanystyle.co
 albayniste.co.uk
 albeneura.co.uk
 albeneure.co.uk
@@ -6024,6 +6025,7 @@ mailer.alamadare.co.uk
 mailer.alaminosta.co.uk
 mailer.alangalane.co.uk
 mailer.albanobre.co.uk
+mailer.albanystyle.co
 mailer.albayniste.co.uk
 mailer.albeneura.co.uk
 mailer.albeneure.co.uk
