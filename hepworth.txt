@@ -3919,6 +3919,7 @@ halchyste.co.uk
 halchysti.co.uk
 halchysto.co.uk
 halchystu.co.uk
+halfahalo.com
 hallowedones.com
 halobc.com
 halomaxresources.com
@@ -9727,6 +9728,7 @@ mailer.halchyste.co.uk
 mailer.halchysti.co.uk
 mailer.halchysto.co.uk
 mailer.halchystu.co.uk
+mailer.halfahalo.com
 mailer.hallowedones.com
 mailer.halobc.com
 mailer.halomaxresources.com
