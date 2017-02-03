@@ -253,6 +253,7 @@ alegriando.co.uk
 aleosantosa.co.uk
 alfacrop.com
 alfonsodore.co.uk
+algadwal.org
 aliaganice.co.uk
 alicipore.co.uk
 alicute.com
@@ -6066,6 +6067,7 @@ mailer.alegriando.co.uk
 mailer.aleosantosa.co.uk
 mailer.alfacrop.com
 mailer.alfonsodore.co.uk
+mailer.algadwal.org
 mailer.aliaganice.co.uk
 mailer.alicipore.co.uk
 mailer.alicute.com
