@@ -13249,6 +13249,7 @@ mailer.peteandjorden.com
 mailer.petedavismedia.com
 mailer.peterblogs.net
 mailer.petermansell.net
+mailer.petermansell.org
 mailer.petesreport.net
 mailer.petiteoliver.com
 mailer.petooutjet.com
@@ -18342,6 +18343,7 @@ peteandjorden.com
 petedavismedia.com
 peterblogs.net
 petermansell.net
+petermansell.org
 petesreport.net
 petiteoliver.com
 petooutjet.com
