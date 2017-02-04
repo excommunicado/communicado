@@ -4561,6 +4561,7 @@ ip-land.com
 ipadminifreetips.com
 ipadrs.co
 ipcnw.com
+ipcsyndication.com
 ipfecu.org
 iphonefire.net
 ipilmasaca.co.uk
@@ -10375,6 +10376,7 @@ mailer.ip-land.com
 mailer.ipadminifreetips.com
 mailer.ipadrs.co
 mailer.ipcnw.com
+mailer.ipcsyndication.com
 mailer.ipfecu.org
 mailer.iphonefire.net
 mailer.ipilmasaca.co.uk
