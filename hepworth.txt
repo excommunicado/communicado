@@ -13481,6 +13481,7 @@ mailer.profundfx.com
 mailer.profxacademy.com
 mailer.progressiveaction.org
 mailer.progressivehn.org
+mailer.progressiveleague.com
 mailer.progressiveleague.org
 mailer.projectcrusade.com
 mailer.projectiontv.net
@@ -18577,6 +18578,7 @@ profundfx.com
 profxacademy.com
 progressiveaction.org
 progressivehn.org
+progressiveleague.com
 progressiveleague.org
 projectcrusade.com
 projectiontv.net
