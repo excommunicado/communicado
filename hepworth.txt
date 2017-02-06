@@ -1781,6 +1781,7 @@ cleaningcoachpurse.com
 clearancelevel.com
 clementer.co.uk
 clevelandrates.com
+cleverchoicesdaily.com
 clickenye.com
 clickinspiration.com
 clickproposal.com
@@ -7597,6 +7598,7 @@ mailer.cleaningcoachpurse.com
 mailer.clearancelevel.com
 mailer.clementer.co.uk
 mailer.clevelandrates.com
+mailer.cleverchoicesdaily.com
 mailer.clickenye.com
 mailer.clickinspiration.com
 mailer.clickproposal.com
