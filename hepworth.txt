@@ -1332,6 +1332,7 @@ busilogo.com
 businesscasualstyle.com
 businesselectricals.co.uk
 businessfinanceclub.co.uk
+businessfreedomclub.com
 businessmakr.com
 businessopinion.co.uk
 businesstrainingclub.co.uk
@@ -7149,6 +7150,7 @@ mailer.busilogo.com
 mailer.businesscasualstyle.com
 mailer.businesselectricals.co.uk
 mailer.businessfinanceclub.co.uk
+mailer.businessfreedomclub.com
 mailer.businessmakr.com
 mailer.businessopinion.co.uk
 mailer.businesstrainingclub.co.uk
