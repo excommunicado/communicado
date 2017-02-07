@@ -1901,6 +1901,7 @@ corcueras.co.uk
 cordontos.co.uk
 cordovala.co.uk
 corefitnesstips.com
+corefordevelopment.com
 corelightcommunity.net
 corellano.co.uk
 corontios.co.uk
@@ -7724,6 +7725,7 @@ mailer.corcueras.co.uk
 mailer.cordontos.co.uk
 mailer.cordovala.co.uk
 mailer.corefitnesstips.com
+mailer.corefordevelopment.com
 mailer.corelightcommunity.net
 mailer.corellano.co.uk
 mailer.corontios.co.uk
