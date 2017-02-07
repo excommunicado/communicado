@@ -1487,6 +1487,7 @@ cambotronics.com
 cambrolnse.co.uk
 cambrolte.co.uk
 cameragator.com
+camhorizon.com
 camiguinta.co.uk
 camilingre.co.uk
 campalasre.co.uk
@@ -7308,6 +7309,7 @@ mailer.cambotronics.com
 mailer.cambrolnse.co.uk
 mailer.cambrolte.co.uk
 mailer.cameragator.com
+mailer.camhorizon.com
 mailer.camiguinta.co.uk
 mailer.camilingre.co.uk
 mailer.campalasre.co.uk
