@@ -14893,6 +14893,7 @@ mailer.tenzalve.co.uk
 mailer.terapianatural.net
 mailer.termand.com
 mailer.termcounselor.com
+mailer.termical.co
 mailer.termlifeinsurancequotesgroup.com
 mailer.terrahorn.org
 mailer.terrao.net
@@ -19994,6 +19995,7 @@ tenzalve.co.uk
 terapianatural.net
 termand.com
 termcounselor.com
+termical.co
 termlifeinsurancequotesgroup.com
 terrahorn.org
 terrao.net
