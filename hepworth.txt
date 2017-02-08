@@ -13925,6 +13925,7 @@ mailer.rocount.com
 mailer.rodical.net
 mailer.rogoes.com
 mailer.rogue-it.com
+mailer.rohatv.com
 mailer.roiactive.com
 mailer.roilind.com
 mailer.rokumo.com
@@ -19027,6 +19028,7 @@ rocount.com
 rodical.net
 rogoes.com
 rogue-it.com
+rohatv.com
 roiactive.com
 roilind.com
 rokumo.com
