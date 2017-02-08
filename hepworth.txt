@@ -14122,6 +14122,7 @@ mailer.scilord.org
 mailer.scolger.com
 mailer.scoobasquad.com
 mailer.scoopreportbrief.com
+mailer.scoperapp.co
 mailer.scopone.org
 mailer.scottdlunn.com
 mailer.scottybot.com
@@ -19226,6 +19227,7 @@ scilord.org
 scolger.com
 scoobasquad.com
 scoopreportbrief.com
+scoperapp.co
 scopone.org
 scottdlunn.com
 scottybot.com
