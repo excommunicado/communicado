@@ -13797,6 +13797,7 @@ mailer.req-intv.com
 mailer.rescuerxpharma.org
 mailer.resellrightssuccess.com
 mailer.residualifestyles.com
+mailer.resnet.co
 mailer.resolutionary.co
 mailer.resolutionpractice.com
 mailer.resolvehim.com
@@ -18904,6 +18905,7 @@ req-intv.com
 rescuerxpharma.org
 resellrightssuccess.com
 residualifestyles.com
+resnet.co
 resolutionary.co
 resolutionpractice.com
 resolvehim.com
