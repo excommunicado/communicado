@@ -1806,6 +1806,7 @@ cloube.org
 cloudeprocuement.com
 cloudeprocure.com
 cloudpcure.com
+cloudtr.co
 cloudvideoplatforms.com
 cloudyeverste.com
 clover82.com
@@ -7631,6 +7632,7 @@ mailer.cloube.org
 mailer.cloudeprocuement.com
 mailer.cloudeprocure.com
 mailer.cloudpcure.com
+mailer.cloudtr.co
 mailer.cloudvideoplatforms.com
 mailer.cloudyeverste.com
 mailer.clover82.com
