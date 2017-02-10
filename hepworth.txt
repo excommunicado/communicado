@@ -14479,6 +14479,7 @@ mailer.socialwifimobile.com
 mailer.sociedadoffshore.net
 mailer.societten.com
 mailer.society-affairs.net
+mailer.socinn.co
 mailer.sociophon.com
 mailer.socivate.com
 mailer.soclforbusiness.com
@@ -19590,6 +19591,7 @@ socialwifimobile.com
 sociedadoffshore.net
 societten.com
 society-affairs.net
+socinn.co
 sociophon.com
 socivate.com
 soclforbusiness.com
