@@ -14831,6 +14831,7 @@ mailer.technonetcs.org
 mailer.techpi.net
 mailer.techrupture.com
 mailer.techseduction.com
+mailer.techskape.com
 mailer.techswype.com
 mailer.techunation.com
 mailer.tecnocaps.com
@@ -19941,6 +19942,7 @@ technonetcs.org
 techpi.net
 techrupture.com
 techseduction.com
+techskape.com
 techswype.com
 techunation.com
 tecnocaps.com
