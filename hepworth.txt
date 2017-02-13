@@ -644,6 +644,7 @@ avixextube.com
 avocadojunglesoaps.com
 avroraventures.com
 awayimembers.org
+awdfoundation.org
 awesomefaucet.co
 awesomehdx.com
 awesomenotary.co
@@ -6477,6 +6478,7 @@ mailer.avixextube.com
 mailer.avocadojunglesoaps.com
 mailer.avroraventures.com
 mailer.awayimembers.org
+mailer.awdfoundation.org
 mailer.awesomefaucet.co
 mailer.awesomehdx.com
 mailer.awesomenotary.co
