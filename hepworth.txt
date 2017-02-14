@@ -1494,6 +1494,7 @@ cameragator.com
 camhorizon.com
 camiguinta.co.uk
 camilingre.co.uk
+camimpact.com
 campalasre.co.uk
 campbellhvac.com
 campioncinigratis.com
@@ -7328,6 +7329,7 @@ mailer.cameragator.com
 mailer.camhorizon.com
 mailer.camiguinta.co.uk
 mailer.camilingre.co.uk
+mailer.camimpact.com
 mailer.campalasre.co.uk
 mailer.campbellhvac.com
 mailer.campioncinigratis.com
