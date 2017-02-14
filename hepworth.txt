@@ -2178,6 +2178,7 @@ davoksystems.com
 daydoin.net
 daydreamsenate.net
 dayflippa.com
+db-indus.co
 dbsrocks.com
 dcamconsortium.net
 dcdoptas.com
@@ -8015,6 +8016,7 @@ mailer.davoksystems.com
 mailer.daydoin.net
 mailer.daydreamsenate.net
 mailer.dayflippa.com
+mailer.db-indus.co
 mailer.dbsrocks.com
 mailer.dcamconsortium.net
 mailer.dcdoptas.com
