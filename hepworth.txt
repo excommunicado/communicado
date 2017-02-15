@@ -455,6 +455,7 @@ animeonlinewatch.com
 animeshow.org
 animvte.com
 anindyabasu.com
+aninews.co
 aninibyra.co.uk
 ankaraholidays.com
 annieocrafts.com
@@ -6296,6 +6297,7 @@ mailer.animeonlinewatch.com
 mailer.animeshow.org
 mailer.animvte.com
 mailer.anindyabasu.com
+mailer.aninews.co
 mailer.aninibyra.co.uk
 mailer.ankaraholidays.com
 mailer.annieocrafts.com
