@@ -14859,6 +14859,7 @@ mailer.techseduction.com
 mailer.techskape.com
 mailer.techswype.com
 mailer.techunation.com
+mailer.tecno-quadri.com
 mailer.tecnocaps.com
 mailer.tectonictech.com
 mailer.tedcamode.co.uk
@@ -19978,6 +19979,7 @@ techseduction.com
 techskape.com
 techswype.com
 techunation.com
+tecno-quadri.com
 tecnocaps.com
 tectonictech.com
 tedcamode.co.uk
