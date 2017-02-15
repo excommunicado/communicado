@@ -4175,6 +4175,7 @@ homeholic.com
 homeloanlife.com
 homeofficeukused.com
 homesandgreen.com
+homesday.co
 homesdg.co
 homesdn.co
 homesidea.co
@@ -10017,6 +10018,7 @@ mailer.homeholic.com
 mailer.homeloanlife.com
 mailer.homeofficeukused.com
 mailer.homesandgreen.com
+mailer.homesday.co
 mailer.homesdg.co
 mailer.homesdn.co
 mailer.homesidea.co
