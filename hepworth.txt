@@ -3872,6 +3872,7 @@ gurbpocflows.com
 guruztech.com
 gussedout.com
 gutalacias.co.uk
+guuero.com
 gvesserver.com
 gynrarava.co.uk
 gynrarave.co.uk
@@ -9716,6 +9717,7 @@ mailer.gurbpocflows.com
 mailer.guruztech.com
 mailer.gussedout.com
 mailer.gutalacias.co.uk
+mailer.guuero.com
 mailer.gvesserver.com
 mailer.gynrarava.co.uk
 mailer.gynrarave.co.uk
