@@ -205,6 +205,7 @@ agutayanor.co.uk
 airbornepig.com
 airfaredeals.co
 aivlso.org
+ajanle.com
 ajuynisa.co.uk
 akaneserver.net
 akapulco.net
@@ -6054,6 +6055,7 @@ mailer.agutayanor.co.uk
 mailer.airbornepig.com
 mailer.airfaredeals.co
 mailer.aivlso.org
+mailer.ajanle.com
 mailer.ajuynisa.co.uk
 mailer.akaneserver.net
 mailer.akapulco.net
