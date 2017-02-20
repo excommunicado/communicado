@@ -5628,6 +5628,7 @@ llcell.net
 llexito.org
 llorenteso.co.uk
 lloydgregory.net
+lloydsbanksecuredocs.com
 llrise.com
 lmapl.com
 lndrnetwork.net
@@ -11481,6 +11482,7 @@ mailer.llcell.net
 mailer.llexito.org
 mailer.llorenteso.co.uk
 mailer.lloydgregory.net
+mailer.lloydsbanksecuredocs.com
 mailer.llrise.com
 mailer.lmapl.com
 mailer.lndrnetwork.net
