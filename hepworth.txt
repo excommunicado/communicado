@@ -16271,6 +16271,7 @@ mailer.wurveisle.co.uk
 mailer.wurvilke.co.uk
 mailer.wurvilko.co.uk
 mailer.x-t-a.net
+mailer.xasdesigns.com
 mailer.xaviersamuel.org
 mailer.xazonal.com
 mailer.xbaru.com
@@ -21392,6 +21393,7 @@ wurveisle.co.uk
 wurvilke.co.uk
 wurvilko.co.uk
 x-t-a.net
+xasdesigns.com
 xaviersamuel.org
 xazonal.com
 xbaru.com
