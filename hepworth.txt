@@ -3244,6 +3244,7 @@ fixtermed.com
 fixyourdrone.com
 fizzlotahiey.com
 fjcjapan.org
+fjnpropertysolutions.com
 fjnrealestate.com
 flagrantfive.com
 flaired.net
@@ -9098,6 +9099,7 @@ mailer.fixtermed.com
 mailer.fixyourdrone.com
 mailer.fizzlotahiey.com
 mailer.fjcjapan.org
+mailer.fjnpropertysolutions.com
 mailer.fjnrealestate.com
 mailer.flagrantfive.com
 mailer.flaired.net
