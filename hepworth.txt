@@ -3121,6 +3121,7 @@ fastprocessgroup.com
 fathomcouncil.com
 faunll.net
 fbassault.com
+fbfissure.com
 fdrpermanent.com
 fdrspadework.com
 featuredtravel.com
@@ -8973,6 +8974,7 @@ mailer.fastprocessgroup.com
 mailer.fathomcouncil.com
 mailer.faunll.net
 mailer.fbassault.com
+mailer.fbfissure.com
 mailer.fdrpermanent.com
 mailer.fdrspadework.com
 mailer.featuredtravel.com
