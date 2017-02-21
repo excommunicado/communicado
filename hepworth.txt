@@ -15702,6 +15702,7 @@ mailer.vegasbarterboss.com
 mailer.vegasbuyersclub.com
 mailer.veinpromo.com
 mailer.vekitap.net
+mailer.velocitynatworks.com
 mailer.veluis.com
 mailer.vencoach.net
 mailer.vencoach.org
@@ -20828,6 +20829,7 @@ vegasbarterboss.com
 vegasbuyersclub.com
 veinpromo.com
 vekitap.net
+velocitynatworks.com
 veluis.com
 vencoach.net
 vencoach.org
