@@ -16005,6 +16005,7 @@ mailer.watertownindependents.org
 mailer.wave-blaze.com
 mailer.wavelengthdesigns.net
 mailer.waxormex.com
+mailer.waypointshd.com
 mailer.wbden.com
 mailer.weaclaith.com
 mailer.weare8.co
@@ -21129,6 +21130,7 @@ watertownindependents.org
 wave-blaze.com
 wavelengthdesigns.net
 waxormex.com
+waypointshd.com
 wbden.com
 weaclaith.com
 weare8.co
