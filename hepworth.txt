@@ -16243,6 +16243,7 @@ mailer.wowover.com
 mailer.wowowned.com
 mailer.wowsurge.com
 mailer.wowwild.com
+mailer.wpdtpg.com
 mailer.wpmasterpiece.com
 mailer.wpmembersclub.com
 mailer.wpnuno.com
@@ -21368,6 +21369,7 @@ wowover.com
 wowowned.com
 wowsurge.com
 wowwild.com
+wpdtpg.com
 wpmasterpiece.com
 wpmembersclub.com
 wpnuno.com
