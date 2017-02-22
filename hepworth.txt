@@ -16127,6 +16127,7 @@ mailer.wetsarachar.co.uk
 mailer.wetsuitboy.com
 mailer.wetwarecomputer.com
 mailer.wetwaretechnology.com
+mailer.wgsdconsulting.com
 mailer.whatcraft.net
 mailer.whatisshopify.com
 mailer.whatisthegreenelephant.com
@@ -21255,6 +21256,7 @@ wetsarachar.co.uk
 wetsuitboy.com
 wetwarecomputer.com
 wetwaretechnology.com
+wgsdconsulting.com
 whatcraft.net
 whatisshopify.com
 whatisthegreenelephant.com
