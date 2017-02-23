@@ -14895,6 +14895,7 @@ mailer.techguard.org
 mailer.techhotel.org
 mailer.techinv.net
 mailer.techkeyboard.com
+mailer.techmediam.net
 mailer.technikey.com
 mailer.technodemocracy.org
 mailer.technojoint.org
@@ -20025,6 +20026,7 @@ techguard.org
 techhotel.org
 techinv.net
 techkeyboard.com
+techmediam.net
 technikey.com
 technodemocracy.org
 technojoint.org
