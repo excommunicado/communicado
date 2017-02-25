@@ -2962,6 +2962,7 @@ eventmailing.co.uk
 eventsandhospitality.co.uk
 eventsclub.co.uk
 eventureph.com
+eventvex.com
 ever11.com
 ever33.com
 ever82.com
@@ -8827,6 +8828,7 @@ mailer.eventmailing.co.uk
 mailer.eventsandhospitality.co.uk
 mailer.eventsclub.co.uk
 mailer.eventureph.com
+mailer.eventvex.com
 mailer.ever11.com
 mailer.ever33.com
 mailer.ever82.com
