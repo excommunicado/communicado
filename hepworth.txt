@@ -12307,6 +12307,7 @@ mailer.moddingbay.com
 mailer.modenotes.com
 mailer.modernquick.com
 mailer.modetodo.com
+mailer.modishmania.com
 mailer.mogibox.com
 mailer.mogpogiosa.co.uk
 mailer.moisestola.co.uk
@@ -17442,6 +17443,7 @@ moddingbay.com
 modenotes.com
 modernquick.com
 modetodo.com
+modishmania.com
 mogibox.com
 mogpogiosa.co.uk
 moisestola.co.uk
