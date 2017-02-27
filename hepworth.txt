@@ -2214,6 +2214,7 @@ decentralcloud.net
 decision-central.com
 deckingboardsoil.com
 deckinghowto.com
+decordig.com
 decoy-calculator.com
 dedanovem.co.uk
 dedanovom.co.uk
@@ -8081,6 +8082,7 @@ mailer.decentralcloud.net
 mailer.decision-central.com
 mailer.deckingboardsoil.com
 mailer.deckinghowto.com
+mailer.decordig.com
 mailer.decoy-calculator.com
 mailer.dedanovem.co.uk
 mailer.dedanovom.co.uk
