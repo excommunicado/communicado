@@ -14484,6 +14484,7 @@ mailer.simonecode.com
 mailer.simplecleanweb.com
 mailer.simplelandscapingdesigns.com
 mailer.simplelivingdaily.com
+mailer.simpleprofitsmaker.com
 mailer.simplycreativewebsites.com
 mailer.simplyfashioned.com
 mailer.simracingcore.com
@@ -19630,6 +19631,7 @@ simonecode.com
 simplecleanweb.com
 simplelandscapingdesigns.com
 simplelivingdaily.com
+simpleprofitsmaker.com
 simplycreativewebsites.com
 simplyfashioned.com
 simracingcore.com
