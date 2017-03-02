@@ -19,6 +19,7 @@
 24exit.com
 24hourgym.org
 24tradeoptions.com
+260club.org
 2app.net
 30secondstomars.org
 360narrative.com
@@ -5892,6 +5893,7 @@ mailer.2014freedeals.com
 mailer.24exit.com
 mailer.24hourgym.org
 mailer.24tradeoptions.com
+mailer.260club.org
 mailer.2app.net
 mailer.30secondstomars.org
 mailer.360narrative.com
