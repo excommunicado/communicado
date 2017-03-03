@@ -12008,6 +12008,7 @@ mailer.maubantios.co.uk
 mailer.mauritiusdeal.com
 mailer.mawablaban.co.uk
 mailer.mawakashuma.com
+mailer.mawide.com
 mailer.mawze.com
 mailer.maxedrsps.com
 mailer.maximizetaxrefund.com
@@ -17155,6 +17156,7 @@ maubantios.co.uk
 mauritiusdeal.com
 mawablaban.co.uk
 mawakashuma.com
+mawide.com
 mawze.com
 maxedrsps.com
 maximizetaxrefund.com
