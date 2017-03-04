@@ -15116,6 +15116,7 @@ mailer.theinspiredmarketing.com
 mailer.thejuicingstore.com
 mailer.thelearningsolution.co
 mailer.themalfunctionjunction.com
+mailer.themarkpoint.com
 mailer.themedev.co
 mailer.themediamonitoring.com
 mailer.themekrafts.com
@@ -20266,6 +20267,7 @@ theinspiredmarketing.com
 thejuicingstore.com
 thelearningsolution.co
 themalfunctionjunction.com
+themarkpoint.com
 themedev.co
 themediamonitoring.com
 themekrafts.com
