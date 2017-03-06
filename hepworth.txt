@@ -14568,6 +14568,7 @@ mailer.smarthomelife.net
 mailer.smartphonemessenger.com
 mailer.smartpocketsolutions.com
 mailer.smartsolutioncapital.com
+mailer.smartwealth.co
 mailer.smcdill.com
 mailer.smeassets.com
 mailer.smilebrightbc.com
@@ -19724,6 +19725,7 @@ smarthomelife.net
 smartphonemessenger.com
 smartpocketsolutions.com
 smartsolutioncapital.com
+smartwealth.co
 smcdill.com
 smeassets.com
 smilebrightbc.com
