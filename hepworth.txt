@@ -13814,6 +13814,7 @@ mailer.reactiveventures.com
 mailer.readforthekids.com
 mailer.readingcultivation.com
 mailer.realcashgambling.com
+mailer.realestatecapfund.com
 mailer.realestatensw.org
 mailer.realestatesa.org
 mailer.realitydisruptor.com
@@ -18969,6 +18970,7 @@ reactiveventures.com
 readforthekids.com
 readingcultivation.com
 realcashgambling.com
+realestatecapfund.com
 realestatensw.org
 realestatesa.org
 realitydisruptor.com
