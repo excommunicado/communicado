@@ -2196,6 +2196,7 @@ db-indus.co
 dbsrocks.com
 dcamconsortium.net
 dcdoptas.com
+dcecc.org
 dcsit.net
 dddprintforum.com
 ddiva.net
@@ -8075,6 +8076,7 @@ mailer.db-indus.co
 mailer.dbsrocks.com
 mailer.dcamconsortium.net
 mailer.dcdoptas.com
+mailer.dcecc.org
 mailer.dcsit.net
 mailer.dddprintforum.com
 mailer.ddiva.net
