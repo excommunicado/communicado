@@ -14549,6 +14549,7 @@ mailer.skicharlevoix.com
 mailer.skijilteerya.com
 mailer.skillleague.org
 mailer.skinnyreader.com
+mailer.skisport.co
 mailer.sknowbst.com
 mailer.skrajna.com
 mailer.skylanderscodes.com
@@ -19718,6 +19719,7 @@ skicharlevoix.com
 skijilteerya.com
 skillleague.org
 skinnyreader.com
+skisport.co
 sknowbst.com
 skrajna.com
 skylanderscodes.com
