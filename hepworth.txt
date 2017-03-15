@@ -4025,6 +4025,7 @@ hartleyindependent.com
 hartlolte.co.uk
 hashdesk.com
 hashtasks.com
+hasimport.com
 haskforum.com
 hastebound.com
 hatulot.com
@@ -9916,6 +9917,7 @@ mailer.hartleyindependent.com
 mailer.hartlolte.co.uk
 mailer.hashdesk.com
 mailer.hashtasks.com
+mailer.hasimport.com
 mailer.haskforum.com
 mailer.hastebound.com
 mailer.hatulot.com
