@@ -275,6 +275,7 @@ allentyra.co.uk
 allfixter.com
 allfreevector.net
 alliance-advisors.net
+alliedresourcesgroup.net
 alljournalpdf.net
 allowed.co
 allpaper.org
@@ -6169,6 +6170,7 @@ mailer.allentyra.co.uk
 mailer.allfixter.com
 mailer.allfreevector.net
 mailer.alliance-advisors.net
+mailer.alliedresourcesgroup.net
 mailer.alljournalpdf.net
 mailer.allowed.co
 mailer.allpaper.org
