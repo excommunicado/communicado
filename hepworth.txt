@@ -13673,6 +13673,7 @@ mailer.professionalcardcreations.com
 mailer.proffshoreservices.net
 mailer.profileartis.com
 mailer.profit-generator.org
+mailer.profit-transfer.com
 mailer.profitbam.com
 mailer.profitmagick.com
 mailer.profitopp.com
@@ -18857,6 +18858,7 @@ professionalcardcreations.com
 proffshoreservices.net
 profileartis.com
 profit-generator.org
+profit-transfer.com
 profitbam.com
 profitmagick.com
 profitopp.com
