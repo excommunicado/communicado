@@ -3616,6 +3616,7 @@ gerapolpe.co.uk
 german-rivers.com
 geronaholo.co.uk
 getchirping.net
+getdnb.com
 getfreetvonline.net
 gethealthyzone.com
 getoldcar.com
@@ -9520,6 +9521,7 @@ mailer.gerapolpe.co.uk
 mailer.german-rivers.com
 mailer.geronaholo.co.uk
 mailer.getchirping.net
+mailer.getdnb.com
 mailer.getfreetvonline.net
 mailer.gethealthyzone.com
 mailer.getoldcar.com
