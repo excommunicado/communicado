@@ -12316,6 +12316,7 @@ mailer.minabarava.co.uk
 mailer.minalabacs.co.uk
 mailer.minalintos.co.uk
 mailer.mindfulfindings.com
+mailer.mindonnature.com
 mailer.mindoronos.co.uk
 mailer.mindthegapradio.com
 mailer.minecraftpeople.com
@@ -17507,6 +17508,7 @@ minabarava.co.uk
 minalabacs.co.uk
 minalintos.co.uk
 mindfulfindings.com
+mindonnature.com
 mindoronos.co.uk
 mindthegapradio.com
 minecraftpeople.com
