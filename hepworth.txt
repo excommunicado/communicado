@@ -15428,6 +15428,7 @@ mailer.tribewars.net
 mailer.trickymindgames.com
 mailer.trikeride.com
 mailer.trimbulten.com
+mailer.trivacraft.net
 mailer.trojanpolo.com
 mailer.trollslols.com
 mailer.tropyle.com
@@ -20625,6 +20626,7 @@ tribewars.net
 trickymindgames.com
 trikeride.com
 trimbulten.com
+trivacraft.net
 trojanpolo.com
 trollslols.com
 tropyle.com
