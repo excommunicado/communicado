@@ -16160,6 +16160,7 @@ mailer.wanderiartenge.co.uk
 mailer.wanderingmindshow.com
 mailer.wanderownelste.co.uk
 mailer.wanderupete.co.uk
+mailer.waphaber.net
 mailer.wapsswepts.com
 mailer.warnerhill.com
 mailer.waseyowex.com
@@ -21355,6 +21356,7 @@ wanderiartenge.co.uk
 wanderingmindshow.com
 wanderownelste.co.uk
 wanderupete.co.uk
+waphaber.net
 wapsswepts.com
 warnerhill.com
 waseyowex.com
