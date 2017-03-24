@@ -13779,6 +13779,7 @@ mailer.putonwax.com
 mailer.puzzlesbydan.com
 mailer.pvpslash.com
 mailer.pvpspartans.com
+mailer.pwsamerica.org
 mailer.pyron2.com
 mailer.pzphao.com
 mailer.q-hat.net
@@ -18972,6 +18973,7 @@ putonwax.com
 puzzlesbydan.com
 pvpslash.com
 pvpspartans.com
+pwsamerica.org
 pyron2.com
 pzphao.com
 q-hat.net
