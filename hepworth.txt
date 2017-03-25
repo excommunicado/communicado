@@ -14899,6 +14899,7 @@ mailer.surfsocially.com
 mailer.surfsocially.net
 mailer.surgecore.com
 mailer.surgecycles.com
+mailer.surgenetwork.co
 mailer.surgeontrust.org
 mailer.surrey-bb.org
 mailer.surroga.org
@@ -20097,6 +20098,7 @@ surfsocially.com
 surfsocially.net
 surgecore.com
 surgecycles.com
+surgenetwork.co
 surgeontrust.org
 surrey-bb.org
 surroga.org
