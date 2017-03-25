@@ -3133,6 +3133,7 @@ fanid.org
 fantaseacharter.com
 fantasistas.com
 fantasyscribe.com
+faqih.co
 farmersonlymarket.com
 farmingmachinery.net
 farmingxchange.org
@@ -9045,6 +9046,7 @@ mailer.fanid.org
 mailer.fantaseacharter.com
 mailer.fantasistas.com
 mailer.fantasyscribe.com
+mailer.faqih.co
 mailer.farmersonlymarket.com
 mailer.farmingmachinery.net
 mailer.farmingxchange.org
