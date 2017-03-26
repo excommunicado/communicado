@@ -14154,6 +14154,7 @@ mailer.rockscale.net
 mailer.rocksketch.com
 mailer.rocount.com
 mailer.rodical.net
+mailer.rodqershealth.org
 mailer.rogoes.com
 mailer.rogue-it.com
 mailer.rohatv.com
@@ -19353,6 +19354,7 @@ rockscale.net
 rocksketch.com
 rocount.com
 rodical.net
+rodqershealth.org
 rogoes.com
 rogue-it.com
 rohatv.com
