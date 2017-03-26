@@ -5886,6 +5886,7 @@ madhytravel.com
 madridil.co.uk
 madridis.co.uk
 madurastremendas.com
+mag-profits.com
 magalang.co.uk
 magalans.co.uk
 magalona.co.uk
@@ -11800,6 +11801,7 @@ mailer.madhytravel.com
 mailer.madridil.co.uk
 mailer.madridis.co.uk
 mailer.madurastremendas.com
+mailer.mag-profits.com
 mailer.magalang.co.uk
 mailer.magalans.co.uk
 mailer.magalona.co.uk
