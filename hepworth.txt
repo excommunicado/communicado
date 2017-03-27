@@ -1086,6 +1086,7 @@ biscomsa.com
 bisligno.co.uk
 bitcoinchronical.com
 bitcoinchronical.net
+bitcoinmoneyworld.net
 bitcoinplay.org
 bitcoinsentinal.com
 bitcoinshoutout.com
@@ -7003,6 +7004,7 @@ mailer.biscomsa.com
 mailer.bisligno.co.uk
 mailer.bitcoinchronical.com
 mailer.bitcoinchronical.net
+mailer.bitcoinmoneyworld.net
 mailer.bitcoinplay.org
 mailer.bitcoinsentinal.com
 mailer.bitcoinshoutout.com
