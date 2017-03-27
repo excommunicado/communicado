@@ -891,6 +891,7 @@ batanesle.co.uk
 batangastre.co.uk
 batanierol.co.uk
 batarazania.co.uk
+batatours.net
 batecevo.com
 bathroomlights.org
 bathroomsketch.com
@@ -6807,6 +6808,7 @@ mailer.batanesle.co.uk
 mailer.batangastre.co.uk
 mailer.batanierol.co.uk
 mailer.batarazania.co.uk
+mailer.batatours.net
 mailer.batecevo.com
 mailer.bathroomlights.org
 mailer.bathroomsketch.com
