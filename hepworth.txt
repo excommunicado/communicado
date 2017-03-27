@@ -12521,6 +12521,7 @@ mailer.muvabeauty.com
 mailer.muzfilm.net
 mailer.mw-efnet.com
 mailer.mwgaming.net
+mailer.my-power.co
 mailer.my30daychallenge.net
 mailer.myaccountsapp.com
 mailer.myagito.com
@@ -17723,6 +17724,7 @@ muvabeauty.com
 muzfilm.net
 mw-efnet.com
 mwgaming.net
+my-power.co
 my30daychallenge.net
 myaccountsapp.com
 myagito.com
