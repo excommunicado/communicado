@@ -2089,6 +2089,7 @@ cyclingwithfood.com
 cykoze.com
 cyprus-rhodes.com
 cyprus-rhodes.org
+cyverant.org
 d4nikon.com
 daanbanta.co.uk
 dabaduntive.co.uk
@@ -8009,6 +8010,7 @@ mailer.cyclingwithfood.com
 mailer.cykoze.com
 mailer.cyprus-rhodes.com
 mailer.cyprus-rhodes.org
+mailer.cyverant.org
 mailer.d4nikon.com
 mailer.daanbanta.co.uk
 mailer.dabaduntive.co.uk
