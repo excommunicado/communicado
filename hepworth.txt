@@ -5240,6 +5240,7 @@ kisaclick.com
 kitaotaose.co.uk
 kitcharaos.co.uk
 kitchenaidstir.com
+kizigames.co
 kldosoul.com
 klenarava.co.uk
 klenarave.co.uk
@@ -11159,6 +11160,7 @@ mailer.kisaclick.com
 mailer.kitaotaose.co.uk
 mailer.kitcharaos.co.uk
 mailer.kitchenaidstir.com
+mailer.kizigames.co
 mailer.kldosoul.com
 mailer.klenarava.co.uk
 mailer.klenarave.co.uk
