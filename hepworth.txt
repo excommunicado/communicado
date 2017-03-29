@@ -5228,6 +5228,7 @@ kidapawanu.co.uk
 kidgpivin.com
 kidneycane.com
 kidonka.com
+kigohost.com
 kikubsavs.com
 kilioholda.co.uk
 kilioholde.co.uk
@@ -11151,6 +11152,7 @@ mailer.kidapawanu.co.uk
 mailer.kidgpivin.com
 mailer.kidneycane.com
 mailer.kidonka.com
+mailer.kigohost.com
 mailer.kikubsavs.com
 mailer.kilioholda.co.uk
 mailer.kilioholde.co.uk
