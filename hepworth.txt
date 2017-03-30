@@ -632,6 +632,7 @@ auctioncentr.com
 audioproseller.com
 audiowav.net
 auditio.co
+aunewswire.com
 aurastresser.net
 aurimas.org
 aurorase.co.uk
@@ -6558,6 +6559,7 @@ mailer.auctioncentr.com
 mailer.audioproseller.com
 mailer.audiowav.net
 mailer.auditio.co
+mailer.aunewswire.com
 mailer.aurastresser.net
 mailer.aurimas.org
 mailer.aurorase.co.uk
