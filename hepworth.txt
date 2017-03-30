@@ -14839,6 +14839,7 @@ mailer.starpendantgold.com
 mailer.starsloaded.com
 mailer.starsofthenight.com
 mailer.starsongspk.com
+mailer.startfav.com
 mailer.startupshoot.com
 mailer.startuptrip.co
 mailer.staticonly.com
@@ -20051,6 +20052,7 @@ starpendantgold.com
 starsloaded.com
 starsofthenight.com
 starsongspk.com
+startfav.com
 startupshoot.com
 startuptrip.co
 staticonly.com
