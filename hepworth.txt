@@ -2040,6 +2040,7 @@ csgshq.com
 cskmerania.org
 csper.org
 ctcarlaw.com
+ctcasu.org
 ctfsbank.com
 ctrlaltfixed.com
 ctuzigootimg.co.uk
@@ -7970,6 +7971,7 @@ mailer.csgshq.com
 mailer.cskmerania.org
 mailer.csper.org
 mailer.ctcarlaw.com
+mailer.ctcasu.org
 mailer.ctfsbank.com
 mailer.ctrlaltfixed.com
 mailer.ctuzigootimg.co.uk
