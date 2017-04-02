@@ -16140,6 +16140,7 @@ mailer.vitriracham.co.uk
 mailer.vitrirachan.co.uk
 mailer.vitrirachap.co.uk
 mailer.vitrirachar.co.uk
+mailer.vivaglobalexpress.com
 mailer.vivataobao.com
 mailer.vividpersuasion.com
 mailer.vivirverde.com
@@ -21357,6 +21358,7 @@ vitriracham.co.uk
 vitrirachan.co.uk
 vitrirachap.co.uk
 vitrirachar.co.uk
+vivaglobalexpress.com
 vivataobao.com
 vividpersuasion.com
 vivirverde.com
