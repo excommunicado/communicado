@@ -4880,6 +4880,7 @@ jentiktravel.com
 jeranovem.co.uk
 jeranovom.co.uk
 jerrijarmeh.com
+jescome.co
 jeslaguela.co.uk
 jeslaguele.co.uk
 jeslagueli.co.uk
@@ -10818,6 +10819,7 @@ mailer.jentiktravel.com
 mailer.jeranovem.co.uk
 mailer.jeranovom.co.uk
 mailer.jerrijarmeh.com
+mailer.jescome.co
 mailer.jeslaguela.co.uk
 mailer.jeslaguele.co.uk
 mailer.jeslagueli.co.uk
