@@ -2189,6 +2189,7 @@ danmagnus.co
 daosimana.co.uk
 dapaniesa.co.uk
 dapitanto.co.uk
+dappslist.com
 daraganol.co.uk
 daramsona.co.uk
 darkfalls.org
@@ -8126,6 +8127,7 @@ mailer.danmagnus.co
 mailer.daosimana.co.uk
 mailer.dapaniesa.co.uk
 mailer.dapitanto.co.uk
+mailer.dappslist.com
 mailer.daraganol.co.uk
 mailer.daramsona.co.uk
 mailer.darkfalls.org
