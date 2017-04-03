@@ -15583,6 +15583,7 @@ mailer.tunta.co
 mailer.tunta.net
 mailer.tupicss.com
 mailer.tupujofut.com
+mailer.turanmedya.co
 mailer.turbozoo.co
 mailer.turklider24.net
 mailer.turlaguela.co.uk
@@ -20802,6 +20803,7 @@ tunta.co
 tunta.net
 tupicss.com
 tupujofut.com
+turanmedya.co
 turbozoo.co
 turklider24.net
 turlaguela.co.uk
