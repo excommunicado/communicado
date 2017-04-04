@@ -3003,6 +3003,7 @@ ever33.com
 ever82.com
 ever84.com
 everydaypayment.net
+everydaystoic.com
 evhf.org
 evolutiondrp.com
 evoserving.com
@@ -8943,6 +8944,7 @@ mailer.ever33.com
 mailer.ever82.com
 mailer.ever84.com
 mailer.everydaypayment.net
+mailer.everydaystoic.com
 mailer.evhf.org
 mailer.evolutiondrp.com
 mailer.evoserving.com
