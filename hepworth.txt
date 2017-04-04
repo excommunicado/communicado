@@ -1893,6 +1893,7 @@ completesecurityonline.net
 compositedeckingtypes.com
 compostela.co.uk
 comprartelevision.net
+compressionshirts.net
 compromises.co
 computersciencemajor.org
 computerworkstation.net
@@ -7835,6 +7836,7 @@ mailer.completesecurityonline.net
 mailer.compositedeckingtypes.com
 mailer.compostela.co.uk
 mailer.comprartelevision.net
+mailer.compressionshirts.net
 mailer.compromises.co
 mailer.computersciencemajor.org
 mailer.computerworkstation.net
