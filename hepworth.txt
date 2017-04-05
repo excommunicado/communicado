@@ -16567,6 +16567,7 @@ mailer.xasdesigns.com
 mailer.xaviersamuel.org
 mailer.xazonal.com
 mailer.xbaru.com
+mailer.xblgamers.net
 mailer.xblsn.com
 mailer.xbtmarket.org
 mailer.xdriftr.co
@@ -21795,6 +21796,7 @@ xasdesigns.com
 xaviersamuel.org
 xazonal.com
 xbaru.com
+xblgamers.net
 xblsn.com
 xbtmarket.org
 xdriftr.co
