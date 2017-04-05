@@ -5499,6 +5499,7 @@ lazydonate.com
 lchaixms.com
 ldr33.com
 ldvpev.com
+leadnurt.co
 leadnurt.com
 leadnurt.net
 leadnurt.org
@@ -11442,6 +11443,7 @@ mailer.lazydonate.com
 mailer.lchaixms.com
 mailer.ldr33.com
 mailer.ldvpev.com
+mailer.leadnurt.co
 mailer.leadnurt.com
 mailer.leadnurt.net
 mailer.leadnurt.org
