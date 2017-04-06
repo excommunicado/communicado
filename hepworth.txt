@@ -1749,6 +1749,7 @@ centoserve.com
 centraladviser.com
 centuryadviser.com
 cervantel.co.uk
+cfcminot.org
 chachacharge.com
 chacharge.com
 chalkandchives.com
@@ -7699,6 +7700,7 @@ mailer.centoserve.com
 mailer.centraladviser.com
 mailer.centuryadviser.com
 mailer.cervantel.co.uk
+mailer.cfcminot.org
 mailer.chachacharge.com
 mailer.chacharge.com
 mailer.chalkandchives.com
