@@ -13622,6 +13622,7 @@ mailer.pixcar.co
 mailer.pixeltileworld.com
 mailer.pixelunderworld.com
 mailer.pixelwound.com
+mailer.planetshort.com
 mailer.plant4fun.com
 mailer.plantrichkitchen.com
 mailer.platefoor.com
@@ -18852,6 +18853,7 @@ pixcar.co
 pixeltileworld.com
 pixelunderworld.com
 pixelwound.com
+planetshort.com
 plant4fun.com
 plantrichkitchen.com
 platefoor.com
