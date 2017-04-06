@@ -16490,6 +16490,7 @@ mailer.wirelesscard.org
 mailer.wirelessrouterfix.com
 mailer.wirewealthy.com
 mailer.wiringdiagram.net
+mailer.wisataniaga.com
 mailer.wisdomtreeline.com
 mailer.wisroholda.co.uk
 mailer.wisroholde.co.uk
@@ -21721,6 +21722,7 @@ wirelesscard.org
 wirelessrouterfix.com
 wirewealthy.com
 wiringdiagram.net
+wisataniaga.com
 wisdomtreeline.com
 wisroholda.co.uk
 wisroholde.co.uk
