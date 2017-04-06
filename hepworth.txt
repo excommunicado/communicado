@@ -13200,6 +13200,7 @@ mailer.opengateadvice.com
 mailer.openhealthforum.com
 mailer.openlinksdirectory.com
 mailer.opensimads.com
+mailer.opensprites.org
 mailer.opentechworld.com
 mailer.openthreshold.org
 mailer.operacaooutono.com
@@ -18432,6 +18433,7 @@ opengateadvice.com
 openhealthforum.com
 openlinksdirectory.com
 opensimads.com
+opensprites.org
 opentechworld.com
 openthreshold.org
 operacaooutono.com
