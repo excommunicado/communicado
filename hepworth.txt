@@ -13659,6 +13659,7 @@ mailer.plzzke.com
 mailer.pmiquotesuk.com
 mailer.pmireferuk.com
 mailer.pmnr.net
+mailer.podkarpacie.co
 mailer.poenye.com
 mailer.pointdecontact.org
 mailer.pointsector.com
@@ -18892,6 +18893,7 @@ plzzke.com
 pmiquotesuk.com
 pmireferuk.com
 pmnr.net
+podkarpacie.co
 poenye.com
 pointdecontact.org
 pointsector.com
