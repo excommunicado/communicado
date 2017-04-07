@@ -16551,6 +16551,7 @@ mailer.writtenpersuasion.com
 mailer.wsolegend.com
 mailer.wssel.com
 mailer.wsturadio.com
+mailer.wtab.co
 mailer.wtbnmc.com
 mailer.wtuzigooting.co.uk
 mailer.wuilaguela.co.uk
@@ -21785,6 +21786,7 @@ writtenpersuasion.com
 wsolegend.com
 wssel.com
 wsturadio.com
+wtab.co
 wtbnmc.com
 wtuzigooting.co.uk
 wuilaguela.co.uk
