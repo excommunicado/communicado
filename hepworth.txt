@@ -16588,6 +16588,7 @@ mailer.xazonal.com
 mailer.xbaru.com
 mailer.xblgamers.net
 mailer.xblsn.com
+mailer.xblsr.com
 mailer.xbtmarket.org
 mailer.xdriftr.co
 mailer.xemgame.org
@@ -21823,6 +21824,7 @@ xazonal.com
 xbaru.com
 xblgamers.net
 xblsn.com
+xblsr.com
 xbtmarket.org
 xdriftr.co
 xemgame.org
