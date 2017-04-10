@@ -3686,6 +3686,7 @@ giporlosar.co.uk
 gironadigital.com
 gitagumler.co.uk
 gitdoc.org
+gitika.co
 givehearts.net
 gladius-security.com
 glangander.co.uk
@@ -9641,6 +9642,7 @@ mailer.giporlosar.co.uk
 mailer.gironadigital.com
 mailer.gitagumler.co.uk
 mailer.gitdoc.org
+mailer.gitika.co
 mailer.givehearts.net
 mailer.gladius-security.com
 mailer.glangander.co.uk
