@@ -14713,6 +14713,7 @@ mailer.simplyfashioned.com
 mailer.simracerscentral.org
 mailer.simracingcore.com
 mailer.simracingpits.com
+mailer.simracingpits.net
 mailer.simracingpits.org
 mailer.singingmiracle.com
 mailer.sinkmc.org
@@ -19951,6 +19952,7 @@ simplyfashioned.com
 simracerscentral.org
 simracingcore.com
 simracingpits.com
+simracingpits.net
 simracingpits.org
 singingmiracle.com
 sinkmc.org
