@@ -15952,6 +15952,7 @@ mailer.usisendmail.com
 mailer.uslanovem.co.uk
 mailer.uslanovom.co.uk
 mailer.usnewsmba.com
+mailer.utahguru.org
 mailer.utuzigooting.co.uk
 mailer.uwegrulich.com
 mailer.uwoadykes.com
@@ -21194,6 +21195,7 @@ usisendmail.com
 uslanovem.co.uk
 uslanovom.co.uk
 usnewsmba.com
+utahguru.org
 utuzigooting.co.uk
 uwegrulich.com
 uwoadykes.com
