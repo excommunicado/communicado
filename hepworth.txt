@@ -1291,6 +1291,7 @@ brooklyn-decker.org
 brooklyncrafted.net
 brougolnse.co.uk
 brougolte.co.uk
+brucetheinphotography.com
 brunbooks.com
 brushy.org
 brutafsa.co.uk
@@ -7250,6 +7251,7 @@ mailer.brooklyn-decker.org
 mailer.brooklyncrafted.net
 mailer.brougolnse.co.uk
 mailer.brougolte.co.uk
+mailer.brucetheinphotography.com
 mailer.brunbooks.com
 mailer.brushy.org
 mailer.brutafsa.co.uk
