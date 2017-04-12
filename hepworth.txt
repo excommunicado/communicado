@@ -1785,6 +1785,7 @@ chicprophecy.com
 chinadramas.com
 chinamovies.net
 chinaplay.org
+chinapos.co
 chinesedrama.org
 chinesedramas.net
 chiocemarketing.com
@@ -7743,6 +7744,7 @@ mailer.chicprophecy.com
 mailer.chinadramas.com
 mailer.chinamovies.net
 mailer.chinaplay.org
+mailer.chinapos.co
 mailer.chinesedrama.org
 mailer.chinesedramas.net
 mailer.chiocemarketing.com
