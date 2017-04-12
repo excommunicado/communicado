@@ -15390,6 +15390,7 @@ mailer.theship.co
 mailer.theshoptronic.com
 mailer.thespecsblack.com
 mailer.thespinachsilo.com
+mailer.thestoreenergystore.com
 mailer.thesunsetmovement.com
 mailer.thesvpindex.com
 mailer.thesvpindex.org
@@ -20638,6 +20639,7 @@ theship.co
 theshoptronic.com
 thespecsblack.com
 thespinachsilo.com
+thestoreenergystore.com
 thesunsetmovement.com
 thesvpindex.com
 thesvpindex.org
