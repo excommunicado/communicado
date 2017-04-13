@@ -2608,6 +2608,7 @@ dusmedia.co
 dv-mp3.com
 dvg-art.com
 dwsi.co
+dxwsolutions.com
 dymecraft.com
 dynamicmentor.com
 dynamicresponsegroup.com
@@ -8570,6 +8571,7 @@ mailer.dusmedia.co
 mailer.dv-mp3.com
 mailer.dvg-art.com
 mailer.dwsi.co
+mailer.dxwsolutions.com
 mailer.dymecraft.com
 mailer.dynamicmentor.com
 mailer.dynamicresponsegroup.com
