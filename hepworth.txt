@@ -2429,6 +2429,7 @@ digostia.co.uk
 digwall.com
 dijoauthority.com
 dilasage.co.uk
+dimanabeli.com
 dimasala.co.uk
 dimatali.co.uk
 dimiaone.co.uk
@@ -8392,6 +8393,7 @@ mailer.digostia.co.uk
 mailer.digwall.com
 mailer.dijoauthority.com
 mailer.dilasage.co.uk
+mailer.dimanabeli.com
 mailer.dimasala.co.uk
 mailer.dimatali.co.uk
 mailer.dimiaone.co.uk
