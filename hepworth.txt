@@ -3287,6 +3287,7 @@ finepenguin.com
 firecape.net
 firefile.net
 fireflyo.com
+firemyboss.co
 firesidebookshelf.com
 firstero.com
 fishbuff.com
@@ -9253,6 +9254,7 @@ mailer.finepenguin.com
 mailer.firecape.net
 mailer.firefile.net
 mailer.fireflyo.com
+mailer.firemyboss.co
 mailer.firesidebookshelf.com
 mailer.firstero.com
 mailer.fishbuff.com
