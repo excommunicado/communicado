@@ -1231,6 +1231,7 @@ bookmarknow.net
 bookoe.com
 bookshares.net
 bookspell.org
+booktail.org
 boolkley.com
 boomlift.org
 boomrotation.com
@@ -7198,6 +7199,7 @@ mailer.bookmarknow.net
 mailer.bookoe.com
 mailer.bookshares.net
 mailer.bookspell.org
+mailer.booktail.org
 mailer.boolkley.com
 mailer.boomlift.org
 mailer.boomrotation.com
