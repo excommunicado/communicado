@@ -2527,6 +2527,7 @@ doolskitchen.com
 doorll.net
 dopsclick.com
 dorbarta.com
+doresume.co
 dotaleak.com
 dotnetaddict.com
 dotnom.ca
@@ -8499,6 +8500,7 @@ mailer.doolskitchen.com
 mailer.doorll.net
 mailer.dopsclick.com
 mailer.dorbarta.com
+mailer.doresume.co
 mailer.dotaleak.com
 mailer.dotnetaddict.com
 mailer.dotnom.ca
