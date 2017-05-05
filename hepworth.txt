@@ -14938,6 +14938,7 @@ mailer.sportvist.com
 mailer.sprawlinghomes.com
 mailer.spreaduse.com
 mailer.spreck.org
+mailer.springfwd.co
 mailer.springiisd.org
 mailer.sprintgaming.net
 mailer.sprowstonlogic.net
@@ -20204,6 +20205,7 @@ sportvist.com
 sprawlinghomes.com
 spreaduse.com
 spreck.org
+springfwd.co
 springiisd.org
 sprintgaming.net
 sprowstonlogic.net
