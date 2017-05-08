@@ -12518,6 +12518,7 @@ mailer.mixmashu.com
 mailer.mixo.org
 mailer.mixturecloud.net
 mailer.mjcafe.co
+mailer.mjmoves.com
 mailer.mkparts.net
 mailer.mlgmonkey.com
 mailer.mmony.co
@@ -17785,6 +17786,7 @@ mixmashu.com
 mixo.org
 mixturecloud.net
 mjcafe.co
+mjmoves.com
 mkparts.net
 mlgmonkey.com
 mmony.co
