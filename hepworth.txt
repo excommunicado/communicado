@@ -12082,6 +12082,7 @@ mailer.manuelinos.co.uk
 mailer.manukantra.co.uk
 mailer.mapanasios.co.uk
 mailer.mapandanta.co.uk
+mailer.mapchat.co
 mailer.mapseeds.com
 mailer.mapunieros.co.uk
 mailer.marabutlas.co.uk
@@ -17351,6 +17352,7 @@ manuelinos.co.uk
 manukantra.co.uk
 mapanasios.co.uk
 mapandanta.co.uk
+mapchat.co
 mapseeds.com
 mapunieros.co.uk
 marabutlas.co.uk
