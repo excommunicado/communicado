@@ -1230,6 +1230,7 @@ bookingsteam.co.uk
 bookingteam.co.uk
 bookmarknow.net
 bookoe.com
+bookread.co
 bookshares.net
 bookspell.org
 booktail.org
@@ -7210,6 +7211,7 @@ mailer.bookingsteam.co.uk
 mailer.bookingteam.co.uk
 mailer.bookmarknow.net
 mailer.bookoe.com
+mailer.bookread.co
 mailer.bookshares.net
 mailer.bookspell.org
 mailer.booktail.org
