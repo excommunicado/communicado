@@ -3383,6 +3383,7 @@ floradonia.co.uk
 floralexpertise.net
 florencetravel.org
 floridabla.co.uk
+floridacoin.co
 flowershoplocal.com
 flult.com
 flulte.com
@@ -9366,6 +9367,7 @@ mailer.floradonia.co.uk
 mailer.floralexpertise.net
 mailer.florencetravel.org
 mailer.floridabla.co.uk
+mailer.floridacoin.co
 mailer.flowershoplocal.com
 mailer.flult.com
 mailer.flulte.com
