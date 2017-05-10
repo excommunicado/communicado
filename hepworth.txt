@@ -2148,6 +2148,7 @@ dailycryptodeal.com
 dailyfooddeals.ca
 dailyfreshfit.com
 dailytechbbq.com
+daimadimsum.com
 dairyindustry.net
 dalagania.co.uk
 dalagueta.co.uk
@@ -8133,6 +8134,7 @@ mailer.dailycryptodeal.com
 mailer.dailyfooddeals.ca
 mailer.dailyfreshfit.com
 mailer.dailytechbbq.com
+mailer.daimadimsum.com
 mailer.dairyindustry.net
 mailer.dalagania.co.uk
 mailer.dalagueta.co.uk
