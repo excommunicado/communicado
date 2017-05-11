@@ -2539,6 +2539,7 @@ dotnom.ca
 dotnom.co
 dotnom.net
 dotnom.org
+dougsdirect.com
 doveandsnake.com
 dowlive.com
 downloaddriver.co
@@ -8525,6 +8526,7 @@ mailer.dotnom.ca
 mailer.dotnom.co
 mailer.dotnom.net
 mailer.dotnom.org
+mailer.dougsdirect.com
 mailer.doveandsnake.com
 mailer.dowlive.com
 mailer.downloaddriver.co
