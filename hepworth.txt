@@ -14700,6 +14700,7 @@ mailer.sharonatduke.com
 mailer.sharpcoins.com
 mailer.shavecloser.com
 mailer.shellybroughton.com
+mailer.shepardsdp.co
 mailer.shhuro.com
 mailer.shieldagents.net
 mailer.shipk.com
@@ -19979,6 +19980,7 @@ sharonatduke.com
 sharpcoins.com
 shavecloser.com
 shellybroughton.com
+shepardsdp.co
 shhuro.com
 shieldagents.net
 shipk.com
