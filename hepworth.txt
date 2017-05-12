@@ -16169,6 +16169,7 @@ mailer.verrasinqua.co.uk
 mailer.verrasinque.co.uk
 mailer.verrasinqui.co.uk
 mailer.verrasinquo.co.uk
+mailer.versatilestylists.com
 mailer.verticalrisk.com
 mailer.verummeasurement.com
 mailer.verylimited.co.uk
@@ -21451,6 +21452,7 @@ verrasinqua.co.uk
 verrasinque.co.uk
 verrasinqui.co.uk
 verrasinquo.co.uk
+versatilestylists.com
 verticalrisk.com
 verummeasurement.com
 verylimited.co.uk
