@@ -16009,6 +16009,7 @@ mailer.uobay.com
 mailer.updatemate.net
 mailer.updatinfo.com
 mailer.uppanda.com
+mailer.uprisingrealty.com
 mailer.upstartdiscounter.com
 mailer.upstreamincome.com
 mailer.uranicraft.com
@@ -21293,6 +21294,7 @@ uobay.com
 updatemate.net
 updatinfo.com
 uppanda.com
+uprisingrealty.com
 upstartdiscounter.com
 upstreamincome.com
 uranicraft.com
