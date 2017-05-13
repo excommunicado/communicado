@@ -14702,6 +14702,7 @@ mailer.sharpenworld.com
 mailer.shavecloser.com
 mailer.shellybroughton.com
 mailer.shepardsdp.co
+mailer.shepardsdp.com
 mailer.shhuro.com
 mailer.shieldagents.net
 mailer.shipk.com
@@ -19989,6 +19990,7 @@ sharpenworld.com
 shavecloser.com
 shellybroughton.com
 shepardsdp.co
+shepardsdp.com
 shhuro.com
 shieldagents.net
 shipk.com
