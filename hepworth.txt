@@ -15279,6 +15279,7 @@ mailer.technonetcs.com
 mailer.technonetcs.net
 mailer.technonetcs.org
 mailer.techpi.net
+mailer.techraxs.com
 mailer.techrupture.com
 mailer.techseduction.com
 mailer.techskape.com
@@ -20574,6 +20575,7 @@ technonetcs.com
 technonetcs.net
 technonetcs.org
 techpi.net
+techraxs.com
 techrupture.com
 techseduction.com
 techskape.com
