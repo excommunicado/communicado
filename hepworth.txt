@@ -14440,6 +14440,7 @@ mailer.sa3w.com
 mailer.saalmeida.com
 mailer.sacredgifts.net
 mailer.saddisordertips.com
+mailer.safadasgratis.com
 mailer.safedaysonline.com
 mailer.safserver.com
 mailer.saintnetwork.net
@@ -19736,6 +19737,7 @@ sa3w.com
 saalmeida.com
 sacredgifts.net
 saddisordertips.com
+safadasgratis.com
 safedaysonline.com
 safserver.com
 saintnetwork.net
