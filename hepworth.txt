@@ -44,6 +44,7 @@
 99goodjobs.com
 99skill.org
 9frog.com
+WILDROSEBREWERY.co
 a-g-a.org
 aaahoteldeals.com
 abaduega.co.uk
@@ -6032,6 +6033,7 @@ mailer.99core.com
 mailer.99goodjobs.com
 mailer.99skill.org
 mailer.9frog.com
+mailer.WILDROSEBREWERY.co
 mailer.a-g-a.org
 mailer.aaahoteldeals.com
 mailer.abaduega.co.uk
