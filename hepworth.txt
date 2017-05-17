@@ -14779,6 +14779,7 @@ mailer.siloneuryn.co.uk
 mailer.siloneuryo.co.uk
 mailer.siloneurys.co.uk
 mailer.siloneuryt.co.uk
+mailer.silvapallets.com
 mailer.silver401krollover.com
 mailer.silverbullionbuilder.com
 mailer.silverfoxpresents.com
@@ -20072,6 +20073,7 @@ siloneuryn.co.uk
 siloneuryo.co.uk
 siloneurys.co.uk
 siloneuryt.co.uk
+silvapallets.com
 silver401krollover.com
 silverbullionbuilder.com
 silverfoxpresents.com
