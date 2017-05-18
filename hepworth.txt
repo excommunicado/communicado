@@ -2329,6 +2329,7 @@ demoforex.org
 demskills.net
 demureaura.com
 denmy.net
+deorquideas.com
 deplourcreative.com
 deployedcloud.com
 derek-hough.net
@@ -8318,6 +8319,7 @@ mailer.demoforex.org
 mailer.demskills.net
 mailer.demureaura.com
 mailer.denmy.net
+mailer.deorquideas.com
 mailer.deplourcreative.com
 mailer.deployedcloud.com
 mailer.derek-hough.net
