@@ -2986,6 +2986,7 @@ eruvasno.co.uk
 eruvehyre.co.uk
 eruvoxte.co.uk
 escalantes.co.uk
+escasa.net
 eshofea.com
 esperanzal.co.uk
 espiterate.com
@@ -8983,6 +8984,7 @@ mailer.eruvasno.co.uk
 mailer.eruvehyre.co.uk
 mailer.eruvoxte.co.uk
 mailer.escalantes.co.uk
+mailer.escasa.net
 mailer.eshofea.com
 mailer.esperanzal.co.uk
 mailer.espiterate.com
