@@ -14115,6 +14115,7 @@ mailer.rawfoodsnewsletter.com
 mailer.rawtestimonial.com
 mailer.rawtestimonials.com
 mailer.rawwow.com
+mailer.rayanmedi.com
 mailer.rayogley.net
 mailer.rayonsdelespoir.org
 mailer.rbvertex.org
@@ -19420,6 +19421,7 @@ rawfoodsnewsletter.com
 rawtestimonial.com
 rawtestimonials.com
 rawwow.com
+rayanmedi.com
 rayogley.net
 rayonsdelespoir.org
 rbvertex.org
