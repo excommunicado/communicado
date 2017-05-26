@@ -2580,6 +2580,7 @@ dramawitch.com
 dream-life-apps.com
 dreampirates.net
 dremfil.com
+dresco.co
 dresslily.org
 dresslink.org
 dribme.com
@@ -8583,6 +8584,7 @@ mailer.dramawitch.com
 mailer.dream-life-apps.com
 mailer.dreampirates.net
 mailer.dremfil.com
+mailer.dresco.co
 mailer.dresslily.org
 mailer.dresslink.org
 mailer.dribme.com
