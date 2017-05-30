@@ -16667,6 +16667,7 @@ mailer.wirelessrouterfix.com
 mailer.wirewealthy.com
 mailer.wiringdiagram.net
 mailer.wisataniaga.com
+mailer.wisdom-hotel.net
 mailer.wisdomtreeline.com
 mailer.wisroholda.co.uk
 mailer.wisroholde.co.uk
@@ -21977,6 +21978,7 @@ wirelessrouterfix.com
 wirewealthy.com
 wiringdiagram.net
 wisataniaga.com
+wisdom-hotel.net
 wisdomtreeline.com
 wisroholda.co.uk
 wisroholde.co.uk
