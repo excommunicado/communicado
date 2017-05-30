@@ -2585,6 +2585,7 @@ dresco.co
 dresslily.org
 dresslink.org
 dribme.com
+drivemag.co
 drjanet.co
 drkkpromotions.com
 dronefly.co
@@ -8591,6 +8592,7 @@ mailer.dresco.co
 mailer.dresslily.org
 mailer.dresslink.org
 mailer.dribme.com
+mailer.drivemag.co
 mailer.drjanet.co
 mailer.drkkpromotions.com
 mailer.dronefly.co
