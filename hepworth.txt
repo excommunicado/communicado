@@ -1811,6 +1811,7 @@ chocolatebarwrapper.com
 chooseandfinish.com
 chooselondonuk.com
 choosinguni.net
+chris-pine.co
 chriscleansbins.co.uk
 chriscleanscars.co.uk
 chromecastsetupsite.com
@@ -7820,6 +7821,7 @@ mailer.chocolatebarwrapper.com
 mailer.chooseandfinish.com
 mailer.chooselondonuk.com
 mailer.choosinguni.net
+mailer.chris-pine.co
 mailer.chriscleansbins.co.uk
 mailer.chriscleanscars.co.uk
 mailer.chromecastsetupsite.com
