@@ -2590,6 +2590,7 @@ dribme.com
 drivemag.co
 drjanet.co
 drkkpromotions.com
+droidforum.co
 dronefly.co
 droneitude.com
 dropolox.com
@@ -8600,6 +8601,7 @@ mailer.dribme.com
 mailer.drivemag.co
 mailer.drjanet.co
 mailer.drkkpromotions.com
+mailer.droidforum.co
 mailer.dronefly.co
 mailer.droneitude.com
 mailer.dropolox.com
