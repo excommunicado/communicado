@@ -3697,6 +3697,7 @@ gethealthyzone.com
 getoldcar.com
 gettargetcoupon.com
 gettherightbike.com
+getwallpapers.co
 getyouraaron.com
 getyourhomebusiness.org
 getyourmoviemade.com
@@ -9710,6 +9711,7 @@ mailer.gethealthyzone.com
 mailer.getoldcar.com
 mailer.gettargetcoupon.com
 mailer.gettherightbike.com
+mailer.getwallpapers.co
 mailer.getyouraaron.com
 mailer.getyourhomebusiness.org
 mailer.getyourmoviemade.com
