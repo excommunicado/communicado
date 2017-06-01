@@ -4130,6 +4130,7 @@ hazeemc.net
 hb-one.com
 hbiproperties.com
 hbpdiet.org
+hdfreewallpaper.co
 hdo-hotel.net
 hdready.co
 hdtv4k.net
@@ -10145,6 +10146,7 @@ mailer.hazeemc.net
 mailer.hb-one.com
 mailer.hbiproperties.com
 mailer.hbpdiet.org
+mailer.hdfreewallpaper.co
 mailer.hdo-hotel.net
 mailer.hdready.co
 mailer.hdtv4k.net
