@@ -12763,6 +12763,7 @@ mailer.mymemberclubs.com
 mailer.myparadise.co
 mailer.mypositionhistory.com
 mailer.myprofitkey.com
+mailer.myrosybox.com
 mailer.myslide.co
 mailer.mysocialcash.com
 mailer.mysteriousevent.co.uk
@@ -18080,6 +18081,7 @@ mymemberclubs.com
 myparadise.co
 mypositionhistory.com
 myprofitkey.com
+myrosybox.com
 myslide.co
 mysocialcash.com
 mysteriousevent.co.uk
