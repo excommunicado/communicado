@@ -2448,6 +2448,7 @@ diffunia.co.uk
 digisubject.com
 digitalfundmanager.com
 digitalmoneymarkets.net
+digitalnau.com
 digitalthreadsembroidery.net
 digostia.co.uk
 digwall.com
@@ -8467,6 +8468,7 @@ mailer.diffunia.co.uk
 mailer.digisubject.com
 mailer.digitalfundmanager.com
 mailer.digitalmoneymarkets.net
+mailer.digitalnau.com
 mailer.digitalthreadsembroidery.net
 mailer.digostia.co.uk
 mailer.digwall.com
