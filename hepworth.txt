@@ -1122,6 +1122,7 @@ bixxstore.com
 biz5.net
 biz8.net
 bizozit.com
+bizzhome.co
 bjjodyssey.com
 bksab.com
 bl-bl.co
@@ -7147,6 +7148,7 @@ mailer.bixxstore.com
 mailer.biz5.net
 mailer.biz8.net
 mailer.bizozit.com
+mailer.bizzhome.co
 mailer.bjjodyssey.com
 mailer.bksab.com
 mailer.bl-bl.co
