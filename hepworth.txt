@@ -2801,6 +2801,7 @@ educationmalaysian.com
 eduhypnosis.com
 edulancer.com
 edupluslanka.org
+edwardj.co
 eebbooks.co
 efficientblog.com
 efinancetips.org
@@ -8825,6 +8826,7 @@ mailer.educationmalaysian.com
 mailer.eduhypnosis.com
 mailer.edulancer.com
 mailer.edupluslanka.org
+mailer.edwardj.co
 mailer.eebbooks.co
 mailer.efficientblog.com
 mailer.efinancetips.org
