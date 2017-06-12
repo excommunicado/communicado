@@ -17175,6 +17175,7 @@ mailer.yourcreditscoreguide.com
 mailer.yourfitterlife.com
 mailer.yourfreeonlinesuccess.com
 mailer.yourhealthymedicalinfo.com
+mailer.yourinsurancequotetoday.com
 mailer.yournewhealthsolutions.com
 mailer.yourstandingdesk.com
 mailer.yoursuccesstrk.com
@@ -22501,6 +22502,7 @@ yourcreditscoreguide.com
 yourfitterlife.com
 yourfreeonlinesuccess.com
 yourhealthymedicalinfo.com
+yourinsurancequotetoday.com
 yournewhealthsolutions.com
 yourstandingdesk.com
 yoursuccesstrk.com
