@@ -47,6 +47,7 @@
 ENTARHOME.co
 HOMEDITY.CO
 MAGICWORDS.co
+ROOFINGQUOTES.co
 WILDROSEBREWERY.co
 a-g-a.org
 aaahoteldeals.com
@@ -6086,6 +6087,7 @@ mailer.9frog.com
 mailer.ENTARHOME.co
 mailer.HOMEDITY.CO
 mailer.MAGICWORDS.co
+mailer.ROOFINGQUOTES.co
 mailer.WILDROSEBREWERY.co
 mailer.a-g-a.org
 mailer.aaahoteldeals.com
