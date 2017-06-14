@@ -14467,6 +14467,7 @@ mailer.romaco.co
 mailer.rometravels.net
 mailer.rondadigital.com
 mailer.rongpencil.net
+mailer.roofingquotes.co
 mailer.rooflet.com
 mailer.rookmusic.com
 mailer.rookprime.com
@@ -19800,6 +19801,7 @@ romaco.co
 rometravels.net
 rondadigital.com
 rongpencil.net
+roofingquotes.co
 rooflet.com
 rookmusic.com
 rookprime.com
