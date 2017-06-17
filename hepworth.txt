@@ -3505,6 +3505,7 @@ freya-tingley.org
 fridgebits.com
 fridgemagnetic.com
 friendtm.com
+friendz.org
 frontwebtv.com
 frostnode.com
 frozen-lotus.com
@@ -9552,6 +9553,7 @@ mailer.freya-tingley.org
 mailer.fridgebits.com
 mailer.fridgemagnetic.com
 mailer.friendtm.com
+mailer.friendz.org
 mailer.frontwebtv.com
 mailer.frostnode.com
 mailer.frozen-lotus.com
