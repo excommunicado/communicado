@@ -16585,6 +16585,7 @@ mailer.weare8.co
 mailer.weare8.net
 mailer.weare8.org
 mailer.weatheraudio.net
+mailer.web-life.org
 mailer.web-service-companies.com
 mailer.web2splash.com
 mailer.webbihosti.com
@@ -21925,6 +21926,7 @@ weare8.co
 weare8.net
 weare8.org
 weatheraudio.net
+web-life.org
 web-service-companies.com
 web2splash.com
 webbihosti.com
