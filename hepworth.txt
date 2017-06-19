@@ -2861,6 +2861,7 @@ elysiancraft.com
 elysium-hosting.com
 email.exploreltd.com
 emailsignals.com
+emeabanker.com
 emerahara.co.uk
 emerahare.co.uk
 emerahari.co.uk
@@ -8912,6 +8913,7 @@ mailer.elysiancraft.com
 mailer.elysium-hosting.com
 mailer.email.exploreltd.com
 mailer.emailsignals.com
+mailer.emeabanker.com
 mailer.emerahara.co.uk
 mailer.emerahare.co.uk
 mailer.emerahari.co.uk
