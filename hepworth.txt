@@ -5451,6 +5451,7 @@ korealife.org
 koronadalo.co.uk
 kostclick.com
 kotadam.com
+kpearsoninsurance.com
 kpopv.com
 kraftert.com
 kratorpedo.net
@@ -11504,6 +11505,7 @@ mailer.korealife.org
 mailer.koronadalo.co.uk
 mailer.kostclick.com
 mailer.kotadam.com
+mailer.kpearsoninsurance.com
 mailer.kpopv.com
 mailer.kraftert.com
 mailer.kratorpedo.net
