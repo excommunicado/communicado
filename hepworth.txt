@@ -1844,6 +1844,7 @@ citigyo.com
 citizensatovi.com
 citrescon.co.uk
 civilrefinement.com
+clancode.org
 clanduell.com
 clanshub.com
 claremking.org
@@ -7899,6 +7900,7 @@ mailer.citigyo.com
 mailer.citizensatovi.com
 mailer.citrescon.co.uk
 mailer.civilrefinement.com
+mailer.clancode.org
 mailer.clanduell.com
 mailer.clanshub.com
 mailer.claremking.org
