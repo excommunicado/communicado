@@ -14894,6 +14894,7 @@ mailer.shocollect.com
 mailer.shojiscreens.net
 mailer.shopbiz.co
 mailer.shoplicate.org
+mailer.shoplistpro.com
 mailer.shoplocalcabot.com
 mailer.shopmixx.com
 mailer.shoppify.net
@@ -20242,6 +20243,7 @@ shocollect.com
 shojiscreens.net
 shopbiz.co
 shoplicate.org
+shoplistpro.com
 shoplocalcabot.com
 shopmixx.com
 shoppify.net
