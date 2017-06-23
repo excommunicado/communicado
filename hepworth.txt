@@ -1574,6 +1574,7 @@ candance.org
 candijayla.co.uk
 candonisan.co.uk
 candontian.co.uk
+candpbrewery.com
 candrle.net
 canipaybycard.co.uk
 cankless.com
@@ -7640,6 +7641,7 @@ mailer.candance.org
 mailer.candijayla.co.uk
 mailer.candonisan.co.uk
 mailer.candontian.co.uk
+mailer.candpbrewery.com
 mailer.candrle.net
 mailer.canipaybycard.co.uk
 mailer.cankless.com
