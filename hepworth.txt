@@ -1249,6 +1249,7 @@ bookingteam.co.uk
 bookmarknow.net
 bookoe.com
 bookread.co
+booksdownloads.net
 bookshares.net
 bookspell.org
 booktail.org
@@ -7319,6 +7320,7 @@ mailer.bookingteam.co.uk
 mailer.bookmarknow.net
 mailer.bookoe.com
 mailer.bookread.co
+mailer.booksdownloads.net
 mailer.bookshares.net
 mailer.bookspell.org
 mailer.booktail.org
