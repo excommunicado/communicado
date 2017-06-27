@@ -159,6 +159,7 @@ adverteg.com
 adverups.com
 adverview.com
 adviaclicks.com
+advicecompass.com
 advicehowto.com
 advidere.com
 adviserpower.com
@@ -6230,6 +6231,7 @@ mailer.adverteg.com
 mailer.adverups.com
 mailer.adverview.com
 mailer.adviaclicks.com
+mailer.advicecompass.com
 mailer.advicehowto.com
 mailer.advidere.com
 mailer.adviserpower.com
