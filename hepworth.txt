@@ -5077,6 +5077,7 @@ jinosmedia.com
 jipapada.co.uk
 jliservice.com
 joaquine.co.uk
+job-net.co
 jobcontent.net
 jobfindingguide.com
 joblifetodays.com
@@ -11149,6 +11150,7 @@ mailer.jinosmedia.com
 mailer.jipapada.co.uk
 mailer.jliservice.com
 mailer.joaquine.co.uk
+mailer.job-net.co
 mailer.jobcontent.net
 mailer.jobfindingguide.com
 mailer.joblifetodays.com
