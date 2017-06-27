@@ -1193,6 +1193,7 @@ blogfortravel.com
 bloghopping.net
 blogmt.net
 blogpot.co
+blogpulse.co
 blowforge.com
 blowhart.com
 bluejeansandrain.org
@@ -7268,6 +7269,7 @@ mailer.blogfortravel.com
 mailer.bloghopping.net
 mailer.blogmt.net
 mailer.blogpot.co
+mailer.blogpulse.co
 mailer.blowforge.com
 mailer.blowhart.com
 mailer.bluejeansandrain.org
