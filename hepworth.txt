@@ -1973,6 +1973,7 @@ consultingdirectory.org
 consultingtip.com
 consultultra.com
 consumeandadapt.com
+consumerclues.com
 contentfound.com
 conventionsandgatherings.com
 cookschoice.org
@@ -8046,6 +8047,7 @@ mailer.consultingdirectory.org
 mailer.consultingtip.com
 mailer.consultultra.com
 mailer.consumeandadapt.com
+mailer.consumerclues.com
 mailer.contentfound.com
 mailer.conventionsandgatherings.com
 mailer.cookschoice.org
