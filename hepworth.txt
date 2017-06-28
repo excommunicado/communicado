@@ -2248,6 +2248,7 @@ dapitanto.co.uk
 dappslist.com
 daraganol.co.uk
 daramsona.co.uk
+darcboard.com
 darkfalls.org
 dasfunny.com
 dashmihok.com
@@ -8324,6 +8325,7 @@ mailer.dapitanto.co.uk
 mailer.dappslist.com
 mailer.daraganol.co.uk
 mailer.daramsona.co.uk
+mailer.darcboard.com
 mailer.darkfalls.org
 mailer.dasfunny.com
 mailer.dashmihok.com
