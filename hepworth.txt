@@ -17295,6 +17295,7 @@ mailer.yournewhealthsolutions.com
 mailer.yourstandingdesk.com
 mailer.yoursuccesstrk.com
 mailer.yourtruetones.com
+mailer.yourvine.co
 mailer.youtafsa.co.uk
 mailer.youtocap.co.uk
 mailer.youtowse.co.uk
@@ -22653,6 +22654,7 @@ yournewhealthsolutions.com
 yourstandingdesk.com
 yoursuccesstrk.com
 yourtruetones.com
+yourvine.co
 youtafsa.co.uk
 youtocap.co.uk
 youtowse.co.uk
