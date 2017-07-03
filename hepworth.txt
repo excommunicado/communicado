@@ -1294,6 +1294,7 @@ brandkrazy.com
 brankerz.com
 brassnetwork.com
 brasspennies.com
+bravefrontier.co
 breakestate.com
 breederivy.co
 brefauti.com
@@ -7379,6 +7380,7 @@ mailer.brandkrazy.com
 mailer.brankerz.com
 mailer.brassnetwork.com
 mailer.brasspennies.com
+mailer.bravefrontier.co
 mailer.breakestate.com
 mailer.breederivy.co
 mailer.brefauti.com
