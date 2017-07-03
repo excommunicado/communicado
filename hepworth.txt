@@ -13879,6 +13879,7 @@ mailer.petermansell.org
 mailer.petesreport.net
 mailer.petiteoliver.com
 mailer.petooutjet.com
+mailer.petrojournal.com
 mailer.petus.org
 mailer.pgmillard.com
 mailer.phanvanhao.net
@@ -19241,6 +19242,7 @@ petermansell.org
 petesreport.net
 petiteoliver.com
 petooutjet.com
+petrojournal.com
 petus.org
 pgmillard.com
 phanvanhao.net
