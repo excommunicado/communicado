@@ -15790,6 +15790,7 @@ mailer.tinydude.com
 mailer.tinyhouserealtor.com
 mailer.tinyside.com
 mailer.tinywallet.org
+mailer.tips-news-reviews.com
 mailer.tisand.com
 mailer.tisns.com
 mailer.titaniumnetwork.org
@@ -21153,6 +21154,7 @@ tinydude.com
 tinyhouserealtor.com
 tinyside.com
 tinywallet.org
+tips-news-reviews.com
 tisand.com
 tisns.com
 titaniumnetwork.org
