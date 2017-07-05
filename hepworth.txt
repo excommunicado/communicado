@@ -14933,6 +14933,7 @@ mailer.sharegifs.com
 mailer.shareholdergroup.org
 mailer.shareholdersgroup.org
 mailer.sharemca.net
+mailer.sharepictures.co
 mailer.sharesnets.net
 mailer.sharonatduke.com
 mailer.sharpcoins.com
@@ -20299,6 +20300,7 @@ sharegifs.com
 shareholdergroup.org
 shareholdersgroup.org
 sharemca.net
+sharepictures.co
 sharesnets.net
 sharonatduke.com
 sharpcoins.com
