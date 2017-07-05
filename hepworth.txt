@@ -15663,6 +15663,7 @@ mailer.thecitrusgrille.com
 mailer.theclassicwatches.com
 mailer.theclosetmarketer.com
 mailer.theclosetmarketer.net
+mailer.thecommerceguide.com
 mailer.thecreationcrew.com
 mailer.thecrew-hq.com
 mailer.thecreweu.com
@@ -21030,6 +21031,7 @@ thecitrusgrille.com
 theclassicwatches.com
 theclosetmarketer.com
 theclosetmarketer.net
+thecommerceguide.com
 thecreationcrew.com
 thecrew-hq.com
 thecreweu.com
