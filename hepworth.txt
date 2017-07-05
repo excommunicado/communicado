@@ -1927,6 +1927,7 @@ cogollo.co
 cografyabilgi.com
 coinceinvest.com
 coingringo.com
+coinitrage.com
 coinmark.net
 coinmark.org
 cointrone.com
@@ -8016,6 +8017,7 @@ mailer.cogollo.co
 mailer.cografyabilgi.com
 mailer.coinceinvest.com
 mailer.coingringo.com
+mailer.coinitrage.com
 mailer.coinmark.net
 mailer.coinmark.org
 mailer.cointrone.com
