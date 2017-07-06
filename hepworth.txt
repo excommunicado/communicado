@@ -5875,6 +5875,7 @@ loaybunost.co.uk
 loboboloro.co.uk
 loboclobon.co.uk
 lobsterwood.com
+localcolour.co
 localirishpub.com
 localnewsreport.net
 locanewportri.com
@@ -11968,6 +11969,7 @@ mailer.loaybunost.co.uk
 mailer.loboboloro.co.uk
 mailer.loboclobon.co.uk
 mailer.lobsterwood.com
+mailer.localcolour.co
 mailer.localirishpub.com
 mailer.localnewsreport.net
 mailer.locanewportri.com
