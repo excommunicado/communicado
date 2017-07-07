@@ -2591,6 +2591,7 @@ dotnom.ca
 dotnom.co
 dotnom.net
 dotnom.org
+doudout.com
 dougsdirect.com
 doveandsnake.com
 dowlive.com
@@ -8685,6 +8686,7 @@ mailer.dotnom.ca
 mailer.dotnom.co
 mailer.dotnom.net
 mailer.dotnom.org
+mailer.doudout.com
 mailer.dougsdirect.com
 mailer.doveandsnake.com
 mailer.dowlive.com
