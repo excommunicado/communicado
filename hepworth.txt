@@ -15094,6 +15094,7 @@ mailer.skinnyreader.com
 mailer.skisport.co
 mailer.sknowbst.com
 mailer.skrajna.com
+mailer.skyactivity.com
 mailer.skyecomship.com
 mailer.skylanderscodes.com
 mailer.slacka.net
@@ -20467,6 +20468,7 @@ skinnyreader.com
 skisport.co
 sknowbst.com
 skrajna.com
+skyactivity.com
 skyecomship.com
 skylanderscodes.com
 slacka.net
