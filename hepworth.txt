@@ -2984,6 +2984,7 @@ epalmetum.com
 epdrama.org
 epeso.co
 epicedphotography.com
+epicmedia.co
 epochalmoney.com
 epochjournal.org
 epomhost.com
@@ -9089,6 +9090,7 @@ mailer.epalmetum.com
 mailer.epdrama.org
 mailer.epeso.co
 mailer.epicedphotography.com
+mailer.epicmedia.co
 mailer.epochalmoney.com
 mailer.epochjournal.org
 mailer.epomhost.com
