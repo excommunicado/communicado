@@ -14418,6 +14418,7 @@ mailer.redstoneservers.com
 mailer.redstoneservers.org
 mailer.redwoodrainforest.org
 mailer.referurl.net
+mailer.reficomparison.com
 mailer.refinedthrifts.com
 mailer.refisecurity.com
 mailer.refocusd.co
@@ -19792,6 +19793,7 @@ redstoneservers.com
 redstoneservers.org
 redwoodrainforest.org
 referurl.net
+reficomparison.com
 refinedthrifts.com
 refisecurity.com
 refocusd.co
