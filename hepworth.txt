@@ -2338,6 +2338,7 @@ dedcumode.co.uk
 dedcumodra.co.uk
 dedcumods.co.uk
 dedcumody.co.uk
+defiancecnc.com
 degreelift.com
 deimpian.com
 deivoo.net
@@ -8446,6 +8447,7 @@ mailer.dedcumode.co.uk
 mailer.dedcumodra.co.uk
 mailer.dedcumods.co.uk
 mailer.dedcumody.co.uk
+mailer.defiancecnc.com
 mailer.degreelift.com
 mailer.deimpian.com
 mailer.deivoo.net
