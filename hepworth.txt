@@ -14158,6 +14158,7 @@ mailer.prisonescape.net
 mailer.privacyforums.net
 mailer.privacyinn.net
 mailer.privateequity24.com
+mailer.prixdelor.co
 mailer.prizedmetals.com
 mailer.proactivereach.com
 mailer.probizinabox.com
@@ -19538,6 +19539,7 @@ prisonescape.net
 privacyforums.net
 privacyinn.net
 privateequity24.com
+prixdelor.co
 prizedmetals.com
 proactivereach.com
 probizinabox.com
