@@ -5230,6 +5230,7 @@ kabalasana.co.uk
 kabangkala.co.uk
 kabayandio.co.uk
 kabugaolos.co.uk
+kabuk.co
 kabunsuano.co.uk
 kabuntulas.co.uk
 kacaduntive.co.uk
@@ -11341,6 +11342,7 @@ mailer.kabalasana.co.uk
 mailer.kabangkala.co.uk
 mailer.kabayandio.co.uk
 mailer.kabugaolos.co.uk
+mailer.kabuk.co
 mailer.kabunsuano.co.uk
 mailer.kabuntulas.co.uk
 mailer.kacaduntive.co.uk
