@@ -4966,6 +4966,7 @@ jamesmclean.org
 jamindan.co.uk
 janiuays.co.uk
 jankgausfod.com
+janysrestaurant.com
 japanlife.org
 jaronex.com
 jaronsbest.com
@@ -11080,6 +11081,7 @@ mailer.jamesmclean.org
 mailer.jamindan.co.uk
 mailer.janiuays.co.uk
 mailer.jankgausfod.com
+mailer.janysrestaurant.com
 mailer.japanlife.org
 mailer.jaronex.com
 mailer.jaronsbest.com
