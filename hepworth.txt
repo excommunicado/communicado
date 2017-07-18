@@ -4714,6 +4714,7 @@ info-on-finance.com
 info-online.org
 info-streams.net
 infocorner.org
+infodesa.co
 informyourfamily.com
 infosehat.co
 infrapics.com
@@ -10835,6 +10836,7 @@ mailer.info-on-finance.com
 mailer.info-online.org
 mailer.info-streams.net
 mailer.infocorner.org
+mailer.infodesa.co
 mailer.informyourfamily.com
 mailer.infosehat.co
 mailer.infrapics.com
