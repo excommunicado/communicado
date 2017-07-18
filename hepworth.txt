@@ -4719,6 +4719,7 @@ infocorner.org
 infodesa.co
 informyourfamily.com
 infosehat.co
+infotekno.co
 infrapics.com
 infusi.co
 ing-pb.org
@@ -10843,6 +10844,7 @@ mailer.infocorner.org
 mailer.infodesa.co
 mailer.informyourfamily.com
 mailer.infosehat.co
+mailer.infotekno.co
 mailer.infrapics.com
 mailer.infusi.co
 mailer.ing-pb.org
