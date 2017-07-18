@@ -1931,6 +1931,7 @@ codesilent.com
 codiuslabs.com
 coffee-stuff.com
 coffeeblog.co
+cognitivetechnical.com
 cogollo.co
 cografyabilgi.com
 coinceinvest.com
@@ -8053,6 +8054,7 @@ mailer.codesilent.com
 mailer.codiuslabs.com
 mailer.coffee-stuff.com
 mailer.coffeeblog.co
+mailer.cognitivetechnical.com
 mailer.cogollo.co
 mailer.cografyabilgi.com
 mailer.coinceinvest.com
