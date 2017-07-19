@@ -668,6 +668,7 @@ autodb.co
 autojsapp.com
 autoleasecalculator.org
 automakerguide.com
+automatedcarmart.com
 automodif.net
 autopilotincomebusiness.com
 avalonatlarge.com
@@ -6795,6 +6796,7 @@ mailer.autodb.co
 mailer.autojsapp.com
 mailer.autoleasecalculator.org
 mailer.automakerguide.com
+mailer.automatedcarmart.com
 mailer.automodif.net
 mailer.autopilotincomebusiness.com
 mailer.avalonatlarge.com
