@@ -5506,6 +5506,7 @@ knowmyrx.co
 koalatips.com
 kobusinesstraining.com
 kohlsgives.com
+koklucu.com
 koko80.com
 kolambogau.co.uk
 kolcampaign.com
@@ -11635,6 +11636,7 @@ mailer.knowmyrx.co
 mailer.koalatips.com
 mailer.kobusinesstraining.com
 mailer.kohlsgives.com
+mailer.koklucu.com
 mailer.koko80.com
 mailer.kolambogau.co.uk
 mailer.kolcampaign.com
