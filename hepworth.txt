@@ -5536,6 +5536,7 @@ kruvuile.co.uk
 krystalepic.com
 krystalrae.co
 ksamundsen.com
+ksapata.com
 kslevideo.com
 kssma.org
 ktcheem.net
@@ -11664,6 +11665,7 @@ mailer.kruvuile.co.uk
 mailer.krystalepic.com
 mailer.krystalrae.co
 mailer.ksamundsen.com
+mailer.ksapata.com
 mailer.kslevideo.com
 mailer.kssma.org
 mailer.ktcheem.net
