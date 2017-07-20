@@ -14305,6 +14305,7 @@ mailer.qmedie.com
 mailer.qnmmc.org
 mailer.qr-transfer.net
 mailer.qriah.com
+mailer.qrmedia.co
 mailer.qtorial.com
 mailer.quadranteng.com
 mailer.quality4mastery.com
@@ -19694,6 +19695,7 @@ qmedie.com
 qnmmc.org
 qr-transfer.net
 qriah.com
+qrmedia.co
 qtorial.com
 quadranteng.com
 quality4mastery.com
