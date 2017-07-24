@@ -12782,6 +12782,7 @@ mailer.mindonnature.com
 mailer.mindoronos.co.uk
 mailer.mindthegapradio.com
 mailer.minecraftpeople.com
+mailer.minecraftwallpapers.co
 mailer.mineforbits.com
 mailer.minelske.com
 mailer.minepanda.net
@@ -18182,6 +18183,7 @@ mindonnature.com
 mindoronos.co.uk
 mindthegapradio.com
 minecraftpeople.com
+minecraftwallpapers.co
 mineforbits.com
 minelske.com
 minepanda.net
