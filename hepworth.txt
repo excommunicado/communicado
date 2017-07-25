@@ -15250,6 +15250,7 @@ mailer.sobbes.com
 mailer.socalrx.org
 mailer.soceur-arma.org
 mailer.sochmiennay.net
+mailer.social-bots.org
 mailer.socialactiveness.com
 mailer.socialcloudbackup.com
 mailer.socialengage.co
@@ -20653,6 +20654,7 @@ sobbes.com
 socalrx.org
 soceur-arma.org
 sochmiennay.net
+social-bots.org
 socialactiveness.com
 socialcloudbackup.com
 socialengage.co
