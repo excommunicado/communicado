@@ -1644,6 +1644,7 @@ caramoana.co.uk
 caramoran.co.uk
 carasiien.co.uk
 carasports.com
+caravassilis.net
 carbohara.co.uk
 carbohare.co.uk
 carbohari.co.uk
@@ -7778,6 +7779,7 @@ mailer.caramoana.co.uk
 mailer.caramoran.co.uk
 mailer.carasiien.co.uk
 mailer.carasports.com
+mailer.caravassilis.net
 mailer.carbohara.co.uk
 mailer.carbohare.co.uk
 mailer.carbohari.co.uk
