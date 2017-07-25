@@ -44,6 +44,7 @@
 99goodjobs.com
 99skill.org
 9frog.com
+DOWNLOADWALLPAPER.co
 ENTARHOME.co
 EVOLUTIONMEDIA.co
 HOMEDITY.CO
@@ -6180,6 +6181,7 @@ mailer.99core.com
 mailer.99goodjobs.com
 mailer.99skill.org
 mailer.9frog.com
+mailer.DOWNLOADWALLPAPER.co
 mailer.ENTARHOME.co
 mailer.EVOLUTIONMEDIA.co
 mailer.HOMEDITY.CO
