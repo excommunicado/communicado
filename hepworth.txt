@@ -1241,6 +1241,7 @@ boholnia.co.uk
 boitenoir.net
 bokodnon.co.uk
 bolabolu.com
+boldwithgrace.org
 bolinaon.co.uk
 bolineys.co.uk
 boljoona.co.uk
@@ -7383,6 +7384,7 @@ mailer.boholnia.co.uk
 mailer.boitenoir.net
 mailer.bokodnon.co.uk
 mailer.bolabolu.com
+mailer.boldwithgrace.org
 mailer.bolinaon.co.uk
 mailer.bolineys.co.uk
 mailer.boljoona.co.uk
