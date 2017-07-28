@@ -13895,6 +13895,7 @@ mailer.pastacasserole.com
 mailer.patagonianmara.com
 mailer.patentiraj.com
 mailer.patentmakr.com
+mailer.patientsfinder.org
 mailer.patmagee.org
 mailer.paydaydirecteloans.com
 mailer.payhound.co.uk
@@ -19308,6 +19309,7 @@ pastacasserole.com
 patagonianmara.com
 patentiraj.com
 patentmakr.com
+patientsfinder.org
 patmagee.org
 paydaydirecteloans.com
 payhound.co.uk
