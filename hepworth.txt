@@ -1927,6 +1927,7 @@ cn-nutrition.net
 cngla.com
 cnpmerchantsolutions.com
 coastf.com
+cobalagi.net
 cobms.com
 cocbaselayout.co
 cocoarocks.com
@@ -8071,6 +8072,7 @@ mailer.cn-nutrition.net
 mailer.cngla.com
 mailer.cnpmerchantsolutions.com
 mailer.coastf.com
+mailer.cobalagi.net
 mailer.cobms.com
 mailer.cocbaselayout.co
 mailer.cocoarocks.com
