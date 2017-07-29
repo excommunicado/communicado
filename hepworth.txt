@@ -14058,6 +14058,7 @@ mailer.piibb.net
 mailer.piibb.org
 mailer.pikoplanet.com
 mailer.pilgrimriders.com
+mailer.pilsenalliance.org
 mailer.pingrglobe.com
 mailer.pingurl.net
 mailer.pininterior.com
@@ -19473,6 +19474,7 @@ piibb.net
 piibb.org
 pikoplanet.com
 pilgrimriders.com
+pilsenalliance.org
 pingrglobe.com
 pingurl.net
 pininterior.com
