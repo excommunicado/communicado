@@ -14705,6 +14705,7 @@ mailer.rocksketch.com
 mailer.rocount.com
 mailer.rodical.net
 mailer.rodqershealth.org
+mailer.rogerignaziophoto.com
 mailer.rogerignaziostudios.com
 mailer.rogoes.com
 mailer.rogue-it.com
@@ -20121,6 +20122,7 @@ rocksketch.com
 rocount.com
 rodical.net
 rodqershealth.org
+rogerignaziophoto.com
 rogerignaziostudios.com
 rogoes.com
 rogue-it.com
