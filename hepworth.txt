@@ -4207,6 +4207,7 @@ hartfolte.co.uk
 hartleyindependent.com
 hartlolte.co.uk
 hashdesk.com
+hashdevelopers.net
 hashtasks.com
 hasimport.com
 haskforum.com
@@ -10357,6 +10358,7 @@ mailer.hartfolte.co.uk
 mailer.hartleyindependent.com
 mailer.hartlolte.co.uk
 mailer.hashdesk.com
+mailer.hashdevelopers.net
 mailer.hashtasks.com
 mailer.hasimport.com
 mailer.haskforum.com
