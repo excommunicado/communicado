@@ -15091,6 +15091,7 @@ mailer.sharonatduke.com
 mailer.sharpcoins.com
 mailer.sharpenworld.com
 mailer.shavecloser.com
+mailer.shawncor.com
 mailer.shellybroughton.com
 mailer.shepardsdp.co
 mailer.shepardsdp.com
@@ -20517,6 +20518,7 @@ sharonatduke.com
 sharpcoins.com
 sharpenworld.com
 shavecloser.com
+shawncor.com
 shellybroughton.com
 shepardsdp.co
 shepardsdp.com
