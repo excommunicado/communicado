@@ -15414,6 +15414,7 @@ mailer.starsloaded.com
 mailer.starsofthenight.com
 mailer.starsongspk.com
 mailer.startfav.com
+mailer.startupsdeal.com
 mailer.startupshoot.com
 mailer.startuptrip.co
 mailer.staticonly.com
@@ -20841,6 +20842,7 @@ starsloaded.com
 starsofthenight.com
 starsongspk.com
 startfav.com
+startupsdeal.com
 startupshoot.com
 startuptrip.co
 staticonly.com
