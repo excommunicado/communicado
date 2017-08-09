@@ -1954,6 +1954,7 @@ coinmark.org
 cointrone.com
 colchesterrecordingstudio.co.uk
 coleslankard.net
+coleslankard.org
 collegetale.com
 colombiacoin.com
 colonyose.co.uk
@@ -8109,6 +8110,7 @@ mailer.coinmark.org
 mailer.cointrone.com
 mailer.colchesterrecordingstudio.co.uk
 mailer.coleslankard.net
+mailer.coleslankard.org
 mailer.collegetale.com
 mailer.colombiacoin.com
 mailer.colonyose.co.uk
