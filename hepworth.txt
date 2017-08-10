@@ -15540,6 +15540,7 @@ mailer.surgenetwork.co
 mailer.surgeonsocial.com
 mailer.surgeontrust.org
 mailer.surgeonzone.co
+mailer.surgeonzone.com
 mailer.surgeonzone.org
 mailer.surrey-bb.org
 mailer.surroga.org
@@ -20982,6 +20983,7 @@ surgenetwork.co
 surgeonsocial.com
 surgeontrust.org
 surgeonzone.co
+surgeonzone.com
 surgeonzone.org
 surrey-bb.org
 surroga.org
