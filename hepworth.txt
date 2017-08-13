@@ -15262,6 +15262,7 @@ mailer.skylanderscodes.com
 mailer.slacka.net
 mailer.slackable.co
 mailer.slackable.org
+mailer.slackchats.net
 mailer.slahda.org
 mailer.slashzone.net
 mailer.slegellaw.com
@@ -20711,6 +20712,7 @@ skylanderscodes.com
 slacka.net
 slackable.co
 slackable.org
+slackchats.net
 slahda.org
 slashzone.net
 slegellaw.com
