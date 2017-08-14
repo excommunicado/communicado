@@ -6145,6 +6145,7 @@ magicbulletaccessories.net
 magicgods.com
 magicsurveybuilder.com
 magicwords.co
+magicwordspress.co
 magiksgeo.com
 magnificientlife.com
 magpeturet.co.uk
@@ -12305,6 +12306,7 @@ mailer.magicbulletaccessories.net
 mailer.magicgods.com
 mailer.magicsurveybuilder.com
 mailer.magicwords.co
+mailer.magicwordspress.co
 mailer.magiksgeo.com
 mailer.magnificientlife.com
 mailer.magpeturet.co.uk
