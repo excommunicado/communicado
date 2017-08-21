@@ -1977,6 +1977,7 @@ compostela.co.uk
 comprartelevision.net
 compressionshirts.net
 compromises.co
+compsol.co
 computersciencemajor.org
 computerworkstation.net
 comself.com
@@ -8143,6 +8144,7 @@ mailer.compostela.co.uk
 mailer.comprartelevision.net
 mailer.compressionshirts.net
 mailer.compromises.co
+mailer.compsol.co
 mailer.computersciencemajor.org
 mailer.computerworkstation.net
 mailer.comself.com
