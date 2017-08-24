@@ -2630,6 +2630,7 @@ dotnom.org
 doudout.com
 dougsdirect.com
 doveandsnake.com
+dovetailmaker.com
 dowlive.com
 downloaddriver.co
 downloadfullmovie.org
@@ -8801,6 +8802,7 @@ mailer.dotnom.org
 mailer.doudout.com
 mailer.dougsdirect.com
 mailer.doveandsnake.com
+mailer.dovetailmaker.com
 mailer.dowlive.com
 mailer.downloaddriver.co
 mailer.downloadfullmovie.org
