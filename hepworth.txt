@@ -15101,6 +15101,7 @@ mailer.sephill.com
 mailer.sepufar.com
 mailer.seraphis2.org
 mailer.serettamartin.com
+mailer.sernycap.com
 mailer.seros.co
 mailer.serprojectgenerator.com
 mailer.serpvideo.com
@@ -20560,6 +20561,7 @@ sephill.com
 sepufar.com
 seraphis2.org
 serettamartin.com
+sernycap.com
 seros.co
 serprojectgenerator.com
 serpvideo.com
