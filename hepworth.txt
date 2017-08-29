@@ -15236,6 +15236,7 @@ mailer.siloneuryt.co.uk
 mailer.silvapallets.com
 mailer.silver401krollover.com
 mailer.silverbullionbuilder.com
+mailer.silvercarpets.com
 mailer.silverfoxpresents.com
 mailer.silvergateproperty.com
 mailer.silveriniras.com
@@ -20697,6 +20698,7 @@ siloneuryt.co.uk
 silvapallets.com
 silver401krollover.com
 silverbullionbuilder.com
+silvercarpets.com
 silverfoxpresents.com
 silvergateproperty.com
 silveriniras.com
