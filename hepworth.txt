@@ -14459,6 +14459,7 @@ mailer.quickmoneyblueprint.co
 mailer.quicksilversolutionsllc.com
 mailer.quickstory.net
 mailer.quickwealthblueprint.co
+mailer.quintasco.com
 mailer.quioprella.co.uk
 mailer.quioprelle.co.uk
 mailer.quitargranos.com
@@ -19919,6 +19920,7 @@ quickmoneyblueprint.co
 quicksilversolutionsllc.com
 quickstory.net
 quickwealthblueprint.co
+quintasco.com
 quioprella.co.uk
 quioprelle.co.uk
 quitargranos.com
