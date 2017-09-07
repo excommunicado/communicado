@@ -2529,6 +2529,7 @@ digitalfundmanager.com
 digitalmoneymarkets.net
 digitalnau.com
 digitalthreadsembroidery.net
+digiticious.com
 digostia.co.uk
 digwall.com
 dijoauthority.com
@@ -8718,6 +8719,7 @@ mailer.digitalfundmanager.com
 mailer.digitalmoneymarkets.net
 mailer.digitalnau.com
 mailer.digitalthreadsembroidery.net
+mailer.digiticious.com
 mailer.digostia.co.uk
 mailer.digwall.com
 mailer.dijoauthority.com
