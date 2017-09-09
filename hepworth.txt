@@ -864,6 +864,7 @@ banguedese.co.uk
 banguityra.co.uk
 baniserra.co.uk
 banisilanda.co.uk
+banjieyang.com
 bank-invests.com
 bankbinaryoptions.com
 bankings.co
@@ -7057,6 +7058,7 @@ mailer.banguedese.co.uk
 mailer.banguityra.co.uk
 mailer.baniserra.co.uk
 mailer.banisilanda.co.uk
+mailer.banjieyang.com
 mailer.bank-invests.com
 mailer.bankbinaryoptions.com
 mailer.bankings.co
