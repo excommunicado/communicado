@@ -15700,6 +15700,7 @@ mailer.swissrep.co
 mailer.swooser.com
 mailer.swopabook.com
 mailer.swosher.com
+mailer.swsorecordings.com
 mailer.sxbig.com
 mailer.sydneynews.org
 mailer.synergonomics.com
@@ -21169,6 +21170,7 @@ swissrep.co
 swooser.com
 swopabook.com
 swosher.com
+swsorecordings.com
 sxbig.com
 sydneynews.org
 synergonomics.com
