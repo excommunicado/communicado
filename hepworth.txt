@@ -4965,6 +4965,7 @@ itbayata.co.uk
 itechnopolis.com
 itnf.co
 itnmediamarketing.com
+itnmediamarketing.org
 itobzor.net
 itogonis.co.uk
 itrap.co
@@ -11167,6 +11168,7 @@ mailer.itbayata.co.uk
 mailer.itechnopolis.com
 mailer.itnf.co
 mailer.itnmediamarketing.com
+mailer.itnmediamarketing.org
 mailer.itobzor.net
 mailer.itogonis.co.uk
 mailer.itrap.co
