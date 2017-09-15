@@ -2533,6 +2533,7 @@ digisubject.com
 digitalfundmanager.com
 digitalmoneymarkets.net
 digitalnau.com
+digitalrepocharter.com
 digitalthreadsembroidery.net
 digiticious.com
 digostia.co.uk
@@ -8737,6 +8738,7 @@ mailer.digisubject.com
 mailer.digitalfundmanager.com
 mailer.digitalmoneymarkets.net
 mailer.digitalnau.com
+mailer.digitalrepocharter.com
 mailer.digitalthreadsembroidery.net
 mailer.digiticious.com
 mailer.digostia.co.uk
