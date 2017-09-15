@@ -15559,6 +15559,7 @@ mailer.steadydollars.com
 mailer.steadyinv.com
 mailer.steamhotel.com
 mailer.steammurmystery.co.uk
+mailer.steelcospar.com
 mailer.stefanobottini.com
 mailer.stellarreign.com
 mailer.stellarreigngames.com
@@ -21032,6 +21033,7 @@ steadydollars.com
 steadyinv.com
 steamhotel.com
 steammurmystery.co.uk
+steelcospar.com
 stefanobottini.com
 stellarreign.com
 stellarreigngames.com
