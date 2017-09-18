@@ -1389,6 +1389,7 @@ bulgias.com
 bulknutsandseeds.com
 bulkshows.com
 bullansalju.com
+bullar.co
 bullcan.com
 bullionbunker.com
 bullionbunkers.com
@@ -7598,6 +7599,7 @@ mailer.bulgias.com
 mailer.bulknutsandseeds.com
 mailer.bulkshows.com
 mailer.bullansalju.com
+mailer.bullar.co
 mailer.bullcan.com
 mailer.bullionbunker.com
 mailer.bullionbunkers.com
