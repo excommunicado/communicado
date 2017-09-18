@@ -1612,6 +1612,7 @@ candonisan.co.uk
 candontian.co.uk
 candpbrewery.com
 candrle.net
+candyspoon.co
 canipaybycard.co.uk
 cankless.com
 canlaonter.co.uk
@@ -7820,6 +7821,7 @@ mailer.candonisan.co.uk
 mailer.candontian.co.uk
 mailer.candpbrewery.com
 mailer.candrle.net
+mailer.candyspoon.co
 mailer.canipaybycard.co.uk
 mailer.cankless.com
 mailer.canlaonter.co.uk
