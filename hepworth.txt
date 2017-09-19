@@ -1282,6 +1282,7 @@ booktail.org
 boolkley.com
 boomlift.org
 boomrotation.com
+boostercredit.com
 boostmyi.com
 bootner.com
 bootsby.com
@@ -7492,6 +7493,7 @@ mailer.booktail.org
 mailer.boolkley.com
 mailer.boomlift.org
 mailer.boomrotation.com
+mailer.boostercredit.com
 mailer.boostmyi.com
 mailer.bootner.com
 mailer.bootsby.com
