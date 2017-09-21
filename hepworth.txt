@@ -2952,6 +2952,7 @@ elysiancraft.com
 elysium-hosting.com
 email.exploreltd.com
 emailsignals.com
+emarketplaza.co
 emarketscape.co
 emeabanker.com
 emerahara.co.uk
@@ -9166,6 +9167,7 @@ mailer.elysiancraft.com
 mailer.elysium-hosting.com
 mailer.email.exploreltd.com
 mailer.emailsignals.com
+mailer.emarketplaza.co
 mailer.emarketscape.co
 mailer.emeabanker.com
 mailer.emerahara.co.uk
