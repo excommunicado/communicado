@@ -16115,6 +16115,7 @@ mailer.tickerplugin.com
 mailer.ticketsbin.com
 mailer.ticketsreg.com
 mailer.tictocoffers.com
+mailer.tidyyourlife.co
 mailer.tidyzen.com
 mailer.tiendafurby.com
 mailer.tigeratlantic.com
@@ -21597,6 +21598,7 @@ tickerplugin.com
 ticketsbin.com
 ticketsreg.com
 tictocoffers.com
+tidyyourlife.co
 tidyzen.com
 tiendafurby.com
 tigeratlantic.com
