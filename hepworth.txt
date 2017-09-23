@@ -2447,6 +2447,7 @@ derprealm.com
 desfocado.net
 designalma.com
 designingworld.org
+deskfillers.com
 destinationselite.com
 destinedforcanvas.com
 destinyrings.com
@@ -8663,6 +8664,7 @@ mailer.derprealm.com
 mailer.desfocado.net
 mailer.designalma.com
 mailer.designingworld.org
+mailer.deskfillers.com
 mailer.destinationselite.com
 mailer.destinedforcanvas.com
 mailer.destinyrings.com
