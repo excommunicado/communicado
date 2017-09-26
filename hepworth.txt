@@ -2608,6 +2608,7 @@ dividenddiva.com
 dividenddiva.net
 divilaca.co.uk
 divinitytonic.com
+diwan-solution.com
 diwolla.com
 dixiecrow.org
 diyandcrafts.net
@@ -8828,6 +8829,7 @@ mailer.dividenddiva.com
 mailer.dividenddiva.net
 mailer.divilaca.co.uk
 mailer.divinitytonic.com
+mailer.diwan-solution.com
 mailer.diwolla.com
 mailer.dixiecrow.org
 mailer.diyandcrafts.net
