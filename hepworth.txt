@@ -6042,6 +6042,7 @@ losfaras.com
 losquenosabes.com
 lostcaps.net
 lotsonokie.com
+louatidesign.com
 loutafsa.co.uk
 loutocap.co.uk
 loutowse.co.uk
@@ -12266,6 +12267,7 @@ mailer.losfaras.com
 mailer.losquenosabes.com
 mailer.lostcaps.net
 mailer.lotsonokie.com
+mailer.louatidesign.com
 mailer.loutafsa.co.uk
 mailer.loutocap.co.uk
 mailer.loutowse.co.uk
