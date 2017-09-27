@@ -3221,6 +3221,7 @@ eyechat.net
 eyezerk.com
 eyirisedbm.com
 ezgocash.com
+ezshipexpress.com
 f1rules.com
 f24h.com
 fababreime.co.uk
@@ -9444,6 +9445,7 @@ mailer.eyechat.net
 mailer.eyezerk.com
 mailer.eyirisedbm.com
 mailer.ezgocash.com
+mailer.ezshipexpress.com
 mailer.f1rules.com
 mailer.f24h.com
 mailer.fababreime.co.uk
