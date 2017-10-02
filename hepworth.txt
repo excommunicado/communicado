@@ -15377,6 +15377,7 @@ mailer.simdisinema.com
 mailer.simenzi.com
 mailer.simonasgata.com
 mailer.simonecode.com
+mailer.simplecanvas.net
 mailer.simplecleanweb.com
 mailer.simplelandscapingdesigns.com
 mailer.simplelivingdaily.com
@@ -20866,6 +20867,7 @@ simdisinema.com
 simenzi.com
 simonasgata.com
 simonecode.com
+simplecanvas.net
 simplecleanweb.com
 simplelandscapingdesigns.com
 simplelivingdaily.com
