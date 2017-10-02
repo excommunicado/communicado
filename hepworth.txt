@@ -14261,6 +14261,7 @@ mailer.pixelplexnetwork.com
 mailer.pixeltileworld.com
 mailer.pixelunderworld.com
 mailer.pixelwound.com
+mailer.planetseed.org
 mailer.planetshort.com
 mailer.plant4fun.com
 mailer.plantrichkitchen.com
@@ -19753,6 +19754,7 @@ pixelplexnetwork.com
 pixeltileworld.com
 pixelunderworld.com
 pixelwound.com
+planetseed.org
 planetshort.com
 plant4fun.com
 plantrichkitchen.com
