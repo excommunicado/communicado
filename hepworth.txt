@@ -3342,6 +3342,7 @@ fascinating.co
 fasclapis.com
 fashionsponges.com
 fashmode.com
+fast-clientele.org
 fast-ptc.com
 fastandbigger.com
 fastassistant.com
@@ -9573,6 +9574,7 @@ mailer.fascinating.co
 mailer.fasclapis.com
 mailer.fashionsponges.com
 mailer.fashmode.com
+mailer.fast-clientele.org
 mailer.fast-ptc.com
 mailer.fastandbigger.com
 mailer.fastassistant.com
