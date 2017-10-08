@@ -14453,6 +14453,7 @@ mailer.profileartis.com
 mailer.profit-generator.org
 mailer.profit-transfer.com
 mailer.profitbam.com
+mailer.profithq.net
 mailer.profitmagick.com
 mailer.profitopp.com
 mailer.profuly.com
@@ -19954,6 +19955,7 @@ profileartis.com
 profit-generator.org
 profit-transfer.com
 profitbam.com
+profithq.net
 profitmagick.com
 profitopp.com
 profuly.com
