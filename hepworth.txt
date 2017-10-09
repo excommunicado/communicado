@@ -13829,6 +13829,7 @@ mailer.opensimads.com
 mailer.opensprites.org
 mailer.opentechworld.com
 mailer.openthreshold.org
+mailer.openurban.org
 mailer.operacaooutono.com
 mailer.operationgain.com
 mailer.operazionibinarie.com
@@ -19331,6 +19332,7 @@ opensimads.com
 opensprites.org
 opentechworld.com
 openthreshold.org
+openurban.org
 operacaooutono.com
 operationgain.com
 operazionibinarie.com
