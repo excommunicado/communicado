@@ -26,6 +26,7 @@
 365ext.com
 365photos.net
 3dprintout.org
+3minutehealth.net
 4genspec.com
 4sharez.org
 52sky.org
@@ -6262,6 +6263,7 @@ mailer.360narrative.com
 mailer.365ext.com
 mailer.365photos.net
 mailer.3dprintout.org
+mailer.3minutehealth.net
 mailer.4genspec.com
 mailer.4sharez.org
 mailer.52sky.org
