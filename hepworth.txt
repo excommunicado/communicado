@@ -13211,6 +13211,7 @@ mailer.myelementanalysis.com
 mailer.myelpp.com
 mailer.myestorbuilder.com
 mailer.myestorbuilder.net
+mailer.myfairlending.com
 mailer.myfloorplandesign.com
 mailer.myfoodiefitpal.com
 mailer.mygfxnxn.com
@@ -18717,6 +18718,7 @@ myelementanalysis.com
 myelpp.com
 myestorbuilder.com
 myestorbuilder.net
+myfairlending.com
 myfloorplandesign.com
 myfoodiefitpal.com
 mygfxnxn.com
