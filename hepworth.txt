@@ -2575,6 +2575,7 @@ diningfoldingtables.com
 diningtablefarm.com
 dipacula.co.uk
 diplahan.co.uk
+diplomatic-shipment.com
 dipologe.co.uk
 directionteam.com
 dirlaguela.co.uk
@@ -8812,6 +8813,7 @@ mailer.diningfoldingtables.com
 mailer.diningtablefarm.com
 mailer.dipacula.co.uk
 mailer.diplahan.co.uk
+mailer.diplomatic-shipment.com
 mailer.dipologe.co.uk
 mailer.directionteam.com
 mailer.dirlaguela.co.uk
