@@ -56,6 +56,7 @@ WILDROSEBREWERY.co
 a-g-a.org
 aaahoteldeals.com
 abaduega.co.uk
+abayeci.com
 abbaglin.co.uk
 abbotolnse.co.uk
 abbotolte.co.uk
@@ -6299,6 +6300,7 @@ mailer.WILDROSEBREWERY.co
 mailer.a-g-a.org
 mailer.aaahoteldeals.com
 mailer.abaduega.co.uk
+mailer.abayeci.com
 mailer.abbaglin.co.uk
 mailer.abbotolnse.co.uk
 mailer.abbotolte.co.uk
