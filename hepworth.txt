@@ -1311,6 +1311,7 @@ bootstrapmarketer.com
 booxes.org
 borbonda.co.uk
 borgdao.org
+borgem.org
 borjanol.co.uk
 borongan.co.uk
 bossclix.com
@@ -7567,6 +7568,7 @@ mailer.bootstrapmarketer.com
 mailer.booxes.org
 mailer.borbonda.co.uk
 mailer.borgdao.org
+mailer.borgem.org
 mailer.borjanol.co.uk
 mailer.borongan.co.uk
 mailer.bossclix.com
