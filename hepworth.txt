@@ -15194,6 +15194,7 @@ mailer.scoobasquad.com
 mailer.scoopreportbrief.com
 mailer.scoperapp.co
 mailer.scopone.org
+mailer.scotrail.co
 mailer.scottdlunn.com
 mailer.scottybot.com
 mailer.scrapjobs.co
@@ -20706,6 +20707,7 @@ scoobasquad.com
 scoopreportbrief.com
 scoperapp.co
 scopone.org
+scotrail.co
 scottdlunn.com
 scottybot.com
 scrapjobs.co
