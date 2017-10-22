@@ -13019,6 +13019,7 @@ mailer.microframeworkprojects.com
 mailer.microgridsandbox.com
 mailer.microgridsupply.com
 mailer.microjobsclub.com
+mailer.microservicetraining.co
 mailer.mid-lifecommunicators.com
 mailer.midlifecommunicators.com
 mailer.midnightblossom.net
@@ -18532,6 +18533,7 @@ microframeworkprojects.com
 microgridsandbox.com
 microgridsupply.com
 microjobsclub.com
+microservicetraining.co
 mid-lifecommunicators.com
 midlifecommunicators.com
 midnightblossom.net
