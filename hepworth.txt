@@ -14537,6 +14537,7 @@ mailer.progressiveleague.org
 mailer.projectcrusade.com
 mailer.projectiontv.net
 mailer.projectlifemastery.net
+mailer.projectrasso.org
 mailer.projectsignalfire.com
 mailer.promesupport.com
 mailer.promisedlandcsa.net
@@ -20051,6 +20052,7 @@ progressiveleague.org
 projectcrusade.com
 projectiontv.net
 projectlifemastery.net
+projectrasso.org
 projectsignalfire.com
 promesupport.com
 promisedlandcsa.net
