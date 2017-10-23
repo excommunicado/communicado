@@ -14381,6 +14381,7 @@ mailer.pokafantaisie.com
 mailer.pokeboost.co
 mailer.pokepsy.com
 mailer.pokertruth.net
+mailer.polarfusion.org
 mailer.polintano.com
 mailer.polipfer.com
 mailer.polishhappy.com
@@ -19896,6 +19897,7 @@ pokafantaisie.com
 pokeboost.co
 pokepsy.com
 pokertruth.net
+polarfusion.org
 polintano.com
 polipfer.com
 polishhappy.com
