@@ -2165,6 +2165,7 @@ crowdcommodities.com
 crowdesy.com
 crowdfundflows.com
 crowdfundinglauncher.com
+crowdlands.com
 crowlolnse.co.uk
 crowlolte.co.uk
 crste.org
@@ -8436,6 +8437,7 @@ mailer.crowdcommodities.com
 mailer.crowdesy.com
 mailer.crowdfundflows.com
 mailer.crowdfundinglauncher.com
+mailer.crowdlands.com
 mailer.crowlolnse.co.uk
 mailer.crowlolte.co.uk
 mailer.crste.org
