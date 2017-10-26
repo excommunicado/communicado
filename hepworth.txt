@@ -1971,6 +1971,7 @@ cloudeprocuement.com
 cloudeprocure.com
 cloudpcure.com
 cloudtr.co
+cloudtraderapp.net
 cloudvideoplatforms.com
 cloudyeverste.com
 clover82.com
@@ -8244,6 +8245,7 @@ mailer.cloudeprocuement.com
 mailer.cloudeprocure.com
 mailer.cloudpcure.com
 mailer.cloudtr.co
+mailer.cloudtraderapp.net
 mailer.cloudvideoplatforms.com
 mailer.cloudyeverste.com
 mailer.clover82.com
