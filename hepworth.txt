@@ -1988,6 +1988,7 @@ cngla.com
 cnpmerchantsolutions.com
 coastf.com
 cobalagi.net
+cobarols.com
 cobms.com
 cocbaselayout.co
 cocoarocks.com
@@ -8265,6 +8266,7 @@ mailer.cngla.com
 mailer.cnpmerchantsolutions.com
 mailer.coastf.com
 mailer.cobalagi.net
+mailer.cobarols.com
 mailer.cobms.com
 mailer.cocbaselayout.co
 mailer.cocoarocks.com
