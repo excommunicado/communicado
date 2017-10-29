@@ -9,6 +9,7 @@
 123languages.com
 17psi.com
 1clickprofits.net
+1clickprofitz.net
 1goldmine.com
 1khits.com
 1ltc.com
@@ -6287,6 +6288,7 @@ mailer.11exito.org
 mailer.123languages.com
 mailer.17psi.com
 mailer.1clickprofits.net
+mailer.1clickprofitz.net
 mailer.1goldmine.com
 mailer.1khits.com
 mailer.1ltc.com
