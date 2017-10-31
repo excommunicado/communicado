@@ -3896,6 +3896,7 @@ getdnb.com
 getfreetvonline.net
 gethealthyzone.com
 getoldcar.com
+getsparkjoy.com
 gettargetcoupon.com
 gettherightbike.com
 getwallpapers.co
@@ -10178,6 +10179,7 @@ mailer.getdnb.com
 mailer.getfreetvonline.net
 mailer.gethealthyzone.com
 mailer.getoldcar.com
+mailer.getsparkjoy.com
 mailer.gettargetcoupon.com
 mailer.gettherightbike.com
 mailer.getwallpapers.co
