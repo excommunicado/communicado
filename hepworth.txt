@@ -5265,6 +5265,7 @@ jimadosh.org
 jimalalu.co.uk
 jimenezo.co.uk
 jinosmedia.com
+jinrimei.net
 jipapada.co.uk
 jliservice.com
 joaquine.co.uk
@@ -11549,6 +11550,7 @@ mailer.jimadosh.org
 mailer.jimalalu.co.uk
 mailer.jimenezo.co.uk
 mailer.jinosmedia.com
+mailer.jinrimei.net
 mailer.jipapada.co.uk
 mailer.jliservice.com
 mailer.joaquine.co.uk
