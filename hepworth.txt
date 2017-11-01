@@ -5989,6 +5989,7 @@ linematerial.net
 lingayenda.co.uk
 lingiglios.co.uk
 linkarticle.com
+linkriver.co
 linkrope.com
 linksoutletuk.com
 linkstream.co
@@ -12274,6 +12275,7 @@ mailer.linematerial.net
 mailer.lingayenda.co.uk
 mailer.lingiglios.co.uk
 mailer.linkarticle.com
+mailer.linkriver.co
 mailer.linkrope.com
 mailer.linksoutletuk.com
 mailer.linkstream.co
