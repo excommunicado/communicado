@@ -5670,6 +5670,7 @@ korealife.org
 koronadalo.co.uk
 kostclick.com
 kotadam.com
+kovalwire.com
 kpearsoninsurance.com
 kpopv.com
 kraftert.com
@@ -11959,6 +11960,7 @@ mailer.korealife.org
 mailer.koronadalo.co.uk
 mailer.kostclick.com
 mailer.kotadam.com
+mailer.kovalwire.com
 mailer.kpearsoninsurance.com
 mailer.kpopv.com
 mailer.kraftert.com
