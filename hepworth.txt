@@ -14477,6 +14477,7 @@ mailer.powersportsclassifieds.com
 mailer.ppp-ads.net
 mailer.practicebytes.com
 mailer.pragersys.com
+mailer.prajurit.org
 mailer.pre-paidfunerals.xyz
 mailer.preciosa.org
 mailer.precioushoney.com
@@ -20002,6 +20003,7 @@ powersportsclassifieds.com
 ppp-ads.net
 practicebytes.com
 pragersys.com
+prajurit.org
 pre-paidfunerals.xyz
 preciosa.org
 precioushoney.com
