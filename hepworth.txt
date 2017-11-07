@@ -15165,6 +15165,7 @@ mailer.sana38.com
 mailer.sanbornpost.com
 mailer.sandhillssda.org
 mailer.sanghaden.com
+mailer.sanghur.org
 mailer.sanjaro.com
 mailer.sanoshigeki.com
 mailer.santarosamainstreet.org
@@ -20695,6 +20696,7 @@ sana38.com
 sanbornpost.com
 sandhillssda.org
 sanghaden.com
+sanghur.org
 sanjaro.com
 sanoshigeki.com
 santarosamainstreet.org
