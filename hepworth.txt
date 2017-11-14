@@ -3733,6 +3733,7 @@ funnyrobotgames.com
 funragecomics.com
 funwards.com
 furnacehosting.com
+fusesbox.org
 fusionworksrp.org
 futchix.com
 futurecanvas.org
@@ -10037,6 +10038,7 @@ mailer.funnyrobotgames.com
 mailer.funragecomics.com
 mailer.funwards.com
 mailer.furnacehosting.com
+mailer.fusesbox.org
 mailer.fusionworksrp.org
 mailer.futchix.com
 mailer.futurecanvas.org
