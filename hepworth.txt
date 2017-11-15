@@ -14177,6 +14177,7 @@ mailer.palaneuryn.co.uk
 mailer.palaneuryo.co.uk
 mailer.palaneurys.co.uk
 mailer.palaneuryt.co.uk
+mailer.paleocooking.net
 mailer.paleopumpkin.com
 mailer.paleosmoke.com
 mailer.paleoway.net
@@ -19715,6 +19716,7 @@ palaneuryn.co.uk
 palaneuryo.co.uk
 palaneurys.co.uk
 palaneuryt.co.uk
+paleocooking.net
 paleopumpkin.com
 paleosmoke.com
 paleoway.net
