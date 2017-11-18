@@ -3017,6 +3017,7 @@ elysiancraft.com
 elysium-hosting.com
 email.exploreltd.com
 emailsignals.com
+emanio.net
 emarketplaza.co
 emarketscape.co
 emeabanker.com
@@ -9325,6 +9326,7 @@ mailer.elysiancraft.com
 mailer.elysium-hosting.com
 mailer.email.exploreltd.com
 mailer.emailsignals.com
+mailer.emanio.net
 mailer.emarketplaza.co
 mailer.emarketscape.co
 mailer.emeabanker.com
