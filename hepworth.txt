@@ -14424,6 +14424,7 @@ mailer.pingurl.net
 mailer.pininterior.com
 mailer.pink-wallpaper.com
 mailer.pinkhandprint.com
+mailer.pinksteel.org
 mailer.pinterestmanual.com
 mailer.pinterst.co
 mailer.pipelinebulletin.com
@@ -19970,6 +19971,7 @@ pingurl.net
 pininterior.com
 pink-wallpaper.com
 pinkhandprint.com
+pinksteel.org
 pinterestmanual.com
 pinterst.co
 pipelinebulletin.com
