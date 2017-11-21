@@ -1903,6 +1903,7 @@ checkthatview.com
 checkthispace.com
 cheeryhappy.com
 cheewon.com
+chelsearodriquez.com
 chempin.com
 cherryhintoninc.com
 cheshirepower.com
@@ -8215,6 +8216,7 @@ mailer.checkthatview.com
 mailer.checkthispace.com
 mailer.cheeryhappy.com
 mailer.cheewon.com
+mailer.chelsearodriquez.com
 mailer.chempin.com
 mailer.cherryhintoninc.com
 mailer.cheshirepower.com
