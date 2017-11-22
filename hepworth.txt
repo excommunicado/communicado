@@ -2391,6 +2391,7 @@ davidchristian.co
 davidmickeyevans.com
 davmarkendesign.com
 davoksystems.com
+dawsonthomas.net
 daydoin.net
 daydreamsenate.net
 dayflippa.com
@@ -8706,6 +8707,7 @@ mailer.davidchristian.co
 mailer.davidmickeyevans.com
 mailer.davmarkendesign.com
 mailer.davoksystems.com
+mailer.dawsonthomas.net
 mailer.daydoin.net
 mailer.daydreamsenate.net
 mailer.dayflippa.com
