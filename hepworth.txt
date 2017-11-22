@@ -1255,6 +1255,7 @@ blogpulse.co
 blossomextracts.org
 blowforge.com
 blowhart.com
+bluebulletmarketing.com
 bluejeansandrain.org
 bluestateobserver.com
 bluesubject.com
@@ -7568,6 +7569,7 @@ mailer.blogpulse.co
 mailer.blossomextracts.org
 mailer.blowforge.com
 mailer.blowhart.com
+mailer.bluebulletmarketing.com
 mailer.bluejeansandrain.org
 mailer.bluestateobserver.com
 mailer.bluesubject.com
