@@ -5473,6 +5473,7 @@ kalisangka.com
 kalobreime.co.uk
 kalodrauli.co.uk
 kalohuie.co.uk
+kalom.org
 kalombeie.co.uk
 kalopalorcse.co.uk
 kalopolpe.co.uk
@@ -11790,6 +11791,7 @@ mailer.kalisangka.com
 mailer.kalobreime.co.uk
 mailer.kalodrauli.co.uk
 mailer.kalohuie.co.uk
+mailer.kalom.org
 mailer.kalombeie.co.uk
 mailer.kalopalorcse.co.uk
 mailer.kalopolpe.co.uk
