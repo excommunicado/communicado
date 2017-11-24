@@ -14275,6 +14275,7 @@ mailer.passivequest.com
 mailer.passiveresistors.com
 mailer.pastacasserole.com
 mailer.patagonianmara.com
+mailer.patentdash.org
 mailer.patentiraj.com
 mailer.patentmakr.com
 mailer.patientsfinder.org
@@ -19823,6 +19824,7 @@ passivequest.com
 passiveresistors.com
 pastacasserole.com
 patagonianmara.com
+patentdash.org
 patentiraj.com
 patentmakr.com
 patientsfinder.org
