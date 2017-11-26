@@ -14737,6 +14737,7 @@ mailer.qiparius.com
 mailer.qippis.com
 mailer.qkandodhi.com
 mailer.qkstream.net
+mailer.qkstream.org
 mailer.qleort.com
 mailer.qmedie.com
 mailer.qnmmc.org
@@ -20289,6 +20290,7 @@ qiparius.com
 qippis.com
 qkandodhi.com
 qkstream.net
+qkstream.org
 qleort.com
 qmedie.com
 qnmmc.org
