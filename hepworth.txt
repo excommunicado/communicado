@@ -2399,6 +2399,7 @@ dawsonthomas.net
 daydoin.net
 daydreamsenate.net
 dayflippa.com
+dayonbay.org
 db-indus.co
 dbsrocks.com
 dcamconsortium.net
@@ -8723,6 +8724,7 @@ mailer.dawsonthomas.net
 mailer.daydoin.net
 mailer.daydreamsenate.net
 mailer.dayflippa.com
+mailer.dayonbay.org
 mailer.db-indus.co
 mailer.dbsrocks.com
 mailer.dcamconsortium.net
