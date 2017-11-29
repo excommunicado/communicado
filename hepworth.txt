@@ -2899,6 +2899,7 @@ easycapitals.com
 easycryptonet.com
 easyeshop.org
 easygosamples.com
+easyjays.com
 easytjet.com
 eatonolnse.co.uk
 eatonolte.co.uk
@@ -9225,6 +9226,7 @@ mailer.easycapitals.com
 mailer.easycryptonet.com
 mailer.easyeshop.org
 mailer.easygosamples.com
+mailer.easyjays.com
 mailer.easytjet.com
 mailer.eatonolnse.co.uk
 mailer.eatonolte.co.uk
