@@ -2217,6 +2217,7 @@ cryptowater.com
 csgolynx.com
 csgomental.com
 csgoswan.net
+csgotaurus.com
 csgshq.com
 cskmerania.org
 csper.org
@@ -8547,6 +8548,7 @@ mailer.cryptowater.com
 mailer.csgolynx.com
 mailer.csgomental.com
 mailer.csgoswan.net
+mailer.csgotaurus.com
 mailer.csgshq.com
 mailer.cskmerania.org
 mailer.csper.org
