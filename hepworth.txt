@@ -3300,6 +3300,7 @@ eyedrive.net
 eyezerk.com
 eyirisedbm.com
 ezgocash.com
+ezjays.net
 ezshipexpress.com
 f1rules.com
 f24h.com
@@ -9631,6 +9632,7 @@ mailer.eyedrive.net
 mailer.eyezerk.com
 mailer.eyirisedbm.com
 mailer.ezgocash.com
+mailer.ezjays.net
 mailer.ezshipexpress.com
 mailer.f1rules.com
 mailer.f24h.com
