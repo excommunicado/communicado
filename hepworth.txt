@@ -3301,6 +3301,7 @@ eyezerk.com
 eyirisedbm.com
 ezgocash.com
 ezjays.net
+ezjordans.com
 ezshipexpress.com
 f1rules.com
 f24h.com
@@ -9633,6 +9634,7 @@ mailer.eyezerk.com
 mailer.eyirisedbm.com
 mailer.ezgocash.com
 mailer.ezjays.net
+mailer.ezjordans.com
 mailer.ezshipexpress.com
 mailer.f1rules.com
 mailer.f24h.com
