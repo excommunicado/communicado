@@ -5500,6 +5500,7 @@ kanakareberyas.com
 kanangasal.co.uk
 kanefag.com
 kangdownload.com
+kanslor.net
 kanzhun.co
 kapaidolat.co.uk
 kapalongla.co.uk
@@ -11833,6 +11834,7 @@ mailer.kanakareberyas.com
 mailer.kanangasal.co.uk
 mailer.kanefag.com
 mailer.kangdownload.com
+mailer.kanslor.net
 mailer.kanzhun.co
 mailer.kapaidolat.co.uk
 mailer.kapalongla.co.uk
