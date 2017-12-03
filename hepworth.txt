@@ -2903,6 +2903,7 @@ easyeshop.org
 easygosamples.com
 easyjays.com
 easyjays.net
+easyjordans.com
 easytjet.com
 eatonolnse.co.uk
 eatonolte.co.uk
@@ -9237,6 +9238,7 @@ mailer.easyeshop.org
 mailer.easygosamples.com
 mailer.easyjays.com
 mailer.easyjays.net
+mailer.easyjordans.com
 mailer.easytjet.com
 mailer.eatonolnse.co.uk
 mailer.eatonolte.co.uk
