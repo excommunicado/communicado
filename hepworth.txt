@@ -4368,6 +4368,7 @@ hashdevelopers.net
 hashtasks.com
 hasimport.com
 haskforum.com
+hastaligi.net
 hastebound.com
 hatulot.com
 hausavoices.com
@@ -10712,6 +10713,7 @@ mailer.hashdevelopers.net
 mailer.hashtasks.com
 mailer.hasimport.com
 mailer.haskforum.com
+mailer.hastaligi.net
 mailer.hastebound.com
 mailer.hatulot.com
 mailer.hausavoices.com
