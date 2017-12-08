@@ -15773,6 +15773,7 @@ mailer.soclmarketing.net
 mailer.soclmarketing.org
 mailer.socobjects.org
 mailer.soconnngas.com
+mailer.sofort-abnehmen.net
 mailer.softadvisor.co
 mailer.softfbapps.com
 mailer.softnethouse.com
@@ -21330,6 +21331,7 @@ soclmarketing.net
 soclmarketing.org
 socobjects.org
 soconnngas.com
+sofort-abnehmen.net
 softadvisor.co
 softfbapps.com
 softnethouse.com
