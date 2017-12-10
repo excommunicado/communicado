@@ -15089,6 +15089,7 @@ mailer.revoco-groupe.com
 mailer.revoconsole.net
 mailer.revomoney.com
 mailer.rgbgaming.net
+mailer.rgbsapp.com
 mailer.rgteamspeak.co
 mailer.rhamsripa.com
 mailer.rhiwifi.co
@@ -20648,6 +20649,7 @@ revoco-groupe.com
 revoconsole.net
 revomoney.com
 rgbgaming.net
+rgbsapp.com
 rgteamspeak.co
 rhamsripa.com
 rhiwifi.co
