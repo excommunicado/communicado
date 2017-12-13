@@ -2219,6 +2219,7 @@ cryptocurrencymarkets.com
 cryptopaperwallets.com
 cryptosovereignty.net
 cryptowater.com
+csgobreaker.com
 csgolynx.com
 csgomental.com
 csgoswan.net
@@ -8567,6 +8568,7 @@ mailer.cryptocurrencymarkets.com
 mailer.cryptopaperwallets.com
 mailer.cryptosovereignty.net
 mailer.cryptowater.com
+mailer.csgobreaker.com
 mailer.csgolynx.com
 mailer.csgomental.com
 mailer.csgoswan.net
