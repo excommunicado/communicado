@@ -6327,6 +6327,7 @@ magalona.co.uk
 magalond.co.uk
 maganoylan.co.uk
 magaraotos.co.uk
+magazhine.com
 magazinedreamhome.com
 magdalenag.co.uk
 magdiwanga.co.uk
@@ -12679,6 +12680,7 @@ mailer.magalona.co.uk
 mailer.magalond.co.uk
 mailer.maganoylan.co.uk
 mailer.magaraotos.co.uk
+mailer.magazhine.com
 mailer.magazinedreamhome.com
 mailer.magdalenag.co.uk
 mailer.magdiwanga.co.uk
