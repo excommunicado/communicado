@@ -14286,6 +14286,7 @@ mailer.palwriter.com
 mailer.panamanianrestaurants.com
 mailer.panamaprivacy.com
 mailer.pancassociation.org
+mailer.panda-boo.com
 mailer.panelblazer.com
 mailer.panelpowersolar.com
 mailer.panelsetter.com
@@ -19852,6 +19853,7 @@ palwriter.com
 panamanianrestaurants.com
 panamaprivacy.com
 pancassociation.org
+panda-boo.com
 panelblazer.com
 panelpowersolar.com
 panelsetter.com
