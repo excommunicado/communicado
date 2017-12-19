@@ -14614,6 +14614,7 @@ mailer.powersportsclassifieds.com
 mailer.ppp-ads.net
 mailer.practicebytes.com
 mailer.pragersys.com
+mailer.pragmaticlab.net
 mailer.prajurit.org
 mailer.pre-paidfunerals.xyz
 mailer.preciosa.org
@@ -20182,6 +20183,7 @@ powersportsclassifieds.com
 ppp-ads.net
 practicebytes.com
 pragersys.com
+pragmaticlab.net
 prajurit.org
 pre-paidfunerals.xyz
 preciosa.org
