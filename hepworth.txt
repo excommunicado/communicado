@@ -2527,6 +2527,7 @@ desfocado.net
 design-maroc.com
 designalma.com
 designenterprises.co
+designexpressions.co
 designingworld.org
 deskfillers.com
 destinationselite.com
@@ -8885,6 +8886,7 @@ mailer.desfocado.net
 mailer.design-maroc.com
 mailer.designalma.com
 mailer.designenterprises.co
+mailer.designexpressions.co
 mailer.designingworld.org
 mailer.deskfillers.com
 mailer.destinationselite.com
