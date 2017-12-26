@@ -236,6 +236,7 @@ ajanle.com
 ajuynisa.co.uk
 akaneserver.net
 akapulco.net
+akdmarketing.com
 aklamasi.co
 aklanelda.co.uk
 akpodiete.net
@@ -6597,6 +6598,7 @@ mailer.ajanle.com
 mailer.ajuynisa.co.uk
 mailer.akaneserver.net
 mailer.akapulco.net
+mailer.akdmarketing.com
 mailer.aklamasi.co
 mailer.aklanelda.co.uk
 mailer.akpodiete.net
