@@ -13671,6 +13671,7 @@ mailer.nesscom.net
 mailer.netdirectories.net
 mailer.neto-craft.net
 mailer.netotradeoptions.com
+mailer.neturnko.com
 mailer.netutopiaforums.com
 mailer.netvergonhas.com
 mailer.neueebooks.com
@@ -19245,6 +19246,7 @@ nesscom.net
 netdirectories.net
 neto-craft.net
 netotradeoptions.com
+neturnko.com
 netutopiaforums.com
 netvergonhas.com
 neueebooks.com
