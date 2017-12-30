@@ -15131,6 +15131,7 @@ mailer.revobistro.com
 mailer.revoco-groupe.com
 mailer.revoconsole.net
 mailer.revomoney.com
+mailer.reydell.org
 mailer.rgbgaming.net
 mailer.rgbsapp.com
 mailer.rgteamspeak.co
@@ -20707,6 +20708,7 @@ revobistro.com
 revoco-groupe.com
 revoconsole.net
 revomoney.com
+reydell.org
 rgbgaming.net
 rgbsapp.com
 rgteamspeak.co
