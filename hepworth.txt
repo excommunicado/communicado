@@ -16257,6 +16257,7 @@ mailer.teespot.co
 mailer.teitter.co
 mailer.tekcampaign.com
 mailer.tekforums.org
+mailer.teknodib.net
 mailer.teknomode.com
 mailer.tekodeco.co
 mailer.teldem.com
@@ -21834,6 +21835,7 @@ teespot.co
 teitter.co
 tekcampaign.com
 tekforums.org
+teknodib.net
 teknomode.com
 tekodeco.co
 teldem.com
