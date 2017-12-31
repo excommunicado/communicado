@@ -1516,6 +1516,7 @@ buyplusvotes.com
 buysafeseafood.com
 buzzfed.co
 buzzfile.net
+buzzshade.com
 bvlog.net
 bvlog.org
 bvlogs.com
@@ -7881,6 +7882,7 @@ mailer.buyplusvotes.com
 mailer.buysafeseafood.com
 mailer.buzzfed.co
 mailer.buzzfile.net
+mailer.buzzshade.com
 mailer.bvlog.net
 mailer.bvlog.org
 mailer.bvlogs.com
