@@ -4698,6 +4698,7 @@ hurvynge.co.uk
 hutmail.org
 huxo.net
 hydronoy.com
+hyipads.net
 hyipdesigners.com
 hyipnesw.com
 hyperanime.com
@@ -11064,6 +11065,7 @@ mailer.hurvynge.co.uk
 mailer.hutmail.org
 mailer.huxo.net
 mailer.hydronoy.com
+mailer.hyipads.net
 mailer.hyipdesigners.com
 mailer.hyipnesw.com
 mailer.hyperanime.com
