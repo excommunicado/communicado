@@ -15836,6 +15836,7 @@ mailer.sohope.org
 mailer.solacesites.com
 mailer.solarchargercell.net
 mailer.solarpoweredgadgets.net
+mailer.solartic.net
 mailer.soldifacili.org
 mailer.solimitlessandfree.com
 mailer.solitairetime.net
@@ -21418,6 +21419,7 @@ sohope.org
 solacesites.com
 solarchargercell.net
 solarpoweredgadgets.net
+solartic.net
 soldifacili.org
 solimitlessandfree.com
 solitairetime.net
