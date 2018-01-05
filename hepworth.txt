@@ -2226,6 +2226,7 @@ cryptopaperwallets.com
 cryptosovereignty.net
 cryptowater.com
 csgobliss.com
+csgoboomerang.com
 csgobreaker.com
 csgolynx.com
 csgomental.com
@@ -8595,6 +8596,7 @@ mailer.cryptopaperwallets.com
 mailer.cryptosovereignty.net
 mailer.cryptowater.com
 mailer.csgobliss.com
+mailer.csgoboomerang.com
 mailer.csgobreaker.com
 mailer.csgolynx.com
 mailer.csgomental.com
