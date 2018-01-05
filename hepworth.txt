@@ -4329,6 +4329,7 @@ halchysti.co.uk
 halchysto.co.uk
 halchystu.co.uk
 halfahalo.com
+hallmarkinsurance.org
 hallowedones.com
 halobc.com
 halomaxresources.com
@@ -10699,6 +10700,7 @@ mailer.halchysti.co.uk
 mailer.halchysto.co.uk
 mailer.halchystu.co.uk
 mailer.halfahalo.com
+mailer.hallmarkinsurance.org
 mailer.hallowedones.com
 mailer.halobc.com
 mailer.halomaxresources.com
