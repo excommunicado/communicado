@@ -2527,6 +2527,7 @@ derohuie.co.uk
 derombeie.co.uk
 deropolpe.co.uk
 derprealm.com
+desertrestaurantmarketing.co
 desertrestaurantmarketing.org
 desfocado.net
 design-maroc.com
@@ -8899,6 +8900,7 @@ mailer.derohuie.co.uk
 mailer.derombeie.co.uk
 mailer.deropolpe.co.uk
 mailer.derprealm.com
+mailer.desertrestaurantmarketing.co
 mailer.desertrestaurantmarketing.org
 mailer.desfocado.net
 mailer.design-maroc.com
