@@ -17073,6 +17073,7 @@ mailer.usmsib.org
 mailer.usnewsmba.com
 mailer.utahguru.org
 mailer.utuzigooting.co.uk
+mailer.uw-medicine.org
 mailer.uwegrulich.com
 mailer.uwoadykes.com
 mailer.uxcity.co
@@ -22660,6 +22661,7 @@ usmsib.org
 usnewsmba.com
 utahguru.org
 utuzigooting.co.uk
+uw-medicine.org
 uwegrulich.com
 uwoadykes.com
 uxcity.co
