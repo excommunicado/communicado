@@ -5547,6 +5547,7 @@ kapatagana.co.uk
 kaphotoservice.com
 kaputianan.co.uk
 karenmillenn.com
+karingroup.org
 karlmarl.com
 karomatano.co.uk
 kartmeedia.com
@@ -11924,6 +11925,7 @@ mailer.kapatagana.co.uk
 mailer.kaphotoservice.com
 mailer.kaputianan.co.uk
 mailer.karenmillenn.com
+mailer.karingroup.org
 mailer.karlmarl.com
 mailer.karomatano.co.uk
 mailer.kartmeedia.com
