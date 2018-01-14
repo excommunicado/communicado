@@ -14916,6 +14916,7 @@ mailer.quarksandquasars.com
 mailer.quartzvault.com
 mailer.quechicle.co
 mailer.quick-profit.org
+mailer.quicklyvids.com
 mailer.quickmoneyblueprint.co
 mailer.quicksilversolutionsllc.com
 mailer.quickstory.net
@@ -20509,6 +20510,7 @@ quarksandquasars.com
 quartzvault.com
 quechicle.co
 quick-profit.org
+quicklyvids.com
 quickmoneyblueprint.co
 quicksilversolutionsllc.com
 quickstory.net
