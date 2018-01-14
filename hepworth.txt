@@ -2405,6 +2405,7 @@ databashed.com
 dataconductores.com
 dataentrymobile.com
 datato.me
+datepalmacademy.com
 datevault.org
 datiforex.net
 datunles.co.uk
@@ -8786,6 +8787,7 @@ mailer.databashed.com
 mailer.dataconductores.com
 mailer.dataentrymobile.com
 mailer.datato.me
+mailer.datepalmacademy.com
 mailer.datevault.org
 mailer.datiforex.net
 mailer.datunles.co.uk
