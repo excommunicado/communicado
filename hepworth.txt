@@ -4123,6 +4123,7 @@ goodwinginnifer.com
 googlytics.net
 goomelis.com
 goornot.co
+goprotravelmax.com
 goquanta.net
 gordonwallingnd.com
 gorefolte.co.uk
@@ -10508,6 +10509,7 @@ mailer.goodwinginnifer.com
 mailer.googlytics.net
 mailer.goomelis.com
 mailer.goornot.co
+mailer.goprotravelmax.com
 mailer.goquanta.net
 mailer.gordonwallingnd.com
 mailer.gorefolte.co.uk
