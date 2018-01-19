@@ -15668,6 +15668,7 @@ mailer.shoutphoto.com
 mailer.show-the-pic.com
 mailer.showchannels.net
 mailer.showhome.org
+mailer.showhomemagazine.com
 mailer.showroom500.com
 mailer.showtvseries.com
 mailer.showtvseries.net
@@ -21266,6 +21267,7 @@ shoutphoto.com
 show-the-pic.com
 showchannels.net
 showhome.org
+showhomemagazine.com
 showroom500.com
 showtvseries.com
 showtvseries.net
