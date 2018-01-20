@@ -15915,6 +15915,7 @@ mailer.southbyblaze.com
 mailer.soutocap.co.uk
 mailer.soutowse.co.uk
 mailer.soutoxwe.co.uk
+mailer.sovereignlandings.net
 mailer.sovordo.com
 mailer.soxa.net
 mailer.spaceboatmusic.com
@@ -21515,6 +21516,7 @@ southbyblaze.com
 soutocap.co.uk
 soutowse.co.uk
 soutoxwe.co.uk
+sovereignlandings.net
 sovordo.com
 soxa.net
 spaceboatmusic.com
