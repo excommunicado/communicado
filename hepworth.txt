@@ -735,6 +735,7 @@ awayimembers.org
 awdfoundation.org
 awesomefaucet.co
 awesomehdx.com
+awesomenewstoday.com
 awesomenotary.co
 awnatbjudo.com
 awswallpapers.co
@@ -7123,6 +7124,7 @@ mailer.awayimembers.org
 mailer.awdfoundation.org
 mailer.awesomefaucet.co
 mailer.awesomehdx.com
+mailer.awesomenewstoday.com
 mailer.awesomenotary.co
 mailer.awnatbjudo.com
 mailer.awswallpapers.co
