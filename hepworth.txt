@@ -5356,6 +5356,7 @@ jigsawpuzzlefun.com
 jimadosh.org
 jimalalu.co.uk
 jimenezo.co.uk
+jingshing.org
 jinosmedia.com
 jinrimei.net
 jipapada.co.uk
@@ -11747,6 +11748,7 @@ mailer.jigsawpuzzlefun.com
 mailer.jimadosh.org
 mailer.jimalalu.co.uk
 mailer.jimenezo.co.uk
+mailer.jingshing.org
 mailer.jinosmedia.com
 mailer.jinrimei.net
 mailer.jipapada.co.uk
