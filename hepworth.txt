@@ -15515,6 +15515,7 @@ mailer.sectorcreativity.com
 mailer.sectorsatovi.com
 mailer.sectortewracing.com
 mailer.securermoney.com
+mailer.secwire.net
 mailer.sedcamode.co.uk
 mailer.sedcamodra.co.uk
 mailer.sedcamods.co.uk
@@ -21117,6 +21118,7 @@ sectorcreativity.com
 sectorsatovi.com
 sectortewracing.com
 securermoney.com
+secwire.net
 sedcamode.co.uk
 sedcamodra.co.uk
 sedcamods.co.uk
