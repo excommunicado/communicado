@@ -14584,6 +14584,7 @@ mailer.php-school.net
 mailer.physical-action.com
 mailer.physicalgoldiras.org
 mailer.physioplatform.net
+mailer.physpec.com
 mailer.pianoclix.com
 mailer.pianowork.net
 mailer.piattaformeforex.net
@@ -20188,6 +20189,7 @@ php-school.net
 physical-action.com
 physicalgoldiras.org
 physioplatform.net
+physpec.com
 pianoclix.com
 pianowork.net
 piattaformeforex.net
