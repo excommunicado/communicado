@@ -14526,6 +14526,7 @@ mailer.perfecthomepictures.com
 mailer.perfectlittlegifts.com
 mailer.perfectnice.net
 mailer.perfectsunday.co
+mailer.periorates.com
 mailer.pernaguela.co.uk
 mailer.pernaguele.co.uk
 mailer.pernagueli.co.uk
@@ -20134,6 +20135,7 @@ perfecthomepictures.com
 perfectlittlegifts.com
 perfectnice.net
 perfectsunday.co
+periorates.com
 pernaguela.co.uk
 pernaguele.co.uk
 pernagueli.co.uk
