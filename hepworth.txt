@@ -14592,6 +14592,7 @@ mailer.physical-action.com
 mailer.physicalgoldiras.org
 mailer.physioplatform.net
 mailer.physpec.com
+mailer.physpec.org
 mailer.pianoclix.com
 mailer.pianowork.net
 mailer.piattaformeforex.net
@@ -20203,6 +20204,7 @@ physical-action.com
 physicalgoldiras.org
 physioplatform.net
 physpec.com
+physpec.org
 pianoclix.com
 pianowork.net
 piattaformeforex.net
