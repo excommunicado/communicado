@@ -4622,6 +4622,7 @@ hooksprava.org
 hoopswi.com
 hoppingtoken.com
 horderdisorder.com
+horitical.com
 hoshicon.org
 hospitalfaq.com
 hostcon.net
@@ -11020,6 +11021,7 @@ mailer.hooksprava.org
 mailer.hoopswi.com
 mailer.hoppingtoken.com
 mailer.horderdisorder.com
+mailer.horitical.com
 mailer.hoshicon.org
 mailer.hospitalfaq.com
 mailer.hostcon.net
