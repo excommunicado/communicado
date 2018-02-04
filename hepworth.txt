@@ -2238,6 +2238,7 @@ csgolynx.com
 csgomental.com
 csgoswan.net
 csgotaurus.com
+csgotigger.com
 csgshq.com
 cskmerania.org
 csper.org
@@ -8637,6 +8638,7 @@ mailer.csgolynx.com
 mailer.csgomental.com
 mailer.csgoswan.net
 mailer.csgotaurus.com
+mailer.csgotigger.com
 mailer.csgshq.com
 mailer.cskmerania.org
 mailer.csper.org
