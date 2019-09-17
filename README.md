@@ -1,7 +1,11 @@
 Introduction
 ============
 
-Communicado are a UK limited company (03709008) that routinely transmits a
+Please note this is of historical interest only.  Communicado Ltd. was dissolved
+in 2017 and many of the domains this database listed have since changed
+ownership to presumably legitimate operations.
+
+Communicado was a UK limited company (03709008) that routinely transmited a
 large amount of unsolicited commercial email.  We are collecting a list of all
 the domains and networks they send from so that mail administrators can easily
 block their emissions.
